@@ -1,0 +1,578 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/governodigital/pt-br",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "referencias",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/dados-abertos-governamentais",
+                        "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/referencias-e-modelos-de-implementacao",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-ufs",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/cadastro-base-do-cidadao-cbc",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/catalogo-de-bases-de-dados-1",
+                        "https://www.gov.br/pt-br/servicos/acessar-centro-pop-centro-de-referencia-especializado-para-populacao-em-situacao-de-rua",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/cadastro-base-de-endereco",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/sobre_catalogo-de-bases-de-dados",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-paises",
+                        "https://www.gov.br/governodigital/pt-br/contratacoes/orientacoes-para-novas-contratacoes-e-renovacoes-de-contratados-baseados-em-ust",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia",
+                        "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/recursos-de-acessibilidade",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/catalogo-de-bases-de-dados",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-estruturas-organizacionais",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/como-abrir-os-dados",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-municipios",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-servidores",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/infraestrutura-nacional-de-dados-abertos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/publique-dados",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/material-de-apoio"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                            "https://www.gov.br/governodigital/pt-br/noticias/pre-cadastro-para-o-programa-de-reforma-agraria-agora-e-digital-com-acesso-pela-conta-gov-1.br",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/governodigital/pt-br/sisp/secretaria-de-governo-digital-sgd",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                            "https://www.gov.br/governodigital/pt-br/noticias/pre-cadastro-para-o-programa-de-reforma-agraria-agora-e-digital-com-acesso-pela-conta-gov-1.br",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/governodigital/pt-br/sisp/secretaria-de-governo-digital-sgd",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade/imagens",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/framework-privacidade-e-seguranca-1",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/conecta-gov.br/termos-de-uso-e-de-politica-de-privacidade",
+                                "https://pesquisa.sisp.gov.br/index.php/759958?lang=pt-BR",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/modelo-de-acessibilidade",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/referencias-e-modelos-de-implementacao",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/orgaos-atividades-projetos",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/cadastro-base-do-cidadao-cbc",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/ferramentas",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/interoperabilidade",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/acessibilidade-digital-antiga",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "http://limesurvey.sgd.nuvem.gov.br/index.php/798411?lang=pt-BR",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/rede-nacional-de-governo-digital/mapa",
+                                "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                                "https://www.gov.br/governodigital/pt-br/noticias/decreto-estabelece-diretrizes-para-a-estrategia-nacional-de-governo-digital",
+                                "https://www.gov.br/governodigital/pt-br/atendimento-ao-cidadao-nos-estados",
+                                "https://www.gov.br/governodigital/pt-br/legislacao/legislacao-identificacao-nacional-civil",
+                                "https://www.gov.br/governodigital/pt-br/sisp/guia-do-gestor/Midia",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/material-de-apoio",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/governodigital/pt-br/legislacao/legislacao-governanca-de-dados-e-interoperabilidade",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/recursos-de-acessibilidade",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/eventos-e-premios",
+                                "https://www.gov.br/governodigital/pt-br/objetivos-de-desenvolvimento-sustentavel-ods",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/ferramentas/modelo-de-qualidade-dos-servicos-digitais",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/EGD2020/centrado-no-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/diagnostico-privacidade-lgpd",
+                                "https://www.gov.br/governodigital/pt-br/enfrentamento-a-covid-19",
+                                "https://pesquisa.sisp.gov.br/index.php/468289?lang=pt-BR",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade/documentos",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-servidores",
+                                "https://www.gov.br/governodigital/pt-br/noticias/brasil-e-reconhecido-como-segundo-lider-em-governo-digital-no-mundo",
+                                "https://www.gov.br/governodigital/pt-br/noticias/cidadaos-avaliam-qualidade-dos-servicos-publicos-digitais-do-gov.br",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/ferramentas/modelo-de-qualidade-dos-servicos-digitais/avaliacao-de-satisfacao-dos-usuarios"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                            "https://www.gov.br/governodigital/pt-br/noticias/pre-cadastro-para-o-programa-de-reforma-agraria-agora-e-digital-com-acesso-pela-conta-gov-1.br",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/governodigital/pt-br/sisp/secretaria-de-governo-digital-sgd",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "referencias",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/dados-abertos-governamentais",
+                        "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/referencias-e-modelos-de-implementacao",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-ufs",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/cadastro-base-do-cidadao-cbc",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/catalogo-de-bases-de-dados-1",
+                        "https://www.gov.br/pt-br/servicos/acessar-centro-pop-centro-de-referencia-especializado-para-populacao-em-situacao-de-rua",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/cadastro-base-de-endereco",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/sobre_catalogo-de-bases-de-dados",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-paises",
+                        "https://www.gov.br/governodigital/pt-br/contratacoes/orientacoes-para-novas-contratacoes-e-renovacoes-de-contratados-baseados-em-ust",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia",
+                        "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/recursos-de-acessibilidade",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/catalogo-de-bases-de-dados",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-estruturas-organizacionais",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/como-abrir-os-dados",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-municipios",
+                        "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-servidores",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/infraestrutura-nacional-de-dados-abertos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/publique-dados",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos/material-de-apoio"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                            "https://www.gov.br/governodigital/pt-br/noticias/pre-cadastro-para-o-programa-de-reforma-agraria-agora-e-digital-com-acesso-pela-conta-gov-1.br",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/governodigital/pt-br/sisp/secretaria-de-governo-digital-sgd",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade/imagens",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/framework-privacidade-e-seguranca-1",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/conecta-gov.br/termos-de-uso-e-de-politica-de-privacidade",
+                                "https://pesquisa.sisp.gov.br/index.php/759958?lang=pt-BR",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/modelo-de-acessibilidade",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/referencias-e-modelos-de-implementacao",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/orgaos-atividades-projetos",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/cadastro-base-do-cidadao-cbc",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/ferramentas",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/interoperabilidade",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/acessibilidade-digital-antiga",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "http://limesurvey.sgd.nuvem.gov.br/index.php/798411?lang=pt-BR",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/rede-nacional-de-governo-digital/mapa",
+                                "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                                "https://www.gov.br/governodigital/pt-br/noticias/decreto-estabelece-diretrizes-para-a-estrategia-nacional-de-governo-digital",
+                                "https://www.gov.br/governodigital/pt-br/atendimento-ao-cidadao-nos-estados",
+                                "https://www.gov.br/governodigital/pt-br/legislacao/legislacao-identificacao-nacional-civil",
+                                "https://www.gov.br/governodigital/pt-br/sisp/guia-do-gestor/Midia",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/material-de-apoio",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/governodigital/pt-br/legislacao/legislacao-governanca-de-dados-e-interoperabilidade",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/recursos-de-acessibilidade",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital/eventos-e-premios",
+                                "https://www.gov.br/governodigital/pt-br/objetivos-de-desenvolvimento-sustentavel-ods",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/ferramentas/modelo-de-qualidade-dos-servicos-digitais",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/EGD2020/centrado-no-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/diagnostico-privacidade-lgpd",
+                                "https://www.gov.br/governodigital/pt-br/enfrentamento-a-covid-19",
+                                "https://pesquisa.sisp.gov.br/index.php/468289?lang=pt-BR",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade/documentos",
+                                "https://www.gov.br/governodigital/pt-br/governanca-de-dados/registros-de-referencia/registro-de-referencia-de-servidores",
+                                "https://www.gov.br/governodigital/pt-br/noticias/brasil-e-reconhecido-como-segundo-lider-em-governo-digital-no-mundo",
+                                "https://www.gov.br/governodigital/pt-br/noticias/cidadaos-avaliam-qualidade-dos-servicos-publicos-digitais-do-gov.br",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/ferramentas/modelo-de-qualidade-dos-servicos-digitais/avaliacao-de-satisfacao-dos-usuarios"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                            "https://www.gov.br/governodigital/pt-br/noticias/pre-cadastro-para-o-programa-de-reforma-agraria-agora-e-digital-com-acesso-pela-conta-gov-1.br",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/governodigital/pt-br/sisp/secretaria-de-governo-digital-sgd",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/reportar-incidentes-problemas",
+                            "https://www.gov.br/governodigital/pt-br/noticias/pre-cadastro-para-o-programa-de-reforma-agraria-agora-e-digital-com-acesso-pela-conta-gov-1.br",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/governodigital/pt-br/sisp/secretaria-de-governo-digital-sgd",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

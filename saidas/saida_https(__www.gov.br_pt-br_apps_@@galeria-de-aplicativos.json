@@ -1,0 +1,599 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "referencia",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=180",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=270",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=120",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=150",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=90",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=60",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=180",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=270",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=120",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=150",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=90",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=60",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".dat"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.agendamento",
+                                "https://apps.apple.com/br/app/%C3%A1gua-e-esgotos/id1357265183",
+                                "https://apps.apple.com/us/app/anatel-servi%C3%A7o-m%C3%B3vel/id925083319?l=pt&ls=1",
+                                "https://play.google.com/store/apps/details?id=br.gov.caixa.bolsafamilia",
+                                "https://apps.apple.com/us/app/brt-espacial/id1571345762",
+                                "https://play.google.com/store/apps/details?id=br.gov.anatel.comparador&hl=pt_BR",
+                                "https://apps.apple.com/br/app/aneel-consumidor/id1376789654",
+                                "https://apps.apple.com/br/app/avan%C3%A7ar/id1304484133",
+                                "https://apps.apple.com/br/app/agendamento-rfb/id1546636348",
+                                "https://play.google.com/store/apps/details?id=br.gov.dnit.supra.atlas",
+                                "https://play.google.com/store/apps/details?id=br.gov.programaavancar",
+                                "https://play.google.com/store/apps/details?id=br.gov.inep.arcusul",
+                                "https://play.google.com/store/apps/details?id=br.com.anatel.consumidor",
+                                "https://play.google.com/store/apps/details?id=br.gov.ibama.portalautuado",
+                                "https://apps.apple.com/us/app/id1515377613",
+                                "https://apps.apple.com/br/app/bolsistas-capes/id1505617581",
+                                "https://play.google.com/store/apps/details?id=br.gov.aneel.ouvidoria",
+                                "https://apps.apple.com/br/app/bora-pol%C3%ADticas-p%C3%BAblicas/id1641557841",
+                                "https://play.google.com/store/apps/details?id=br.gov.ana.aguaesgotos",
+                                "https://play.google.com/store/apps/details?id=br.gov.mec.vlabAlquimico",
+                                "https://play.google.com/store/apps/details?id=br.gov.anp.anpep&hl=pt_BR",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico",
+                                "https://play.google.com/store/apps/details?id=br.gov.minfra.psp",
+                                "https://play.google.com/store/apps/details?id=br.gov.mec.vlabBRTEspacial",
+                                "https://apps.apple.com/br/app/caaml/id1594189665",
+                                "https://play.google.com/store/apps/details?id=com.antt.appcidadao",
+                                "https://apps.apple.com/us/app/ans-m%C3%B3vel/id1557761106",
+                                "https://play.google.com/store/apps/details?id=br.gov.capes.bolsista",
+                                "https://play.google.com/store/apps/details?id=br.com.app.gpu1869374.gpu9a8495739964e85478f491a64f66b2c5",
+                                "https://apps.apple.com/us/app/ajuda-auditor/id1485923138",
+                                "https://play.google.com/store/apps/details?id=br.gov.enap.bora",
+                                "https://play.google.com/store/apps/details?id=br.gov.ibama.aie",
+                                "https://apps.apple.com/br/app/app-unipampa/id1639927711",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://apps.apple.com/br/app/alqu%C3%ADmico/id1542985849",
+                                "https://apps.apple.com/br/app/avalia%C3%A7%C3%A3o-in-loco/id1446489521",
+                                "https://apps.apple.com/us/app/anatel-consumidor-mobile/id1493981927",
+                                "https://apps.apple.com/br/app/periodicos/id719655314",
+                                "https://play.google.com/store/apps/details?id=br.gov.mec.vlabAcumulus",
+                                "https://play.google.com/store/apps/details?id=br.gov.ans.dides.ansmobile",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://apps.apple.com/br/app/aux%C3%ADlio-brasil-govbr/id1036174679",
+                                "https://apps.apple.com/br/app/boletim-ao-mar/id1562769509",
+                                "https://play.google.com/store/apps/details?id=br.gov.beta.ajudaauditor",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://apps.apple.com/br/app/acumulus/id1589261977",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://play.google.com/store/apps/details?id=br.com.mais2x.anatelsm",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://play.google.com/store/apps/details?id=br.gov.capes.periodicos&hl=pt_BR",
+                                "https://apps.apple.com/us/app/id1494192378",
+                                "https://apps.apple.com/us/app/cadastro-%C3%BAnico/id1605659516",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://play.google.com/store/apps/details?id=boletim.ao.mar",
+                                "https://apps.apple.com/br/app/aglomera%C3%A7%C3%B5es/id1521720185",
+                                "https://play.google.com/store/apps/details?id=br.edu.unipampa.app",
+                                "https://play.google.com/store/apps/details?id=br.gov.ajudaauditor",
+                                "https://play.google.com/store/apps/details?id=br.gov.inep.emecinloco"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "linguagem",
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=180",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=270",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=120",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=150",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=90",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=60",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "referencia",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "linguagem",
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=180",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=270",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=120",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=150",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=90",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=60",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".dat"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.agendamento",
+                                "https://apps.apple.com/br/app/%C3%A1gua-e-esgotos/id1357265183",
+                                "https://apps.apple.com/us/app/anatel-servi%C3%A7o-m%C3%B3vel/id925083319?l=pt&ls=1",
+                                "https://play.google.com/store/apps/details?id=br.gov.caixa.bolsafamilia",
+                                "https://apps.apple.com/us/app/brt-espacial/id1571345762",
+                                "https://play.google.com/store/apps/details?id=br.gov.anatel.comparador&hl=pt_BR",
+                                "https://apps.apple.com/br/app/aneel-consumidor/id1376789654",
+                                "https://apps.apple.com/br/app/avan%C3%A7ar/id1304484133",
+                                "https://apps.apple.com/br/app/agendamento-rfb/id1546636348",
+                                "https://play.google.com/store/apps/details?id=br.gov.dnit.supra.atlas",
+                                "https://play.google.com/store/apps/details?id=br.gov.programaavancar",
+                                "https://play.google.com/store/apps/details?id=br.gov.inep.arcusul",
+                                "https://play.google.com/store/apps/details?id=br.com.anatel.consumidor",
+                                "https://play.google.com/store/apps/details?id=br.gov.ibama.portalautuado",
+                                "https://apps.apple.com/us/app/id1515377613",
+                                "https://apps.apple.com/br/app/bolsistas-capes/id1505617581",
+                                "https://play.google.com/store/apps/details?id=br.gov.aneel.ouvidoria",
+                                "https://apps.apple.com/br/app/bora-pol%C3%ADticas-p%C3%BAblicas/id1641557841",
+                                "https://play.google.com/store/apps/details?id=br.gov.ana.aguaesgotos",
+                                "https://play.google.com/store/apps/details?id=br.gov.mec.vlabAlquimico",
+                                "https://play.google.com/store/apps/details?id=br.gov.anp.anpep&hl=pt_BR",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico",
+                                "https://play.google.com/store/apps/details?id=br.gov.minfra.psp",
+                                "https://play.google.com/store/apps/details?id=br.gov.mec.vlabBRTEspacial",
+                                "https://apps.apple.com/br/app/caaml/id1594189665",
+                                "https://play.google.com/store/apps/details?id=com.antt.appcidadao",
+                                "https://apps.apple.com/us/app/ans-m%C3%B3vel/id1557761106",
+                                "https://play.google.com/store/apps/details?id=br.gov.capes.bolsista",
+                                "https://play.google.com/store/apps/details?id=br.com.app.gpu1869374.gpu9a8495739964e85478f491a64f66b2c5",
+                                "https://apps.apple.com/us/app/ajuda-auditor/id1485923138",
+                                "https://play.google.com/store/apps/details?id=br.gov.enap.bora",
+                                "https://play.google.com/store/apps/details?id=br.gov.ibama.aie",
+                                "https://apps.apple.com/br/app/app-unipampa/id1639927711",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://apps.apple.com/br/app/alqu%C3%ADmico/id1542985849",
+                                "https://apps.apple.com/br/app/avalia%C3%A7%C3%A3o-in-loco/id1446489521",
+                                "https://apps.apple.com/us/app/anatel-consumidor-mobile/id1493981927",
+                                "https://apps.apple.com/br/app/periodicos/id719655314",
+                                "https://play.google.com/store/apps/details?id=br.gov.mec.vlabAcumulus",
+                                "https://play.google.com/store/apps/details?id=br.gov.ans.dides.ansmobile",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://apps.apple.com/br/app/aux%C3%ADlio-brasil-govbr/id1036174679",
+                                "https://apps.apple.com/br/app/boletim-ao-mar/id1562769509",
+                                "https://play.google.com/store/apps/details?id=br.gov.beta.ajudaauditor",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://apps.apple.com/br/app/acumulus/id1589261977",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://play.google.com/store/apps/details?id=br.com.mais2x.anatelsm",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://play.google.com/store/apps/details?id=br.gov.capes.periodicos&hl=pt_BR",
+                                "https://apps.apple.com/us/app/id1494192378",
+                                "https://apps.apple.com/us/app/cadastro-%C3%BAnico/id1605659516",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://play.google.com/store/apps/details?id=boletim.ao.mar",
+                                "https://apps.apple.com/br/app/aglomera%C3%A7%C3%B5es/id1521720185",
+                                "https://play.google.com/store/apps/details?id=br.edu.unipampa.app",
+                                "https://play.google.com/store/apps/details?id=br.gov.ajudaauditor",
+                                "https://play.google.com/store/apps/details?id=br.gov.inep.emecinloco"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=180",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=270",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=120",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=150",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=90",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=60",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=180",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=270",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=120",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=150",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=90",
+                            "https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos?b_start:int=60",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

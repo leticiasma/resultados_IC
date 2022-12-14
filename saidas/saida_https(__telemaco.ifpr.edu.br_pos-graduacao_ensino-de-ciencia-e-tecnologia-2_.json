@@ -1,0 +1,462 @@
+{
+    "urlPaginaPrincipal": "https://telemaco.ifpr.edu.br/pos-graduacao/ensino-de-ciencia-e-tecnologia-2/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/modelos-de-tcc/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://telemaco.ifpr.edu.br/sistemas/simposio-sobre-diversidades/sobre/edicao-atual-inscricoes-3/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/normas-da-abnt/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/regulamento/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://reitoria.ifpr.edu.br/institucional/diretorias-sistemicas/dtic/sistemas/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/normas-de-apresentacao/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/portal-de-periodicos-da-capes/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/biblioteca-virtual-da-pearson/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-para-egressos/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/e-jiftb/",
+                            "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/editais-serac/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/encceja/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-aulas/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/atendimento/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/formatura-de-gabinete/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/certificados-e-diplomas-para-retirar/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-sobre-evasao/",
+                            "https://telemaco.ifpr.edu.br/menu-institucional/portarias/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-atendimento-ao-aluno/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-para-egressos/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/e-jiftb/",
+                            "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/editais-serac/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/encceja/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-aulas/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/atendimento/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/formatura-de-gabinete/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/certificados-e-diplomas-para-retirar/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-sobre-evasao/",
+                            "https://telemaco.ifpr.edu.br/menu-institucional/portarias/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-atendimento-ao-aluno/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://telemaco.ifpr.edu.br/menu-institucional/comissao-local-de-enfrentamento-ao-covid-19/",
+                                "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                                "https://telemaco.ifpr.edu.br/pos-graduacao/ensino-de-ciencia-e-tecnologia-2/questionario-investigativo-oferta-de-atividades-pedagogicas-nao-presenciais-eect-ifpr-tb-publico-alvo-discente-regularmente-matriculados/",
+                                "https://telemaco.ifpr.edu.br/sistemas/simposio-sobre-diversidades/sobre/edicao-atual-inscricoes-3/",
+                                "https://telemaco.ifpr.edu.br/pos-graduacao/ensino-de-ciencia-e-tecnologia-2/lista-de-interesse-para-candidatos-concorrerem-aos-editais-de-selecao-de-discentes-para-o-curso-de-pos-graduacao-em-ect/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://telemaco.ifpr.edu.br/verificar-autenticidade/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-para-egressos/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/e-jiftb/",
+                            "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/editais-serac/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/encceja/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-aulas/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/atendimento/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/formatura-de-gabinete/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/certificados-e-diplomas-para-retirar/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-sobre-evasao/",
+                            "https://telemaco.ifpr.edu.br/menu-institucional/portarias/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-atendimento-ao-aluno/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/modelos-de-tcc/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://telemaco.ifpr.edu.br/sistemas/simposio-sobre-diversidades/sobre/edicao-atual-inscricoes-3/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/normas-da-abnt/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/regulamento/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://reitoria.ifpr.edu.br/institucional/diretorias-sistemicas/dtic/sistemas/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/normas-de-apresentacao/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/portal-de-periodicos-da-capes/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/",
+                        "https://telemaco.ifpr.edu.br/servicos/biblioteca/biblioteca-virtual-da-pearson/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-para-egressos/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/e-jiftb/",
+                            "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/editais-serac/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/encceja/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-aulas/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/atendimento/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/formatura-de-gabinete/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/certificados-e-diplomas-para-retirar/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-sobre-evasao/",
+                            "https://telemaco.ifpr.edu.br/menu-institucional/portarias/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-atendimento-ao-aluno/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://telemaco.ifpr.edu.br/menu-institucional/comissao-local-de-enfrentamento-ao-covid-19/",
+                                "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                                "https://telemaco.ifpr.edu.br/pos-graduacao/ensino-de-ciencia-e-tecnologia-2/questionario-investigativo-oferta-de-atividades-pedagogicas-nao-presenciais-eect-ifpr-tb-publico-alvo-discente-regularmente-matriculados/",
+                                "https://telemaco.ifpr.edu.br/sistemas/simposio-sobre-diversidades/sobre/edicao-atual-inscricoes-3/",
+                                "https://telemaco.ifpr.edu.br/pos-graduacao/ensino-de-ciencia-e-tecnologia-2/lista-de-interesse-para-candidatos-concorrerem-aos-editais-de-selecao-de-discentes-para-o-curso-de-pos-graduacao-em-ect/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://telemaco.ifpr.edu.br/verificar-autenticidade/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-para-egressos/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/e-jiftb/",
+                            "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/editais-serac/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/encceja/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-aulas/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/atendimento/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/formatura-de-gabinete/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/certificados-e-diplomas-para-retirar/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-sobre-evasao/",
+                            "https://telemaco.ifpr.edu.br/menu-institucional/portarias/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-atendimento-ao-aluno/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-para-egressos/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/e-jiftb/",
+                            "https://telemaco.ifpr.edu.br/estudantes/tabela-horario-de-onibus/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/editais-serac/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/encceja/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-aulas/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/atendimento/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/formatura-de-gabinete/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/certificados-e-diplomas-para-retirar/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://telemaco.ifpr.edu.br/servicos/secretaria-academica/questionario-sobre-evasao/",
+                            "https://telemaco.ifpr.edu.br/menu-institucional/portarias/",
+                            "https://telemaco.ifpr.edu.br/estudantes/horario-de-atendimento-ao-aluno/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "urlPaginaPrincipal": "https://reitoria.ifpr.edu.br/trabalhe-no-ifpr/concursos-publicos/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "responsaveis",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1700789-Edital.pdf",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/plano-de-dados-abertos/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/bases-de-dados-abertos/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-10-2021-\u2013-Resultado-Edital-06-2021.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/servicos/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-6-2021-Convoca\u00e7\u00e3o-para-aferi\u00e7\u00e3o-de-cota-racial-Edital-15-2016.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/institucional/pro-reitorias/proens/diretorias/diretoria-de-articulacao-pedagogica-e-formacao-continuada/biblioteca/bibliotecas-do-ifpr/",
+                        "https://reitoria.ifpr.edu.br/institucional/pro-reitorias/proens/diretorias/diretoria-de-articulacao-pedagogica-e-formacao-continuada/biblioteca/normativas/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "integridade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "revisao",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "integridade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "revisao",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/horarios-de-atendimento/",
+                            "https://reitoria.ifpr.edu.br/gestao-e-administracao/documentos-e-publicacoes/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/horarios-de-atendimento/",
+                            "https://reitoria.ifpr.edu.br/gestao-e-administracao/documentos-e-publicacoes/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-10-2021-\u2013-Resultado-Edital-06-2021.pdf",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/editais/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/formularios-especificos/",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/concursos-publicos/",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=index",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servico-de-informacao-ao-cidadao/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/governanca-riscos-e-controles/mapeamento-de-processos/",
+                                "https://reitoria.ifpr.edu.br/servicos/revalidacao-de-diplomas/",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/",
+                                "https://reitoria.ifpr.edu.br/politica-de-privacidade/",
+                                "https://infoprojetos.com.br:8035/revistas/index.php/Cienciaminhapraia",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-terceirizados/",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/responsabilidades/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/governanca-riscos-e-controles/integridade/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/contato-3/",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-6-2021-Convoca\u00e7\u00e3o-para-aferi\u00e7\u00e3o-de-cota-racial-Edital-15-2016.pdf",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/revisao-e-consolidacao-dos-atos-normativos/exame-dos-atos-normativos/",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1170411&codigo_crc=25C6A9BF&hash_download=d67a861e95aef6b5f988b0fb4f307d80afbb749f547f650fe87f1239c603f6d5997ee64866524c76f861069d716748a45aad3cf1add65617ffbcd76316de6d37&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-em-exercicio/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/o-que-e-napne/",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/2016-2/",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1700789-Edital.pdf",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/responsaveis-pelo-napne-em-cada-campus-do-ifpr/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/lista-de-resultados-e-espera/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/revisao-e-consolidacao-dos-atos-normativos/atos-normativos-inferiores-a-decreto/",
+                                "/servidor/",
+                                "https://reitoria.ifpr.edu.br/inovacao/informacoes-sobre-inexigibilidade/",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/revisao-e-consolidacao-dos-atos-normativos/documentos/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/objetivo/",
+                                "https://infoprojetos.com.br:8035/revistas/index.php/Interlogos",
+                                "https://reitoria.ifpr.edu.br/institucional/orgaos-de-controle/ouvidoria/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/documentosdocumentos/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/horarios-de-atendimento/",
+                            "https://reitoria.ifpr.edu.br/gestao-e-administracao/documentos-e-publicacoes/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "responsaveis",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1700789-Edital.pdf",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/plano-de-dados-abertos/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/bases-de-dados-abertos/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-10-2021-\u2013-Resultado-Edital-06-2021.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/servicos/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-6-2021-Convoca\u00e7\u00e3o-para-aferi\u00e7\u00e3o-de-cota-racial-Edital-15-2016.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/institucional/pro-reitorias/proens/diretorias/diretoria-de-articulacao-pedagogica-e-formacao-continuada/biblioteca/bibliotecas-do-ifpr/",
+                        "https://reitoria.ifpr.edu.br/institucional/pro-reitorias/proens/diretorias/diretoria-de-articulacao-pedagogica-e-formacao-continuada/biblioteca/normativas/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "revisao",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/horarios-de-atendimento/",
+                            "https://reitoria.ifpr.edu.br/gestao-e-administracao/documentos-e-publicacoes/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-10-2021-\u2013-Resultado-Edital-06-2021.pdf",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/editais/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/formularios-especificos/",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/concursos-publicos/",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=index",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servico-de-informacao-ao-cidadao/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/governanca-riscos-e-controles/mapeamento-de-processos/",
+                                "https://reitoria.ifpr.edu.br/servicos/revalidacao-de-diplomas/",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/",
+                                "https://reitoria.ifpr.edu.br/politica-de-privacidade/",
+                                "https://infoprojetos.com.br:8035/revistas/index.php/Cienciaminhapraia",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-terceirizados/",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/responsabilidades/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/governanca-riscos-e-controles/integridade/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/contato-3/",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2021/03/Edital-6-2021-Convoca\u00e7\u00e3o-para-aferi\u00e7\u00e3o-de-cota-racial-Edital-15-2016.pdf",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/revisao-e-consolidacao-dos-atos-normativos/exame-dos-atos-normativos/",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1170411&codigo_crc=25C6A9BF&hash_download=d67a861e95aef6b5f988b0fb4f307d80afbb749f547f650fe87f1239c603f6d5997ee64866524c76f861069d716748a45aad3cf1add65617ffbcd76316de6d37&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-em-exercicio/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/o-que-e-napne/",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/2016-2/",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1700789-Edital.pdf",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/responsaveis-pelo-napne-em-cada-campus-do-ifpr/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/lista-de-resultados-e-espera/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/revisao-e-consolidacao-dos-atos-normativos/atos-normativos-inferiores-a-decreto/",
+                                "/servidor/",
+                                "https://reitoria.ifpr.edu.br/inovacao/informacoes-sobre-inexigibilidade/",
+                                "https://reitoria.ifpr.edu.br/gestao-e-administracao/revisao-e-consolidacao-dos-atos-normativos/documentos/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/objetivo/",
+                                "https://infoprojetos.com.br:8035/revistas/index.php/Interlogos",
+                                "https://reitoria.ifpr.edu.br/institucional/orgaos-de-controle/ouvidoria/",
+                                "https://reitoria.ifpr.edu.br/menu-academico/nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/documentosdocumentos/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/horarios-de-atendimento/",
+                            "https://reitoria.ifpr.edu.br/gestao-e-administracao/documentos-e-publicacoes/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/horarios-de-atendimento/",
+                            "https://reitoria.ifpr.edu.br/gestao-e-administracao/documentos-e-publicacoes/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "revisao",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

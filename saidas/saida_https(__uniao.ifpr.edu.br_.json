@@ -1,0 +1,476 @@
+{
+    "urlPaginaPrincipal": "https://uniao.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo",
+                        "temas",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/revista-mundi-ifpr/",
+                        "https://uniao.ifpr.edu.br/biblioteca-fara-emprestimo-de-livros-para-as-ferias/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/consulta/",
+                        "https://uniao.ifpr.edu.br/com-temas-diversificados-festival-pint-of-science-e-realizado-em-uniao-da-vitoria-e-porto-uniao/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/ficha-catalografica/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/biblioteca-digital/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/normas-de-apresentacao-de-trabalhos/",
+                        "https://uniao.ifpr.edu.br/tag/biblioteca/",
+                        "https://uniao.ifpr.edu.br/biblioteca-virtual-da-pearson/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/regulamento/",
+                        "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/renovacao-on-line/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2018-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://uniao.ifpr.edu.br/135-2/diretoria-de-planejamento-e-administracao/execucao-orcamentaria-e-financeira/",
+                            "https://uniao.ifpr.edu.br/horarios-de-atendimento-docentes/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2017-2/",
+                            "https://uniao.ifpr.edu.br/135-2/campus-uniao-da-vitoria/horario-de-funcionamento/",
+                            "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2020/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2016-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2021/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/",
+                            "https://uniao.ifpr.edu.br/135-2/portarias/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2022-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2018-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://uniao.ifpr.edu.br/135-2/diretoria-de-planejamento-e-administracao/execucao-orcamentaria-e-financeira/",
+                            "https://uniao.ifpr.edu.br/horarios-de-atendimento-docentes/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2017-2/",
+                            "https://uniao.ifpr.edu.br/135-2/campus-uniao-da-vitoria/horario-de-funcionamento/",
+                            "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2020/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2016-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2021/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/",
+                            "https://uniao.ifpr.edu.br/135-2/portarias/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2022-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://uniao.ifpr.edu.br/neabi-nucleo-de-estudos-afro-brasileiros-e-indigenas/",
+                                "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                                "https://uniao.ifpr.edu.br/palestra-de-acao-educacional-sobre-saude-e-sexualidade/",
+                                "https://uniao.ifpr.edu.br/legislacao-covid-19/",
+                                "https://uniao.ifpr.edu.br/135-2/pesquisa-e-extensao/pesquisas-na-midia/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2018-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://uniao.ifpr.edu.br/135-2/diretoria-de-planejamento-e-administracao/execucao-orcamentaria-e-financeira/",
+                            "https://uniao.ifpr.edu.br/horarios-de-atendimento-docentes/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2017-2/",
+                            "https://uniao.ifpr.edu.br/135-2/campus-uniao-da-vitoria/horario-de-funcionamento/",
+                            "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2020/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2016-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2021/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/",
+                            "https://uniao.ifpr.edu.br/135-2/portarias/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2022-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo",
+                        "temas",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/revista-mundi-ifpr/",
+                        "https://uniao.ifpr.edu.br/biblioteca-fara-emprestimo-de-livros-para-as-ferias/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/consulta/",
+                        "https://uniao.ifpr.edu.br/com-temas-diversificados-festival-pint-of-science-e-realizado-em-uniao-da-vitoria-e-porto-uniao/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/ficha-catalografica/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/biblioteca-digital/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/normas-de-apresentacao-de-trabalhos/",
+                        "https://uniao.ifpr.edu.br/tag/biblioteca/",
+                        "https://uniao.ifpr.edu.br/biblioteca-virtual-da-pearson/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/regulamento/",
+                        "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/",
+                        "https://uniao.ifpr.edu.br/135-2/biblioteca/renovacao-on-line/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2018-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://uniao.ifpr.edu.br/135-2/diretoria-de-planejamento-e-administracao/execucao-orcamentaria-e-financeira/",
+                            "https://uniao.ifpr.edu.br/horarios-de-atendimento-docentes/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2017-2/",
+                            "https://uniao.ifpr.edu.br/135-2/campus-uniao-da-vitoria/horario-de-funcionamento/",
+                            "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2020/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2016-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2021/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/",
+                            "https://uniao.ifpr.edu.br/135-2/portarias/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2022-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://uniao.ifpr.edu.br/neabi-nucleo-de-estudos-afro-brasileiros-e-indigenas/",
+                                "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                                "https://uniao.ifpr.edu.br/palestra-de-acao-educacional-sobre-saude-e-sexualidade/",
+                                "https://uniao.ifpr.edu.br/legislacao-covid-19/",
+                                "https://uniao.ifpr.edu.br/135-2/pesquisa-e-extensao/pesquisas-na-midia/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2018-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://uniao.ifpr.edu.br/135-2/diretoria-de-planejamento-e-administracao/execucao-orcamentaria-e-financeira/",
+                            "https://uniao.ifpr.edu.br/horarios-de-atendimento-docentes/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2017-2/",
+                            "https://uniao.ifpr.edu.br/135-2/campus-uniao-da-vitoria/horario-de-funcionamento/",
+                            "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2020/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2016-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2021/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/",
+                            "https://uniao.ifpr.edu.br/135-2/portarias/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2022-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2018-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://uniao.ifpr.edu.br/135-2/diretoria-de-planejamento-e-administracao/execucao-orcamentaria-e-financeira/",
+                            "https://uniao.ifpr.edu.br/horarios-de-atendimento-docentes/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2017-2/",
+                            "https://uniao.ifpr.edu.br/135-2/campus-uniao-da-vitoria/horario-de-funcionamento/",
+                            "https://uniao.ifpr.edu.br/publicada-portaria-que-estabelece-orientacoes-em-relacao-ao-expediente-nos-dias-de-jogos-da-selecao-brasileira-de-futebol-na-copa-do-mundo-fifa-2022/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2020/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/2019-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2016-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/horarios-2021/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/",
+                            "https://uniao.ifpr.edu.br/135-2/portarias/",
+                            "https://uniao.ifpr.edu.br/menu-academico/horario-das-aulas/2022-2/",
+                            "https://uniao.ifpr.edu.br/menu-academico/planilha-de-distribuicao-de-carga-horaria-docente/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

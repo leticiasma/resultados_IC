@@ -1,0 +1,355 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/@@multilingual-selector/3d53b927706743779ee4256ace0f664f/en?set_language=en",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": false,
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/en/services/listar_orgaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/en/services/services-by-target-audience",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_orgaos"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/en/services/listar_orgaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/en/services/services-by-target-audience",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_orgaos"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/en/did-you-know",
+                                "http://www.facebook.com/sharer.php?u=https://www.gov.br/en/did-you-know",
+                                "https://twitter.com/share?text=Did%20you%20know%3F&url=https://www.gov.br/resolveuid/eac77e42523d42bdb5d7bebc5ac01e2a",
+                                "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://twitter.com/share?text=FACT%20SHEETS&url=https://www.gov.br/resolveuid/f4f151fd514a441b93befa2036ebf752",
+                                "https://www.gov.br/en/sitemap",
+                                "https://twitter.com/share?text=Schedule%20of%20the%20main%20events%20of%20COP%2027&url=https://www.gov.br/resolveuid/3b5b2ebb3b20404881f7e680dc757eb5",
+                                "https://twitter.com/share?text=FACT%20OR%20FAKE&url=https://www.gov.br/resolveuid/8dbaa2af671e4aa5ae0377c9df9ad8b8",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/en/services/listar_orgaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/en/services/services-by-target-audience",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_orgaos"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/en/services/listar_orgaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/en/services/services-by-target-audience",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_orgaos"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/en/did-you-know",
+                                "http://www.facebook.com/sharer.php?u=https://www.gov.br/en/did-you-know",
+                                "https://twitter.com/share?text=Did%20you%20know%3F&url=https://www.gov.br/resolveuid/eac77e42523d42bdb5d7bebc5ac01e2a",
+                                "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://twitter.com/share?text=FACT%20SHEETS&url=https://www.gov.br/resolveuid/f4f151fd514a441b93befa2036ebf752",
+                                "https://www.gov.br/en/sitemap",
+                                "https://twitter.com/share?text=Schedule%20of%20the%20main%20events%20of%20COP%2027&url=https://www.gov.br/resolveuid/3b5b2ebb3b20404881f7e680dc757eb5",
+                                "https://twitter.com/share?text=FACT%20OR%20FAKE&url=https://www.gov.br/resolveuid/8dbaa2af671e4aa5ae0377c9df9ad8b8",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/en/services/listar_orgaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/en/services/services-by-target-audience",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_orgaos"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/en/services/listar_orgaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/en/services/services-by-target-audience",
+                            "https://www.gov.br/en/services/listar_servicos_segmento?segmento=publico_alvo_orgaos"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        }
+    }
+}
