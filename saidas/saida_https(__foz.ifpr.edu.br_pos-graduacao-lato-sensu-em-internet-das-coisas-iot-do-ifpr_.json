@@ -1,0 +1,432 @@
+{
+    "urlPaginaPrincipal": "https://foz.ifpr.edu.br/pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "criacao",
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://foz.ifpr.edu.br/wp-content/uploads/2021/08/PPC-IoT-Foz-do-Igua\u00e7u-v-4.0.pdf",
+                        "https://foz.ifpr.edu.br/servicos/biblioteca-2/biblioteca/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2020/08/protocolo-de-cuidados.pdf",
+                        "https://foz.ifpr.edu.br/servicos/biblioteca-2/consulta-ao-acervo/",
+                        "https://foz.ifpr.edu.br/wp-content/uploads/2020/02/Ramais-com-atribui%C3%A7%C3%B5es.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "iot.foz@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "iot.foz@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://foz.ifpr.edu.br/documentos-institucionais/portaria-do-campus/",
+                            "https://foz.ifpr.edu.br/horarios-2022/",
+                            "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                            "https://foz.ifpr.edu.br/horarios-2021/",
+                            "https://sites.google.com/view/secretaria-academica/in\u00edcio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://foz.ifpr.edu.br/documentos-institucionais/portaria-do-campus/",
+                            "https://foz.ifpr.edu.br/horarios-2022/",
+                            "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                            "https://foz.ifpr.edu.br/horarios-2021/",
+                            "https://sites.google.com/view/secretaria-academica/in\u00edcio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://foz.ifpr.edu.br/menu-institucional/acesso-a-informacao/servidores-2/",
+                                "https://foz.ifpr.edu.br/wp-content/uploads/2021/08/PPC-IoT-Foz-do-Igua\u00e7u-v-4.0.pdf",
+                                "https://foz.ifpr.edu.br/servidores/scppd/",
+                                "https://foz.ifpr.edu.br/servico-de-informacao-ao-cidadao/",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2020/08/protocolo-de-cuidados.pdf",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=index",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://foz.ifpr.edu.br/servidores/portal-sigepe/",
+                                "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                                "https://foz.ifpr.edu.br/wp-content/uploads/2020/02/Ramais-com-atribui%C3%A7%C3%B5es.pdf",
+                                "https://foz.ifpr.edu.br/menu-institucional/celif/idiomas-sem-fronteiras-isf/",
+                                "https://foz.ifpr.edu.br/livros-didaticos/",
+                                "https://infoprojetos.com.br:8035/revistas/index.php/Cienciaminhapraia",
+                                "https://foz.ifpr.edu.br/servidores/formularios-institucionais/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://foz.ifpr.edu.br/oportunidades/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://foz.ifpr.edu.br/documentos-institucionais/portaria-do-campus/",
+                            "https://foz.ifpr.edu.br/horarios-2022/",
+                            "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                            "https://foz.ifpr.edu.br/horarios-2021/",
+                            "https://sites.google.com/view/secretaria-academica/in\u00edcio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "criacao",
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://foz.ifpr.edu.br/wp-content/uploads/2021/08/PPC-IoT-Foz-do-Igua\u00e7u-v-4.0.pdf",
+                        "https://foz.ifpr.edu.br/servicos/biblioteca-2/biblioteca/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2020/08/protocolo-de-cuidados.pdf",
+                        "https://foz.ifpr.edu.br/servicos/biblioteca-2/consulta-ao-acervo/",
+                        "https://foz.ifpr.edu.br/wp-content/uploads/2020/02/Ramais-com-atribui%C3%A7%C3%B5es.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "iot.foz@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://foz.ifpr.edu.br/documentos-institucionais/portaria-do-campus/",
+                            "https://foz.ifpr.edu.br/horarios-2022/",
+                            "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                            "https://foz.ifpr.edu.br/horarios-2021/",
+                            "https://sites.google.com/view/secretaria-academica/in\u00edcio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://foz.ifpr.edu.br/menu-institucional/acesso-a-informacao/servidores-2/",
+                                "https://foz.ifpr.edu.br/wp-content/uploads/2021/08/PPC-IoT-Foz-do-Igua\u00e7u-v-4.0.pdf",
+                                "https://foz.ifpr.edu.br/servidores/scppd/",
+                                "https://foz.ifpr.edu.br/servico-de-informacao-ao-cidadao/",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2020/08/protocolo-de-cuidados.pdf",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=index",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://foz.ifpr.edu.br/servidores/portal-sigepe/",
+                                "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                                "https://foz.ifpr.edu.br/wp-content/uploads/2020/02/Ramais-com-atribui%C3%A7%C3%B5es.pdf",
+                                "https://foz.ifpr.edu.br/menu-institucional/celif/idiomas-sem-fronteiras-isf/",
+                                "https://foz.ifpr.edu.br/livros-didaticos/",
+                                "https://infoprojetos.com.br:8035/revistas/index.php/Cienciaminhapraia",
+                                "https://foz.ifpr.edu.br/servidores/formularios-institucionais/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://foz.ifpr.edu.br/oportunidades/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://foz.ifpr.edu.br/documentos-institucionais/portaria-do-campus/",
+                            "https://foz.ifpr.edu.br/horarios-2022/",
+                            "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                            "https://foz.ifpr.edu.br/horarios-2021/",
+                            "https://sites.google.com/view/secretaria-academica/in\u00edcio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://foz.ifpr.edu.br/documentos-institucionais/portaria-do-campus/",
+                            "https://foz.ifpr.edu.br/horarios-2022/",
+                            "https://foz.ifpr.edu.br/servidores/horario-de-trabalho-dos-servidores/",
+                            "https://foz.ifpr.edu.br/horarios-2021/",
+                            "https://sites.google.com/view/secretaria-academica/in\u00edcio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "iot.foz@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

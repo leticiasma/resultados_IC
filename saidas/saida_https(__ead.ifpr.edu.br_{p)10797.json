@@ -1,0 +1,396 @@
+{
+    "urlPaginaPrincipal": "https://ead.ifpr.edu.br/?p=10797",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://ead.ifpr.edu.br/?page_id=4595",
+                                "https://ead.ifpr.edu.br/?page_id=6153",
+                                "https://ead.ifpr.edu.br/?page_id=8774",
+                                "https://ead.ifpr.edu.br/?page_id=3943",
+                                "https://ead.ifpr.edu.br/?page_id=4007",
+                                "https://ead.ifpr.edu.br/?page_id=5888",
+                                "https://ead.ifpr.edu.br/?page_id=9162",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&title=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1316150&codigo_crc=CB2B2F17&hash_download=a453abebba011bb3ea68aa9bec3606acbafa5f6ee8b8143ca6c9a1eb16f8d249adbae73b5226cd6c509d81c4f3503edee1602b31e024e8c8547ad873073e8e9b&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://ead.ifpr.edu.br/?page_id=8944",
+                                "https://ead.ifpr.edu.br/?page_id=596",
+                                "https://ead.ifpr.edu.br/?page_id=7935",
+                                "https://ead.ifpr.edu.br/?page_id=1411",
+                                "https://survey.ps.ead.ifpr.edu.br/index.php/446588?lang=pt-BR",
+                                "https://ead.ifpr.edu.br/?page_id=4001",
+                                "https://ead.ifpr.edu.br/?page_id=7956",
+                                "https://ead.ifpr.edu.br/?page_id=2417",
+                                "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&media=https://ead.ifpr.edu.br/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-28-at-11.29.57.jpeg&description=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD",
+                                "https://ead.ifpr.edu.br/?page_id=1333",
+                                "https://ead.ifpr.edu.br/?page_id=10724",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://ead.ifpr.edu.br/?page_id=3171",
+                                "https://survey.ps.ead.ifpr.edu.br/index.php/422732?lang=pt-BR",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1313350&codigo_crc=BAB94CF3&hash_download=1a16d8400b2436b640d7682e640b7f0572b79c72bce3cb221f96853620f4c8354534211f18e934c3698eac004d0fb65e133e6a7d3a66dfaf42fe38219b19c852&visualizacao=1&id_orgao_acesso_externo=0https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1313350&codigo_crc=BAB94CF3&hash_download=1a16d8400b2436b640d7682e640b7f0572b79c72bce3cb221f96853620f4c8354534211f18e934c3698eac004d0fb65e133e6a7d3a66dfaf42fe38219b19c852&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://ead.ifpr.edu.br/?page_id=598",
+                                "https://ead.ifpr.edu.br/?page_id=7977",
+                                "https://ead.ifpr.edu.br/?page_id=7964",
+                                "https://ead.ifpr.edu.br/?page_id=4087",
+                                "https://ead.ifpr.edu.br/?page_id=4003",
+                                "https://ead.ifpr.edu.br/?page_id=7983",
+                                "https://ead.ifpr.edu.br/?page_id=6143",
+                                "https://ead.ifpr.edu.br/?page_id=4011",
+                                "https://ead.ifpr.edu.br/?page_id=601",
+                                "https://ead.ifpr.edu.br/?page_id=5902",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1313350&codigo_crc=BAB94CF3&hash_download=1a16d8400b2436b640d7682e640b7f0572b79c72bce3cb221f96853620f4c8354534211f18e934c3698eac004d0fb65e133e6a7d3a66dfaf42fe38219b19c852&visualizacao=1&id_orgao_acesso_externo=0",
+                                "whatsapp://send?text=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD\u00a0https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797",
+                                "https://bufferapp.com/add?url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&text=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD",
+                                "https://ead.ifpr.edu.br/?page_id=5257",
+                                "https://ead.ifpr.edu.br/?page_id=8605",
+                                "https://twitter.com/intent/tweet?text=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD&url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&via=Crunchify",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://ead.ifpr.edu.br/?page_id=7967"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": [],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://ead.ifpr.edu.br/?page_id=4595",
+                                "https://ead.ifpr.edu.br/?page_id=6153",
+                                "https://ead.ifpr.edu.br/?page_id=8774",
+                                "https://ead.ifpr.edu.br/?page_id=3943",
+                                "https://ead.ifpr.edu.br/?page_id=4007",
+                                "https://ead.ifpr.edu.br/?page_id=5888",
+                                "https://ead.ifpr.edu.br/?page_id=9162",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&title=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1316150&codigo_crc=CB2B2F17&hash_download=a453abebba011bb3ea68aa9bec3606acbafa5f6ee8b8143ca6c9a1eb16f8d249adbae73b5226cd6c509d81c4f3503edee1602b31e024e8c8547ad873073e8e9b&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://ead.ifpr.edu.br/?page_id=8944",
+                                "https://ead.ifpr.edu.br/?page_id=596",
+                                "https://ead.ifpr.edu.br/?page_id=7935",
+                                "https://ead.ifpr.edu.br/?page_id=1411",
+                                "https://survey.ps.ead.ifpr.edu.br/index.php/446588?lang=pt-BR",
+                                "https://ead.ifpr.edu.br/?page_id=4001",
+                                "https://ead.ifpr.edu.br/?page_id=7956",
+                                "https://ead.ifpr.edu.br/?page_id=2417",
+                                "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&media=https://ead.ifpr.edu.br/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-28-at-11.29.57.jpeg&description=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD",
+                                "https://ead.ifpr.edu.br/?page_id=1333",
+                                "https://ead.ifpr.edu.br/?page_id=10724",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://ead.ifpr.edu.br/?page_id=3171",
+                                "https://survey.ps.ead.ifpr.edu.br/index.php/422732?lang=pt-BR",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1313350&codigo_crc=BAB94CF3&hash_download=1a16d8400b2436b640d7682e640b7f0572b79c72bce3cb221f96853620f4c8354534211f18e934c3698eac004d0fb65e133e6a7d3a66dfaf42fe38219b19c852&visualizacao=1&id_orgao_acesso_externo=0https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1313350&codigo_crc=BAB94CF3&hash_download=1a16d8400b2436b640d7682e640b7f0572b79c72bce3cb221f96853620f4c8354534211f18e934c3698eac004d0fb65e133e6a7d3a66dfaf42fe38219b19c852&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://ead.ifpr.edu.br/?page_id=598",
+                                "https://ead.ifpr.edu.br/?page_id=7977",
+                                "https://ead.ifpr.edu.br/?page_id=7964",
+                                "https://ead.ifpr.edu.br/?page_id=4087",
+                                "https://ead.ifpr.edu.br/?page_id=4003",
+                                "https://ead.ifpr.edu.br/?page_id=7983",
+                                "https://ead.ifpr.edu.br/?page_id=6143",
+                                "https://ead.ifpr.edu.br/?page_id=4011",
+                                "https://ead.ifpr.edu.br/?page_id=601",
+                                "https://ead.ifpr.edu.br/?page_id=5902",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1313350&codigo_crc=BAB94CF3&hash_download=1a16d8400b2436b640d7682e640b7f0572b79c72bce3cb221f96853620f4c8354534211f18e934c3698eac004d0fb65e133e6a7d3a66dfaf42fe38219b19c852&visualizacao=1&id_orgao_acesso_externo=0",
+                                "whatsapp://send?text=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD\u00a0https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797",
+                                "https://bufferapp.com/add?url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&text=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD",
+                                "https://ead.ifpr.edu.br/?page_id=5257",
+                                "https://ead.ifpr.edu.br/?page_id=8605",
+                                "https://twitter.com/intent/tweet?text=Edital+seleciona+bolsistas+para+atua%C3%A7%C3%A3o+em+cursos+t%C3%A9cnicos+na+modalidade+EaD&url=https%3A%2F%2Fead.ifpr.edu.br%2F%3Fp%3D10797&via=Crunchify",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://ead.ifpr.edu.br/?page_id=7967"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

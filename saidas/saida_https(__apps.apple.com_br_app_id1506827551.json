@@ -1,0 +1,457 @@
+{
+    "urlPaginaPrincipal": "https://apps.apple.com/br/app/id1506827551",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "responsavel",
+                        "versao",
+                        "ultima atualizacao",
+                        "descricao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "ultima atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "informe",
+                        "entre"
+                    ],
+                    "emails": [
+                        "atendimentogovbr@economia.gov.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "informe",
+                        "entre"
+                    ],
+                    "emails": [
+                        "atendimentogovbr@economia.gov.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "ultima atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "ultima",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "ultima",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "id",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://apps.apple.com/story/id1538632801",
+                                "https://apps.apple.com/br/app/mei/id1040521803",
+                                "https://apps.apple.com/br/app/vio-qr-seguro/id1218953994",
+                                "https://apps.apple.com/br/app/conecte-sus/id1045754608",
+                                "https://apps.apple.com/br/app/resultados/id1136359313",
+                                "https://apps.apple.com/br/app/meu-inss-central-de-servi%C3%A7os/id1243048358",
+                                "https://apps.apple.com/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217",
+                                "https://apps.apple.com/br/app/poupatempo-digital/id1480051058",
+                                "https://apps.apple.com/br/app/sem-parar/id1440651231",
+                                "https://apps.apple.com/br/developer/servicos-e-informacoes-do-brasil/id1475781851",
+                                "https://apps.apple.com/br/charts/iphone/utilidades-apps/6002",
+                                "https://apps.apple.com/br/app/enem-inep/id1114622953",
+                                "https://apps.apple.com/br/app/gringo-multas-cnh-ipva-e/id1477985456",
+                                "https://apps.apple.com/br/app/e-t%C3%ADtulo/id1320338088",
+                                "https://itunes.apple.com/br/genre/id6002",
+                                "https://apps.apple.com/br/app/sine-facil/id1251035126",
+                                "https://www.apple.com/br/airpods/",
+                                "https://www.apple.com/br/sitemap/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "ultima",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "responsavel",
+                        "versao",
+                        "ultima atualizacao",
+                        "descricao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": [],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "informe",
+                        "entre"
+                    ],
+                    "emails": [
+                        "atendimentogovbr@economia.gov.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "ultima",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "id",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://apps.apple.com/story/id1538632801",
+                                "https://apps.apple.com/br/app/mei/id1040521803",
+                                "https://apps.apple.com/br/app/vio-qr-seguro/id1218953994",
+                                "https://apps.apple.com/br/app/conecte-sus/id1045754608",
+                                "https://apps.apple.com/br/app/resultados/id1136359313",
+                                "https://apps.apple.com/br/app/meu-inss-central-de-servi%C3%A7os/id1243048358",
+                                "https://apps.apple.com/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217",
+                                "https://apps.apple.com/br/app/poupatempo-digital/id1480051058",
+                                "https://apps.apple.com/br/app/sem-parar/id1440651231",
+                                "https://apps.apple.com/br/developer/servicos-e-informacoes-do-brasil/id1475781851",
+                                "https://apps.apple.com/br/charts/iphone/utilidades-apps/6002",
+                                "https://apps.apple.com/br/app/enem-inep/id1114622953",
+                                "https://apps.apple.com/br/app/gringo-multas-cnh-ipva-e/id1477985456",
+                                "https://apps.apple.com/br/app/e-t%C3%ADtulo/id1320338088",
+                                "https://itunes.apple.com/br/genre/id6002",
+                                "https://apps.apple.com/br/app/sine-facil/id1251035126",
+                                "https://www.apple.com/br/airpods/",
+                                "https://www.apple.com/br/sitemap/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "ultima",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "ultima atualizacao",
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "ultima",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "informe",
+                        "entre"
+                    ],
+                    "emails": [
+                        "atendimentogovbr@economia.gov.br"
+                    ]
+                }
+            }
+        }
+    }
+}

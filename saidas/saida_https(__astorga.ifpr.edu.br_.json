@@ -1,0 +1,472 @@
+{
+    "urlPaginaPrincipal": "https://astorga.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/tecnico-em-desenvolvimento-de-sistemas-tads/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/programador-de-sistemas-fic/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "fale"
+                    ],
+                    "emails": [
+                        "secretaria.astorga@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "fale"
+                    ],
+                    "emails": [
+                        "secretaria.astorga@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                            "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                            "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/servidores/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/cuidador-de-idoso-e-formacao-para-o-autocuidado-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos-internacionais/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/massagista-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/cuidador-de-idoso/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/17/projeto-arte-e-cultura-diversidade-promoveu-a-pintura-mural-na-sala-de-musica-do-ifpr-astorga/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/contador-de-historias/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/23/aberto-o-processo-seletivo-simplificado-para-ingresso-de-estudantes-nos-cursos-tecnicos-de-nivel-medio-por-transferencia-interna-e-externa-campus-avancado-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/regulamento-disciplinar-do-corpo-discente/",
+                                "https://astorga.ifpr.edu.br/index.php/gestao-e-administracao/secao-administrativa/",
+                                "https://astorga.ifpr.edu.br/index.php/processos-seletivos-2022-para-estudar-nos-cursos-ficdo-ifpr-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/celif-centro-de-linguas/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/comissao-propria-de-avaliacao-cpa/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/concursos-e-processos-seletivos/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/calendario-academico/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos-do-campus/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/sarau/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos-externos/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/06/docente-do-ifpr-astorga-participara-de-evento-internacional-sobre-logica-contemporanea/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/tinfem/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/08/grupo-de-estudo-descoberta-de-conhecimento-promove-palestra-com-o-professor-ms-jader-teles-cordeiro/",
+                                "https://astorga.ifpr.edu.br/index.php/producoes-do-campus-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/matematica-basica-e-comercial/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/cope-comite-de-pesquisa-e-extensao/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/assistente-administrativo/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/programador-de-sistemas-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/guia-de-organizacao-discente/",
+                                "https://astorga.ifpr.edu.br/index.php/tecnicos-integrados/",
+                                "https://astorga.ifpr.edu.br/index.php/afastamento-integral/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/tecnico-em-desenvolvimento-de-sistemas-tads/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/o-instituto/missao-e-valores/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/secao-de-ensino/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/editais/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/pesquisa-extensao-e-inovacao/",
+                                "https://astorga.ifpr.edu.br/index.php/formacao-inicial-e-continuada-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/encceja/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/sigaa-portal-do-estudante/",
+                                "https://astorga.ifpr.edu.br/index.php/processos-seletivos-2022-2023-para-cursos-regulares-do-ifpr-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/18/participe-do-iii-sarau-cultural-do-ifpr-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/29/grupo-de-estudo-descoberta-de-conhecimento-promove-palestra-com-o-professor-ms-pietro-martins-de-oliveira/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/ingles-instrumental-fic/",
+                                "https://reitoria.ifpr.edu.br/ifpr-contra-covid-19/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/eventos/",
+                                "https://astorga.ifpr.edu.br/index.php/processos-eleitorais/",
+                                "https://astorga.ifpr.edu.br/index.php/reitoria/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/07/projeto-de-leitura-do-campus-astorga-realiza-a-gincana-resolva-um-enigma-e-encontre-um-livro/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/pos-graduacoes/especializacao-em-docencia-para-a-educacao-basica/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/balconista-de-farmacia-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/pos-graduacoes/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/24/estudantes-do-curso-fic-cuidador-de-idoso-realizam-visita-ao-centro-de-convivencia-do-idoso-em-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/tecnicos-subsequentes/",
+                                "https://astorga.ifpr.edu.br/index.php/educacao-a-distancia/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                            "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/tecnico-em-desenvolvimento-de-sistemas-tads/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/programador-de-sistemas-fic/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "fale"
+                    ],
+                    "emails": [
+                        "secretaria.astorga@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                            "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/servidores/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/cuidador-de-idoso-e-formacao-para-o-autocuidado-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos-internacionais/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/massagista-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/cuidador-de-idoso/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/17/projeto-arte-e-cultura-diversidade-promoveu-a-pintura-mural-na-sala-de-musica-do-ifpr-astorga/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/contador-de-historias/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/23/aberto-o-processo-seletivo-simplificado-para-ingresso-de-estudantes-nos-cursos-tecnicos-de-nivel-medio-por-transferencia-interna-e-externa-campus-avancado-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/regulamento-disciplinar-do-corpo-discente/",
+                                "https://astorga.ifpr.edu.br/index.php/gestao-e-administracao/secao-administrativa/",
+                                "https://astorga.ifpr.edu.br/index.php/processos-seletivos-2022-para-estudar-nos-cursos-ficdo-ifpr-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/celif-centro-de-linguas/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/comissao-propria-de-avaliacao-cpa/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/concursos-e-processos-seletivos/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/calendario-academico/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos-do-campus/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/sarau/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos-externos/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/06/docente-do-ifpr-astorga-participara-de-evento-internacional-sobre-logica-contemporanea/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/tinfem/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/12/08/grupo-de-estudo-descoberta-de-conhecimento-promove-palestra-com-o-professor-ms-jader-teles-cordeiro/",
+                                "https://astorga.ifpr.edu.br/index.php/producoes-do-campus-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/matematica-basica-e-comercial/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/cope-comite-de-pesquisa-e-extensao/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/assistente-administrativo/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/programador-de-sistemas-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/guia-de-organizacao-discente/",
+                                "https://astorga.ifpr.edu.br/index.php/tecnicos-integrados/",
+                                "https://astorga.ifpr.edu.br/index.php/afastamento-integral/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/tecnico-em-desenvolvimento-de-sistemas-tads/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/o-instituto/missao-e-valores/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/secao-de-ensino/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/editais/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/pesquisa-extensao-e-inovacao/",
+                                "https://astorga.ifpr.edu.br/index.php/formacao-inicial-e-continuada-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/encceja/",
+                                "https://astorga.ifpr.edu.br/index.php/estudantes/sigaa-portal-do-estudante/",
+                                "https://astorga.ifpr.edu.br/index.php/processos-seletivos-2022-2023-para-cursos-regulares-do-ifpr-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/18/participe-do-iii-sarau-cultural-do-ifpr-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/tag/eventos/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/29/grupo-de-estudo-descoberta-de-conhecimento-promove-palestra-com-o-professor-ms-pietro-martins-de-oliveira/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/ingles-instrumental-fic/",
+                                "https://reitoria.ifpr.edu.br/ifpr-contra-covid-19/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/eventos/",
+                                "https://astorga.ifpr.edu.br/index.php/processos-eleitorais/",
+                                "https://astorga.ifpr.edu.br/index.php/reitoria/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/07/projeto-de-leitura-do-campus-astorga-realiza-a-gincana-resolva-um-enigma-e-encontre-um-livro/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/pos-graduacoes/especializacao-em-docencia-para-a-educacao-basica/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/balconista-de-farmacia-fic/",
+                                "https://astorga.ifpr.edu.br/index.php/menu-principal/nossos-cursos/pos-graduacoes/",
+                                "https://astorga.ifpr.edu.br/index.php/2022/11/24/estudantes-do-curso-fic-cuidador-de-idoso-realizam-visita-ao-centro-de-convivencia-do-idoso-em-astorga/",
+                                "https://astorga.ifpr.edu.br/index.php/tecnicos-subsequentes/",
+                                "https://astorga.ifpr.edu.br/index.php/educacao-a-distancia/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                            "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://astorga.ifpr.edu.br/index.php/2022/11/08/curso-cuidador-de-idoso-do-ifpr-astorga-realiza-o-dia-da-promocao-a-saude-e-bem-estar/",
+                            "https://astorga.ifpr.edu.br/index.php/2022/12/07/ifpr-astorga-realiza-iii-sarau-cultural-antropofagia-da-arte-vamos-devorar-todas-as-artes/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/portarias/",
+                            "https://astorga.ifpr.edu.br/index.php/menu-principal/horariosetransparencia/planos-de-trabalho-docente-ptd/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "fale"
+                    ],
+                    "emails": [
+                        "secretaria.astorga@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

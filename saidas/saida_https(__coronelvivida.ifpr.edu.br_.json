@@ -1,0 +1,482 @@
+{
+    "urlPaginaPrincipal": "https://coronelvivida.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/institucional/diretorias-sistemicas/dtic/sistemas/",
+                        "https://coronelvivida.ifpr.edu.br/centro-de-referencias-de-pato-branco/",
+                        "https://coronelvivida.ifpr.edu.br/academico/biblioteca/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "revisao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "revisao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                            "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                            "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://coronelvivida.ifpr.edu.br/tecnicos-subsequentes/",
+                                "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://coronelvivida.ifpr.edu.br/sepei/contato/",
+                                "https://coronelvivida.ifpr.edu.br/2022/12/",
+                                "https://coronelvivida.ifpr.edu.br/assistencia-estudantil/",
+                                "https://coronelvivida.ifpr.edu.br/2022/12/06/atleta-de-coronel-vivida-e-vice-campea-nacional-nos-jogos-das-instituicoes-federais/",
+                                "https://coronelvivida.ifpr.edu.br/centro-de-referencias-de-pato-branco/",
+                                "https://coronelvivida.ifpr.edu.br/tag/jifs/",
+                                "https://coronelvivida.ifpr.edu.br/2022/10/25/ifpr-campus-coronel-vivida-conhece-os-vencedores-da-iftech-2022/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/17/curso-de-portugues-e-cultura-brasileira-para-estrangeiros-realizado-pelo-ifpr-campus-coronel-vivida-tem-reconhecimento-nacional/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/01/monstros-e-assombracoes-tomaram-conta-do-campus/",
+                                "https://coronelvivida.ifpr.edu.br/academico/regulamento-discente/",
+                                "https://coronelvivida.ifpr.edu.br/academico/biblioteca/",
+                                "https://coronelvivida.ifpr.edu.br/ead/",
+                                "https://coronelvivida.ifpr.edu.br/sepei/",
+                                "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                                "https://coronelvivida.ifpr.edu.br/iftech-2020/",
+                                "https://coronelvivida.ifpr.edu.br/academico/calendario-academico/",
+                                "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/10/ifpr-de-coronel-vivida-promove-super-revisao-de-portugues-e-matematica-para-o-enem/",
+                                "https://coronelvivida.ifpr.edu.br/compras/",
+                                "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                                "https://coronelvivida.ifpr.edu.br/fic-formacao-inicial-continuada/",
+                                "https://coronelvivida.ifpr.edu.br/napne/",
+                                "https://coronelvivida.ifpr.edu.br/tecnologia-da-informacao/",
+                                "https://coronelvivida.ifpr.edu.br/fale-conosco/",
+                                "https://coronelvivida.ifpr.edu.br/neabi/",
+                                "https://coronelvivida.ifpr.edu.br/conheca-os-campi/",
+                                "https://coronelvivida.ifpr.edu.br/2022/10/25/palestra-de-abertura-do-vii-sepei-abordou-a-conexao-entre-as-diferentes-formas-do-saber/",
+                                "https://coronelvivida.ifpr.edu.br/inscricoes/",
+                                "https://coronelvivida.ifpr.edu.br/nedih/",
+                                "https://coronelvivida.ifpr.edu.br/iftech-2022/",
+                                "https://coronelvivida.ifpr.edu.br/servidores/quem-e-quem/",
+                                "https://coronelvivida.ifpr.edu.br/institucional/missao-e-valores/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/01/vai-participar-do-processo-seletivo-do-ifpr-no-proximo-domingo/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://coronelvivida.ifpr.edu.br/programacao-2022/",
+                                "https://www.instagram.com/ifpr.coronelvivida",
+                                "https://coronelvivida.ifpr.edu.br/tecnicos-integrados/",
+                                "https://coronelvivida.ifpr.edu.br/secao-administrativa/",
+                                "https://coronelvivida.ifpr.edu.br/iftech-2021/",
+                                "https://coronelvivida.ifpr.edu.br/documentos-institucionais/",
+                                "https://coronelvivida.ifpr.edu.br",
+                                "https://coronelvivida.ifpr.edu.br/projetos-de-ensino/",
+                                "https://coronelvivida.ifpr.edu.br/pos-graduacao-especializacao/",
+                                "https://coronelvivida.ifpr.edu.br/nossos-cursos/",
+                                "https://coronelvivida.ifpr.edu.br/carteirinha-estudantil/",
+                                "https://coronelvivida.ifpr.edu.br/normas-de-publicacao/",
+                                "https://coronelvivida.ifpr.edu.br/tag/ensino/",
+                                "https://coronelvivida.ifpr.edu.br/institucional/reitoria/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/16/edital-de-transferencia-interna-e-externa/",
+                                "https://coronelvivida.ifpr.edu.br/tag/visita-tecnica/",
+                                "https://www.facebook.com/ifprcampuscoronelvivida",
+                                "https://coronelvivida.ifpr.edu.br/documentos-institucionais/documentos-institucionais-ensino/projeto-politico-pedagogico/",
+                                "https://coronelvivida.ifpr.edu.br/academico/celif-centro-de-linguas-ifpr/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/30/estudantes-de-coronel-vivida-representam-o-parana-nos-jogos-nacionais-dos-institutos-federais/",
+                                "https://coronelvivida.ifpr.edu.br/tag/transferencia/",
+                                "https://coronelvivida.ifpr.edu.br/tag/fic/",
+                                "https://coronelvivida.ifpr.edu.br/vii-sepei-2022/",
+                                "https://coronelvivida.ifpr.edu.br/documentos-institucionais/editais/",
+                                "https://coronelvivida.ifpr.edu.br/institucional/campus-coronel-vivida/",
+                                "https://coronelvivida.ifpr.edu.br/nit/",
+                                "https://coronelvivida.ifpr.edu.br/nac/",
+                                "https://coronelvivida.ifpr.edu.br/superiores/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/30/alunos-do-1o-ano-tem-dia-especial-no-recanto-das-cachoeiras/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                            "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/institucional/diretorias-sistemicas/dtic/sistemas/",
+                        "https://coronelvivida.ifpr.edu.br/centro-de-referencias-de-pato-branco/",
+                        "https://coronelvivida.ifpr.edu.br/academico/biblioteca/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "revisao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                            "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://coronelvivida.ifpr.edu.br/tecnicos-subsequentes/",
+                                "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://coronelvivida.ifpr.edu.br/sepei/contato/",
+                                "https://coronelvivida.ifpr.edu.br/2022/12/",
+                                "https://coronelvivida.ifpr.edu.br/assistencia-estudantil/",
+                                "https://coronelvivida.ifpr.edu.br/2022/12/06/atleta-de-coronel-vivida-e-vice-campea-nacional-nos-jogos-das-instituicoes-federais/",
+                                "https://coronelvivida.ifpr.edu.br/centro-de-referencias-de-pato-branco/",
+                                "https://coronelvivida.ifpr.edu.br/tag/jifs/",
+                                "https://coronelvivida.ifpr.edu.br/2022/10/25/ifpr-campus-coronel-vivida-conhece-os-vencedores-da-iftech-2022/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/17/curso-de-portugues-e-cultura-brasileira-para-estrangeiros-realizado-pelo-ifpr-campus-coronel-vivida-tem-reconhecimento-nacional/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/01/monstros-e-assombracoes-tomaram-conta-do-campus/",
+                                "https://coronelvivida.ifpr.edu.br/academico/regulamento-discente/",
+                                "https://coronelvivida.ifpr.edu.br/academico/biblioteca/",
+                                "https://coronelvivida.ifpr.edu.br/ead/",
+                                "https://coronelvivida.ifpr.edu.br/sepei/",
+                                "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                                "https://coronelvivida.ifpr.edu.br/iftech-2020/",
+                                "https://coronelvivida.ifpr.edu.br/academico/calendario-academico/",
+                                "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/10/ifpr-de-coronel-vivida-promove-super-revisao-de-portugues-e-matematica-para-o-enem/",
+                                "https://coronelvivida.ifpr.edu.br/compras/",
+                                "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                                "https://coronelvivida.ifpr.edu.br/fic-formacao-inicial-continuada/",
+                                "https://coronelvivida.ifpr.edu.br/napne/",
+                                "https://coronelvivida.ifpr.edu.br/tecnologia-da-informacao/",
+                                "https://coronelvivida.ifpr.edu.br/fale-conosco/",
+                                "https://coronelvivida.ifpr.edu.br/neabi/",
+                                "https://coronelvivida.ifpr.edu.br/conheca-os-campi/",
+                                "https://coronelvivida.ifpr.edu.br/2022/10/25/palestra-de-abertura-do-vii-sepei-abordou-a-conexao-entre-as-diferentes-formas-do-saber/",
+                                "https://coronelvivida.ifpr.edu.br/inscricoes/",
+                                "https://coronelvivida.ifpr.edu.br/nedih/",
+                                "https://coronelvivida.ifpr.edu.br/iftech-2022/",
+                                "https://coronelvivida.ifpr.edu.br/servidores/quem-e-quem/",
+                                "https://coronelvivida.ifpr.edu.br/institucional/missao-e-valores/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/01/vai-participar-do-processo-seletivo-do-ifpr-no-proximo-domingo/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://coronelvivida.ifpr.edu.br/programacao-2022/",
+                                "https://www.instagram.com/ifpr.coronelvivida",
+                                "https://coronelvivida.ifpr.edu.br/tecnicos-integrados/",
+                                "https://coronelvivida.ifpr.edu.br/secao-administrativa/",
+                                "https://coronelvivida.ifpr.edu.br/iftech-2021/",
+                                "https://coronelvivida.ifpr.edu.br/documentos-institucionais/",
+                                "https://coronelvivida.ifpr.edu.br",
+                                "https://coronelvivida.ifpr.edu.br/projetos-de-ensino/",
+                                "https://coronelvivida.ifpr.edu.br/pos-graduacao-especializacao/",
+                                "https://coronelvivida.ifpr.edu.br/nossos-cursos/",
+                                "https://coronelvivida.ifpr.edu.br/carteirinha-estudantil/",
+                                "https://coronelvivida.ifpr.edu.br/normas-de-publicacao/",
+                                "https://coronelvivida.ifpr.edu.br/tag/ensino/",
+                                "https://coronelvivida.ifpr.edu.br/institucional/reitoria/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/16/edital-de-transferencia-interna-e-externa/",
+                                "https://coronelvivida.ifpr.edu.br/tag/visita-tecnica/",
+                                "https://www.facebook.com/ifprcampuscoronelvivida",
+                                "https://coronelvivida.ifpr.edu.br/documentos-institucionais/documentos-institucionais-ensino/projeto-politico-pedagogico/",
+                                "https://coronelvivida.ifpr.edu.br/academico/celif-centro-de-linguas-ifpr/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/30/estudantes-de-coronel-vivida-representam-o-parana-nos-jogos-nacionais-dos-institutos-federais/",
+                                "https://coronelvivida.ifpr.edu.br/tag/transferencia/",
+                                "https://coronelvivida.ifpr.edu.br/tag/fic/",
+                                "https://coronelvivida.ifpr.edu.br/vii-sepei-2022/",
+                                "https://coronelvivida.ifpr.edu.br/documentos-institucionais/editais/",
+                                "https://coronelvivida.ifpr.edu.br/institucional/campus-coronel-vivida/",
+                                "https://coronelvivida.ifpr.edu.br/nit/",
+                                "https://coronelvivida.ifpr.edu.br/nac/",
+                                "https://coronelvivida.ifpr.edu.br/superiores/",
+                                "https://coronelvivida.ifpr.edu.br/2022/11/30/alunos-do-1o-ano-tem-dia-especial-no-recanto-das-cachoeiras/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                            "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://coronelvivida.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://coronelvivida.ifpr.edu.br/academico/secretaria-academica/certificacao-encceja/",
+                            "https://coronelvivida.ifpr.edu.br/horario-das-aulas-emi/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "revisao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

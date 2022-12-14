@@ -1,0 +1,469 @@
+{
+    "urlPaginaPrincipal": "https://curitiba.ifpr.edu.br/especializacao-em-ciencias-da-natureza-ensino-de-fisica-e-astronomia/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "referencia"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_23411.007099_2021_77.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/CALEND\u00c1RIO-CNEFA-2022-2023.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_IFPR-1524822-Edital-190.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1489125-Edital-181-NOVA-RETIFICA%C3%87%C3%83O-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-F%C3%8DSICA-E-ASTRONOMIA.pdf",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/06/PPC_CienciasNatureza_FisicaAstronomia_A.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1624470-Edital-45-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1-1.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/RESULTADO-DEFINITIVO-edital-7.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/01/SEI_IFPR-1567746-Edital-7-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1619352-Edital-39.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1439322-Edital-150-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-1.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "ezequiel.burkarter@ifpr.edu.br",
+                        "jania.duha@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "ezequiel.burkarter@ifpr.edu.br",
+                        "jania.duha@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_23411.007099_2021_77.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/CALEND\u00c1RIO-CNEFA-2022-2023.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_IFPR-1524822-Edital-190.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1489125-Edital-181-NOVA-RETIFICA%C3%87%C3%83O-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-F%C3%8DSICA-E-ASTRONOMIA.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/06/PPC_CienciasNatureza_FisicaAstronomia_A.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1624470-Edital-45-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1-1.pdf",
+                                "https://docs.google.com/forms/d/e/1FAIpQLScr2PwjK8ySiNdDk-TzXBm9WCq28dMv0dOxrAWvXS4vsll6sA/viewform",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/RESULTADO-DEFINITIVO-edital-7.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/01/SEI_IFPR-1567746-Edital-7-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1619352-Edital-39.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1439322-Edital-150-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-1.pdf",
+                                "https://www.tse.jus.br/eleitor/servicos /certidoes/certidao-de-quitacao-eleitoral",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "estrutura"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "referencia"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_23411.007099_2021_77.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/CALEND\u00c1RIO-CNEFA-2022-2023.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_IFPR-1524822-Edital-190.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1489125-Edital-181-NOVA-RETIFICA%C3%87%C3%83O-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-F%C3%8DSICA-E-ASTRONOMIA.pdf",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/06/PPC_CienciasNatureza_FisicaAstronomia_A.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1624470-Edital-45-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1-1.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/RESULTADO-DEFINITIVO-edital-7.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/01/SEI_IFPR-1567746-Edital-7-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1619352-Edital-39.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1439322-Edital-150-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-1.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "ezequiel.burkarter@ifpr.edu.br",
+                        "jania.duha@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "estrutura"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_23411.007099_2021_77.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/CALEND\u00c1RIO-CNEFA-2022-2023.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_IFPR-1524822-Edital-190.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1489125-Edital-181-NOVA-RETIFICA%C3%87%C3%83O-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-F%C3%8DSICA-E-ASTRONOMIA.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/06/PPC_CienciasNatureza_FisicaAstronomia_A.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1624470-Edital-45-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1-1.pdf",
+                                "https://docs.google.com/forms/d/e/1FAIpQLScr2PwjK8ySiNdDk-TzXBm9WCq28dMv0dOxrAWvXS4vsll6sA/viewform",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/RESULTADO-DEFINITIVO-edital-7.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/01/SEI_IFPR-1567746-Edital-7-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/SEI_IFPR-1619352-Edital-39.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1439322-Edital-150-ESPECIALIZA%C3%87%C3%83O-EM-CI%C3%8ANCIAS-DA-NATUREZA-1.pdf",
+                                "https://www.tse.jus.br/eleitor/servicos /certidoes/certidao-de-quitacao-eleitoral",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/SEI_23411.007099_2021_77-1.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "breve",
+                        "copia"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "ezequiel.burkarter@ifpr.edu.br",
+                        "jania.duha@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

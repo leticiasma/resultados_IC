@@ -1,0 +1,376 @@
+{
+    "urlPaginaPrincipal": "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                        "https://falabr.cgu.gov.br/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx",
+                        "https://www.gov.br/cgu/pt-br/acesso-a-informacao/dados-abertos/arquivos/e-ouv",
+                        "http://buscaprecedentes.cgu.gov.br/busca/SitePages/principal.aspx",
+                        "https://falabr.cgu.gov.br/publico/DownloadDados/DownloadDadosLai.aspx",
+                        "https://falabr.cgu.gov.br/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx?idFormulario=EwaF6GYGgQ0%3d&tipo=YZkFGLqWafI%3d&ReturnUrl=ZfHsAWpS6nb6InaSVkQgyokROCSkRXgPpjy0oH50lVtlAoBKGl9RuSsxVs6bzzpcu8Y6xqMYOzJUK0pjKKBYYmMrawakEuMtXFUixveOxYj3ez%2fMsXvk%2b7VMbbpMdj0z%2bzvzO6NrO5EFwKBEuY%2bxn22j9WXyDXnncKc1zik%2burtERe2WXh6JKAjbrZ1Y5BN4",
+                        "https://falabr.cgu.gov.br/publico/BuscadorOuvidorias/BuscadorOuvidorias.aspx"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "http://wiki.cgu.gov.br/wiki/index.php/Fala.BR_-_Manual",
+                                "http://paineis.cgu.gov.br/lai/index.htm",
+                                "/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx?idFormulario=EwaF6GYGgQ0%3d&tipo=YZkFGLqWafI%3d&ReturnUrl=ZfHsAWpS6nb6InaSVkQgyokROCSkRXgPpjy0oH50lVtlAoBKGl9RuSsxVs6bzzpcu8Y6xqMYOzJUK0pjKKBYYmMrawakEuMtXFUixveOxYj3ez%2fMsXvk%2b7VMbbpMdj0z%2bzvzO6NrO5EFwKBEuY%2bxn22j9WXyDXnncKc1zik%2burtERe2WXh6JKAjbrZ1Y5BN4",
+                                "http://paineis.cgu.gov.br/resolveu/index.htm",
+                                "https://www.gov.br/ouvidorias/pt-br/",
+                                "/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx",
+                                "%20https://www.gov.br/ouvidorias/pt-br/assuntos/noticias/2018/a-cida-nasceu",
+                                "https://www.gov.br/acessoainformacao/pt-br/assuntos/busca-de-pedidos-e-respostas/busca-de-pedidos-e-respostas",
+                                "http://buscaprecedentes.cgu.gov.br/busca/SitePages/principal.aspx",
+                                "http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/11/2017&jornal=515&pagina=104&totalArquivos=168",
+                                "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes-2019",
+                                "/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                                "/publico/BuscadorOuvidorias/BuscadorOuvidorias.aspx",
+                                "Identificacao.aspx",
+                                "/publico/DownloadDados/DownloadDadosLai.aspx"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                        "https://falabr.cgu.gov.br/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx",
+                        "https://www.gov.br/cgu/pt-br/acesso-a-informacao/dados-abertos/arquivos/e-ouv",
+                        "http://buscaprecedentes.cgu.gov.br/busca/SitePages/principal.aspx",
+                        "https://falabr.cgu.gov.br/publico/DownloadDados/DownloadDadosLai.aspx",
+                        "https://falabr.cgu.gov.br/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx?idFormulario=EwaF6GYGgQ0%3d&tipo=YZkFGLqWafI%3d&ReturnUrl=ZfHsAWpS6nb6InaSVkQgyokROCSkRXgPpjy0oH50lVtlAoBKGl9RuSsxVs6bzzpcu8Y6xqMYOzJUK0pjKKBYYmMrawakEuMtXFUixveOxYj3ez%2fMsXvk%2b7VMbbpMdj0z%2bzvzO6NrO5EFwKBEuY%2bxn22j9WXyDXnncKc1zik%2burtERe2WXh6JKAjbrZ1Y5BN4",
+                        "https://falabr.cgu.gov.br/publico/BuscadorOuvidorias/BuscadorOuvidorias.aspx"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricao"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "http://wiki.cgu.gov.br/wiki/index.php/Fala.BR_-_Manual",
+                                "http://paineis.cgu.gov.br/lai/index.htm",
+                                "/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx?idFormulario=EwaF6GYGgQ0%3d&tipo=YZkFGLqWafI%3d&ReturnUrl=ZfHsAWpS6nb6InaSVkQgyokROCSkRXgPpjy0oH50lVtlAoBKGl9RuSsxVs6bzzpcu8Y6xqMYOzJUK0pjKKBYYmMrawakEuMtXFUixveOxYj3ez%2fMsXvk%2b7VMbbpMdj0z%2bzvzO6NrO5EFwKBEuY%2bxn22j9WXyDXnncKc1zik%2burtERe2WXh6JKAjbrZ1Y5BN4",
+                                "http://paineis.cgu.gov.br/resolveu/index.htm",
+                                "https://www.gov.br/ouvidorias/pt-br/",
+                                "/publico/Usuarios/AutoCadastroUsuarioCidadao.aspx",
+                                "%20https://www.gov.br/ouvidorias/pt-br/assuntos/noticias/2018/a-cida-nasceu",
+                                "https://www.gov.br/acessoainformacao/pt-br/assuntos/busca-de-pedidos-e-respostas/busca-de-pedidos-e-respostas",
+                                "http://buscaprecedentes.cgu.gov.br/busca/SitePages/principal.aspx",
+                                "http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/11/2017&jornal=515&pagina=104&totalArquivos=168",
+                                "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes-2019",
+                                "/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                                "/publico/BuscadorOuvidorias/BuscadorOuvidorias.aspx",
+                                "Identificacao.aspx",
+                                "/publico/DownloadDados/DownloadDadosLai.aspx"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": false,
+                    "tokens": [],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

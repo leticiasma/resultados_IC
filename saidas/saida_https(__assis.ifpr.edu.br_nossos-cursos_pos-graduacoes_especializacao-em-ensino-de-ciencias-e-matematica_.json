@@ -1,0 +1,448 @@
+{
+    "urlPaginaPrincipal": "https://assis.ifpr.edu.br/nossos-cursos/pos-graduacoes/especializacao-em-ensino-de-ciencias-e-matematica/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://assis.ifpr.edu.br/laboratorios/recursos-naturais/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/mais-sobre-a-biblioteca/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/normas-de-apresentacao-2/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/regulamento-2/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/sugestao-para-aquisicao-de-livros/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/cadastro-para-usuarios-pergamum/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "disponibilidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "ensinocienciasmatematica@gmail.com"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "disponibilidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "ensinocienciasmatematica@gmail.com"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/portarias-resolucoes-ppp-ppc-regulamentos/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/modelos-da-secretaria/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/secao-de-estagios-e-relacoes-comunitarias-2/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/diplomas-disponiveis/",
+                            "https://assis.ifpr.edu.br/laboratorios/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/horarios-de-aula/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horarios/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/manual-de-cadastro-sigaa/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/informacoes/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/comunicados/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/requerimento-online/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horario-docente/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-geral-2/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/portarias-resolucoes-ppp-ppc-regulamentos/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/modelos-da-secretaria/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/secao-de-estagios-e-relacoes-comunitarias-2/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/diplomas-disponiveis/",
+                            "https://assis.ifpr.edu.br/laboratorios/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/horarios-de-aula/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horarios/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/manual-de-cadastro-sigaa/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/informacoes/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/comunicados/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/requerimento-online/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horario-docente/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-geral-2/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/ouvidoria/",
+                                "https://assis.ifpr.edu.br/laboratorios/controle-e-processos-industriais/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/atividades-de-pesquisa-e-extensao/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/atividades-de-pesquisa-e-extensao/certificados-de-projetos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/portarias-resolucoes-ppp-ppc-regulamentos/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/modelos-da-secretaria/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/secao-de-estagios-e-relacoes-comunitarias-2/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/diplomas-disponiveis/",
+                            "https://assis.ifpr.edu.br/laboratorios/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/horarios-de-aula/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horarios/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/manual-de-cadastro-sigaa/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/informacoes/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/comunicados/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/requerimento-online/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horario-docente/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-geral-2/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://assis.ifpr.edu.br/laboratorios/recursos-naturais/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/mais-sobre-a-biblioteca/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/normas-de-apresentacao-2/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/regulamento-2/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/sugestao-para-aquisicao-de-livros/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://assis.ifpr.edu.br/menu-academico/biblioteca/cadastro-para-usuarios-pergamum/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "ensinocienciasmatematica@gmail.com"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/portarias-resolucoes-ppp-ppc-regulamentos/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/modelos-da-secretaria/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/secao-de-estagios-e-relacoes-comunitarias-2/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/diplomas-disponiveis/",
+                            "https://assis.ifpr.edu.br/laboratorios/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/horarios-de-aula/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horarios/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/manual-de-cadastro-sigaa/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/informacoes/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/comunicados/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/requerimento-online/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horario-docente/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-geral-2/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/ouvidoria/",
+                                "https://assis.ifpr.edu.br/laboratorios/controle-e-processos-industriais/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/atividades-de-pesquisa-e-extensao/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/atividades-de-pesquisa-e-extensao/certificados-de-projetos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/portarias-resolucoes-ppp-ppc-regulamentos/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/modelos-da-secretaria/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/secao-de-estagios-e-relacoes-comunitarias-2/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/diplomas-disponiveis/",
+                            "https://assis.ifpr.edu.br/laboratorios/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/horarios-de-aula/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horarios/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/manual-de-cadastro-sigaa/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/informacoes/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/comunicados/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/requerimento-online/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horario-docente/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-geral-2/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/portarias-resolucoes-ppp-ppc-regulamentos/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/modelos-da-secretaria/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/secao-de-estagios-e-relacoes-comunitarias-2/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/diplomas-disponiveis/",
+                            "https://assis.ifpr.edu.br/laboratorios/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-academico/biblioteca/horario-de-funcionamento/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/",
+                            "https://assis.ifpr.edu.br/menu-academico/area-do-estudante/horarios-de-aula/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horarios/",
+                            "https://assis.ifpr.edu.br/menu-institucional/editais/secretaria-academica/manual-de-cadastro-sigaa/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/informacoes/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/comunicados/",
+                            "https://assis.ifpr.edu.br/menu-academico/secretaria-academica/requerimento-online/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-de-ensino/horario-docente/",
+                            "https://assis.ifpr.edu.br/menu-institucional/direcao-geral-2/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "ensinocienciasmatematica@gmail.com"
+                    ]
+                }
+            }
+        }
+    }
+}

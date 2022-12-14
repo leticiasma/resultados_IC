@@ -1,0 +1,442 @@
+{
+    "urlPaginaPrincipal": "https://campolargo.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/biblioteca/",
+                        "https://campolargo.ifpr.edu.br/sistemas/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/protocolo/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/documentacao-legal/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/rematricula/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/contratos-e-portarias-de-gestao-e-fiscalizacao/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/cancelamento-de-matricula/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/procedimentos-academicos/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horarios-de-aulas-calendario-2022/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horario-de-atendimento-docente-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/portarias-do-ano-de-2019-e-anteriores/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2021/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/execucao-orcamentaria-campus-campo-largo/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/protocolo/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/documentacao-legal/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/rematricula/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/contratos-e-portarias-de-gestao-e-fiscalizacao/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/cancelamento-de-matricula/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/procedimentos-academicos/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horarios-de-aulas-calendario-2022/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horario-de-atendimento-docente-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/portarias-do-ano-de-2019-e-anteriores/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2021/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/execucao-orcamentaria-campus-campo-largo/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://campolargo.ifpr.edu.br/atividades-pedagogicas-nao-presenciais/",
+                                "https://campolargo.ifpr.edu.br/campus-campo-largo-realiza-gestao-de-residuos-solidos-organicos/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://campolargo.ifpr.edu.br/menu-institucional/gt-pessoas/lista-de-servidores/",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://campolargo.ifpr.edu.br/projeto-de-extensao-ifencanto-kids-realiza-apresentacao-musical/",
+                                "https://campolargo.ifpr.edu.br/estudantes-de-automacao-industrial-de-campo-largo-visitam-subestacao-da-copel/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/protocolo/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/documentacao-legal/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/rematricula/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/contratos-e-portarias-de-gestao-e-fiscalizacao/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/cancelamento-de-matricula/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/procedimentos-academicos/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horarios-de-aulas-calendario-2022/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horario-de-atendimento-docente-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/portarias-do-ano-de-2019-e-anteriores/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2021/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/execucao-orcamentaria-campus-campo-largo/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/biblioteca/",
+                        "https://campolargo.ifpr.edu.br/sistemas/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/protocolo/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/documentacao-legal/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/rematricula/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/contratos-e-portarias-de-gestao-e-fiscalizacao/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/cancelamento-de-matricula/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/procedimentos-academicos/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horarios-de-aulas-calendario-2022/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horario-de-atendimento-docente-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/portarias-do-ano-de-2019-e-anteriores/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2021/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/execucao-orcamentaria-campus-campo-largo/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://campolargo.ifpr.edu.br/atividades-pedagogicas-nao-presenciais/",
+                                "https://campolargo.ifpr.edu.br/campus-campo-largo-realiza-gestao-de-residuos-solidos-organicos/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://campolargo.ifpr.edu.br/menu-institucional/gt-pessoas/lista-de-servidores/",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://campolargo.ifpr.edu.br/projeto-de-extensao-ifencanto-kids-realiza-apresentacao-musical/",
+                                "https://campolargo.ifpr.edu.br/estudantes-de-automacao-industrial-de-campo-largo-visitam-subestacao-da-copel/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/protocolo/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/documentacao-legal/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/rematricula/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/contratos-e-portarias-de-gestao-e-fiscalizacao/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/cancelamento-de-matricula/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/procedimentos-academicos/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horarios-de-aulas-calendario-2022/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horario-de-atendimento-docente-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/portarias-do-ano-de-2019-e-anteriores/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2021/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/execucao-orcamentaria-campus-campo-largo/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/protocolo/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/documentacao-legal/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/rematricula/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/contratos-e-portarias-de-gestao-e-fiscalizacao/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/cancelamento-de-matricula/",
+                            "https://campolargo.ifpr.edu.br/atendimento-academico/secretaria-academica/procedimentos-academicos/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horarios-de-aulas-calendario-2022/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-ensino-pesquisa-e-extensao/horario-de-atendimento-docente-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2022/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/portarias-do-ano-de-2019-e-anteriores/",
+                            "https://campolargo.ifpr.edu.br/direcao-geral/portarias/ano-de-2021/",
+                            "https://campolargo.ifpr.edu.br/diretoria-de-planejamento-e-administracao/administrativo/execucao-orcamentaria-campus-campo-largo/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,578 @@
+{
+    "urlPaginaPrincipal": "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "referencia",
+                        "formato",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1437945-Edital-149-EDITAL-DE-HOMOLOGA%C3%87%C3%83O-PROVIS%C3%93RIA-DA-AN%C3%81LISE-DAS-EXPERI%C3%8ANCIAS-PROFISSIONAIS.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-032-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-terceira-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Definitiva_.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1455184-Edital-161.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0340963-Edital-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Altetra\u00e7ao-data-de-Matricula.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-DEFINITIVO.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/02/Edital-023-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/01/Edital-008-18-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-COMUNICADO-INICIO-DAS-AULAS.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Inicial_-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-025-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Retificado.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/09/SEI_IFPR-1393774-Edital-110-2.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/11/Edital-027-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria-RESULTADO-FINAL.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/anexos-Edital-34-19-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria_-26.06-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-029-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-segunda-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-026-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-RESULTADO-PROVIS\u00d3RIO.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-023-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-4\u00aa-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1445067-Edital-156-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DO-RESULTADO-DEFINITIVO-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/Aviso-de-Inicio-das-Aulas-P\u00d3S-GRADUA\u00c7\u00c3O-LATU-SENSU-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-27-08-2019.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1431250-Edital-135-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DEFINITIVA-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1423920-Edital-123.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-Provisorio.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/ESPECIALIZA\u00c7\u00c3O-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-2019-2020-.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Recursos.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-026-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-5\u00aa-chamada.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "paulinho.stefanello@ifpr.edu.br",
+                        "pos.contabeis.2021.2023@gmail.com",
+                        "alexandre.fernandes@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "paulinho.stefanello@ifpr.edu.br",
+                        "pos.contabeis.2021.2023@gmail.com",
+                        "alexandre.fernandes@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                            "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                            "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1437945-Edital-149-EDITAL-DE-HOMOLOGA%C3%87%C3%83O-PROVIS%C3%93RIA-DA-AN%C3%81LISE-DAS-EXPERI%C3%8ANCIAS-PROFISSIONAIS.pdf",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-032-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-terceira-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Definitiva_.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0340963-Edital-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1455184-Edital-161.pdf",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Altetra\u00e7ao-data-de-Matricula.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-DEFINITIVO.pdf",
+                                "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/02/Edital-023-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/01/Edital-008-18-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-COMUNICADO-INICIO-DAS-AULAS.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Inicial_-1.pdf",
+                                "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-025-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Retificado.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/09/SEI_IFPR-1393774-Edital-110-2.pdf",
+                                "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/11/Edital-027-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria-RESULTADO-FINAL.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/anexos-Edital-34-19-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria_-26.06-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-029-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-segunda-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-026-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-RESULTADO-PROVIS\u00d3RIO.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-023-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-4\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1445067-Edital-156-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DO-RESULTADO-DEFINITIVO-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/Aviso-de-Inicio-das-Aulas-P\u00d3S-GRADUA\u00c7\u00c3O-LATU-SENSU-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-27-08-2019.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1431250-Edital-135-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DEFINITIVA-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1423920-Edital-123.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-Provisorio.pdf",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/ESPECIALIZA\u00c7\u00c3O-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-2019-2020-.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Recursos.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "mailto:pos.contabeis.2021.2023@gmail.com",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-026-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-5\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                            "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "referencia",
+                        "formato",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1437945-Edital-149-EDITAL-DE-HOMOLOGA%C3%87%C3%83O-PROVIS%C3%93RIA-DA-AN%C3%81LISE-DAS-EXPERI%C3%8ANCIAS-PROFISSIONAIS.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-032-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-terceira-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Definitiva_.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1455184-Edital-161.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0340963-Edital-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Altetra\u00e7ao-data-de-Matricula.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-DEFINITIVO.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/02/Edital-023-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/01/Edital-008-18-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-COMUNICADO-INICIO-DAS-AULAS.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Inicial_-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-025-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Retificado.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/09/SEI_IFPR-1393774-Edital-110-2.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/11/Edital-027-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria-RESULTADO-FINAL.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/anexos-Edital-34-19-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria_-26.06-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-029-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-segunda-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-026-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-RESULTADO-PROVIS\u00d3RIO.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-023-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-4\u00aa-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1445067-Edital-156-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DO-RESULTADO-DEFINITIVO-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/Aviso-de-Inicio-das-Aulas-P\u00d3S-GRADUA\u00c7\u00c3O-LATU-SENSU-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-27-08-2019.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1431250-Edital-135-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DEFINITIVA-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1423920-Edital-123.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-Provisorio.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/ESPECIALIZA\u00c7\u00c3O-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-2019-2020-.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Recursos.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-026-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-5\u00aa-chamada.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "paulinho.stefanello@ifpr.edu.br",
+                        "pos.contabeis.2021.2023@gmail.com",
+                        "alexandre.fernandes@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                            "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1437945-Edital-149-EDITAL-DE-HOMOLOGA%C3%87%C3%83O-PROVIS%C3%93RIA-DA-AN%C3%81LISE-DAS-EXPERI%C3%8ANCIAS-PROFISSIONAIS.pdf",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-032-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-terceira-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Definitiva_.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0340963-Edital-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/SEI_IFPR-1455184-Edital-161.pdf",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Altetra\u00e7ao-data-de-Matricula.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-DEFINITIVO.pdf",
+                                "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/02/Edital-023-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/01/Edital-008-18-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-COMUNICADO-INICIO-DAS-AULAS.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/07/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Homologa\u00e7\u00e3o-Inicial_-1.pdf",
+                                "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-025-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Retificado.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/09/SEI_IFPR-1393774-Edital-110-2.pdf",
+                                "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/11/Edital-027-17-Processo-Seletivo-Especializa%C3%A7%C3%A3o-Gest%C3%A3o-Tribut%C3%A1ria-RESULTADO-FINAL.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/anexos-Edital-34-19-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria_-26.06-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-029-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Tributa\u0301ria-segunda-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/09/Edital-026-17-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-RESULTADO-PROVIS\u00d3RIO.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-023-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-4\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1445067-Edital-156-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DO-RESULTADO-DEFINITIVO-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/Aviso-de-Inicio-das-Aulas-P\u00d3S-GRADUA\u00c7\u00c3O-LATU-SENSU-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-27-08-2019.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1431250-Edital-135-EDITAL-DE-HOMOLOGA\u00c7\u00c3O-DEFINITIVA-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/10/SEI_IFPR-1423920-Edital-123.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Resultado-Provisorio.pdf",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/ESPECIALIZA\u00c7\u00c3O-EM-GEST\u00c3O-EMPRESARIAL-CONT\u00c1BIL-E-TRIBUT\u00c1RIA-2019-2020-.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/08/09-08-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Recursos.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "mailto:pos.contabeis.2021.2023@gmail.com",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-026-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-Tribut\u00e1ria-5\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                            "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/06/SEI_IFPR-0342588-Portaria-Comiss\u00e3o-de-Sele\u00e7\u00e3o-Gest\u00e3o-Empresarial-Contabil-e-Tribut\u00e1ria.pdf",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&title=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria",
+                            "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria&url=https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F&via=Crunchify",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Gest%C3%A3o+Empresarial%2C+Cont%C3%A1bil+e+Tribut%C3%A1ria\u00a0https%3A%2F%2Fcuritiba.ifpr.edu.br%2Fpos-graduacao%2Fespecializacao-em-gestao-empresarial-contabil-e-tributaria%2F",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/09/07-EDITAL-Especializa\u00e7\u00e3o-em-Gestao-Empresarial-Cont\u00e1bil-e-Tribut\u00e1ria-Chamada-complementar.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "paulinho.stefanello@ifpr.edu.br",
+                        "pos.contabeis.2021.2023@gmail.com",
+                        "alexandre.fernandes@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

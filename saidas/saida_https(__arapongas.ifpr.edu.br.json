@@ -1,0 +1,430 @@
+{
+    "urlPaginaPrincipal": "https://arapongas.ifpr.edu.br",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://biblioteca.ifpr.edu.br/pergamum/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                            "https://www.facebook.com/IFPRArapongas/",
+                            "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                            "https://www.facebook.com/IFPRArapongas/",
+                            "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://arapongas.ifpr.edu.br/index.php/paipe/",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-de-ensino/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/cursos-fic/ingles-para-negocios/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/07/governo-retira-mais-de-r-5-milhoes-do-ifpr-e-impossibilita-pagamentos-neste-final-de-ano/",
+                                "https://arapongas.ifpr.edu.br/index.php/assistenciaestudantil/",
+                                "https://arapongas.ifpr.edu.br/index.php/fomularios-academicos/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/tecnico-subsequente/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/",
+                                "https://reitoria.ifpr.edu.br/politica-de-privacidade/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/21/publicado-aviso-de-licitacao-para-contratacao-de-construcao-do-remanescente-da-obra-do-bloco-didatico-do-campus-avancado-arapongas/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/07/retomada-dos-cursos-ead-em-arapongas/",
+                                "https://arapongas.ifpr.edu.br/index.php/quem-e-quem/",
+                                "https://arapongas.ifpr.edu.br/index.php/assistenciaestudantil/sobre-o-napne/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                                "https://arapongas.ifpr.edu.br/index.php/portal-da-transparencia/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-administrativa/licitacoes/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/24/curso-fic-em-vendedor-tem-aula-sobre-mercado-digital-com-mestra-em-comunicacao/",
+                                "https://arapongas.ifpr.edu.br/index.php/calendarios-academicos-administrativos/",
+                                "https://arapongas.ifpr.edu.br/index.php/documentos-institucionais/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://arapongas.ifpr.edu.br/index.php/editais/ingles-instrumental/",
+                                "https://arapongas.ifpr.edu.br/index.php/extensao/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/30/encerramento-do-curso-fic-em-vendedor-principios-e-praticas/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/07/vem-ai-o-iii-encontro-nacional-de-praticas-pedagogicas-eppedu/",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-administrativa/dispensas/",
+                                "https://arapongas.ifpr.edu.br/index.php/editais/editais-ingles-para-negocios/",
+                                "https://arapongas.ifpr.edu.br/index.php/portal-do-estudante-sigaa/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/28/ifpr-divulga-novas-orientacoes-sobre-medidas-de-prevencao-da-covid-19/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/cursos-fic/ingles-basico/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/24/conheca-os-estudantes-bolsistas-do-projeto-de-ensino-paipe-do-campus-arapongas/",
+                                "https://biblioteca.ifpr.edu.br/pergamum/biblioteca/index.php",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-administrativa/",
+                                "https://arapongas.ifpr.edu.br/index.php/o-instituto/",
+                                "https://arapongas.ifpr.edu.br/index.php/pesquisa-e-projetos-de-extensao/",
+                                "https://arapongas.ifpr.edu.br/index.php/campus-em-construcao/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://arapongas.ifpr.edu.br/index.php/selecao-estagiario/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/cursos-fic/",
+                                "https://arapongas.ifpr.edu.br/index.php/tecnico-subsequente/",
+                                " https://arapongas.ifpr.edu.br/index.php/7881-2/",
+                                "https://reitoria.ifpr.edu.br/institucional/orgaos-de-controle/ouvidoria/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/",
+                                "https://arapongas.ifpr.edu.br/index.php/processos-seletivos-alunos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                            "https://www.facebook.com/IFPRArapongas/",
+                            "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://biblioteca.ifpr.edu.br/pergamum/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                            "https://www.facebook.com/IFPRArapongas/",
+                            "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://arapongas.ifpr.edu.br/index.php/paipe/",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-de-ensino/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/cursos-fic/ingles-para-negocios/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/07/governo-retira-mais-de-r-5-milhoes-do-ifpr-e-impossibilita-pagamentos-neste-final-de-ano/",
+                                "https://arapongas.ifpr.edu.br/index.php/assistenciaestudantil/",
+                                "https://arapongas.ifpr.edu.br/index.php/fomularios-academicos/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/tecnico-subsequente/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/",
+                                "https://reitoria.ifpr.edu.br/politica-de-privacidade/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/21/publicado-aviso-de-licitacao-para-contratacao-de-construcao-do-remanescente-da-obra-do-bloco-didatico-do-campus-avancado-arapongas/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/07/retomada-dos-cursos-ead-em-arapongas/",
+                                "https://arapongas.ifpr.edu.br/index.php/quem-e-quem/",
+                                "https://arapongas.ifpr.edu.br/index.php/assistenciaestudantil/sobre-o-napne/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                                "https://arapongas.ifpr.edu.br/index.php/portal-da-transparencia/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-administrativa/licitacoes/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/24/curso-fic-em-vendedor-tem-aula-sobre-mercado-digital-com-mestra-em-comunicacao/",
+                                "https://arapongas.ifpr.edu.br/index.php/calendarios-academicos-administrativos/",
+                                "https://arapongas.ifpr.edu.br/index.php/documentos-institucionais/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://arapongas.ifpr.edu.br/index.php/editais/ingles-instrumental/",
+                                "https://arapongas.ifpr.edu.br/index.php/extensao/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/30/encerramento-do-curso-fic-em-vendedor-principios-e-praticas/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/07/vem-ai-o-iii-encontro-nacional-de-praticas-pedagogicas-eppedu/",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-administrativa/dispensas/",
+                                "https://arapongas.ifpr.edu.br/index.php/editais/editais-ingles-para-negocios/",
+                                "https://arapongas.ifpr.edu.br/index.php/portal-do-estudante-sigaa/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/28/ifpr-divulga-novas-orientacoes-sobre-medidas-de-prevencao-da-covid-19/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/cursos-fic/ingles-basico/",
+                                "https://arapongas.ifpr.edu.br/index.php/2022/11/24/conheca-os-estudantes-bolsistas-do-projeto-de-ensino-paipe-do-campus-arapongas/",
+                                "https://biblioteca.ifpr.edu.br/pergamum/biblioteca/index.php",
+                                "https://arapongas.ifpr.edu.br/index.php/secao-administrativa/",
+                                "https://arapongas.ifpr.edu.br/index.php/o-instituto/",
+                                "https://arapongas.ifpr.edu.br/index.php/pesquisa-e-projetos-de-extensao/",
+                                "https://arapongas.ifpr.edu.br/index.php/campus-em-construcao/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://arapongas.ifpr.edu.br/index.php/selecao-estagiario/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/cursos-fic/",
+                                "https://arapongas.ifpr.edu.br/index.php/tecnico-subsequente/",
+                                " https://arapongas.ifpr.edu.br/index.php/7881-2/",
+                                "https://reitoria.ifpr.edu.br/institucional/orgaos-de-controle/ouvidoria/",
+                                "https://arapongas.ifpr.edu.br/index.php/nossos-cursos/",
+                                "https://arapongas.ifpr.edu.br/index.php/processos-seletivos-alunos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                            "https://www.facebook.com/IFPRArapongas/",
+                            "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://arapongas.ifpr.edu.br/index.php/2022/12/01/campus-arapongas-firma-parceria-com-startup-alema-durante-participacao-na-greentech-business-2022/",
+                            "https://www.facebook.com/IFPRArapongas/",
+                            "https://arapongas.ifpr.edu.br/index.php/2022/11/21/horario-de-funcionamento-em-dias-de-jogos-do-brasil-na-copa/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "urlPaginaPrincipal": "https://apps.apple.com/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "responsavel",
+                        "versao",
+                        "descricao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricoes"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "integridade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "compartilhar",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "integridade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "compartilhar",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "id",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217?platform=ipad",
+                                "https://apps.apple.com/br/app/meu-inss-central-de-servi%C3%A7os/id1243048358",
+                                "https://apps.apple.com/br/developer/servicos-e-informacoes-do-brasil/id1475781851",
+                                "https://apps.apple.com/br/charts/iphone/utilidades-apps/6002",
+                                "https://www.apple.com/br/airpods/",
+                                "https://apps.apple.com/br/app/mei/id1040521803",
+                                "https://portalservicos.senatran.serpro.gov.br/#/aplicativos/politica-privacidade-cdt",
+                                "https://apps.apple.com/br/app/sem-parar/id1440651231",
+                                "https://apps.apple.com/br/app/enem-inep/id1114622953",
+                                "/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217?platform=iphone",
+                                "https://apps.apple.com/br/app/gringo-multas-cnh-ipva-e/id1477985456",
+                                "https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-mais/id1052059383",
+                                "https://apps.apple.com/br/app/conecte-sus/id1045754608",
+                                "https://apps.apple.com/br/app/sine-facil/id1251035126",
+                                "https://apps.apple.com/story/id1538632801",
+                                "https://apps.apple.com/br/app/vio-qr-seguro/id1218953994",
+                                "https://apps.apple.com/br/app/consulta-placa-ve%C3%ADculo/id1514472731",
+                                "https://apps.apple.com/br/app/consulta-placa-e-tabela-fipe/id1119303184",
+                                "https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499",
+                                "https://itunes.apple.com/br/genre/id6002",
+                                "https://www.apple.com/br/sitemap/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "padrao",
+                        "exportar",
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricoes"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "responsavel",
+                        "versao",
+                        "descricao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": [],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "compartilhar",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "padrao",
+                        "exportar",
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricoes"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "restricoes"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "id",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217?platform=ipad",
+                                "https://apps.apple.com/br/app/meu-inss-central-de-servi%C3%A7os/id1243048358",
+                                "https://apps.apple.com/br/developer/servicos-e-informacoes-do-brasil/id1475781851",
+                                "https://apps.apple.com/br/charts/iphone/utilidades-apps/6002",
+                                "https://www.apple.com/br/airpods/",
+                                "https://apps.apple.com/br/app/mei/id1040521803",
+                                "https://portalservicos.senatran.serpro.gov.br/#/aplicativos/politica-privacidade-cdt",
+                                "https://apps.apple.com/br/app/sem-parar/id1440651231",
+                                "https://apps.apple.com/br/app/enem-inep/id1114622953",
+                                "/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217?platform=iphone",
+                                "https://apps.apple.com/br/app/gringo-multas-cnh-ipva-e/id1477985456",
+                                "https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-mais/id1052059383",
+                                "https://apps.apple.com/br/app/conecte-sus/id1045754608",
+                                "https://apps.apple.com/br/app/sine-facil/id1251035126",
+                                "https://apps.apple.com/story/id1538632801",
+                                "https://apps.apple.com/br/app/vio-qr-seguro/id1218953994",
+                                "https://apps.apple.com/br/app/consulta-placa-ve%C3%ADculo/id1514472731",
+                                "https://apps.apple.com/br/app/consulta-placa-e-tabela-fipe/id1119303184",
+                                "https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499",
+                                "https://itunes.apple.com/br/genre/id6002",
+                                "https://www.apple.com/br/sitemap/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "substituicao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://apps.apple.com/br/app/sem-parar/id1440651231"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "botao",
+                        "classificacao",
+                        "compartilhar",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

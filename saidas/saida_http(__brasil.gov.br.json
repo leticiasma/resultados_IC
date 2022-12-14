@@ -1,0 +1,609 @@
+{
+    "urlPaginaPrincipal": "http://brasil.gov.br",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "idioma",
+                        "versao",
+                        "temas",
+                        "categorias",
+                        "formato",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias?id=empresa-industria-e-comercio",
+                        "https://www.gov.br/pt-br/categorias?id=comunicacoes-e-transparencia-publica",
+                        "https://www.gov.br/pt-br/categorias?id=justica-e-seguranca",
+                        "https://www.gov.br/pt-br/categorias?id=meio-ambiente-e-clima",
+                        "https://www.gov.br/pt-br/categorias?id=energia-minerais-e-combustiveis",
+                        "https://www.gov.br/pt-br/categorias?id=assistencia-social",
+                        "https://www.gov.br/pt-br/categorias?id=cultura-artes-historia-e-esportes",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                        "https://www.gov.br/pt-br/categorias?id=viagens-e-turismo",
+                        "https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias?id=ciencia-e-tecnologia",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/acessar-centro-pop-centro-de-referencia-especializado-para-populacao-em-situacao-de-rua",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                        "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                        "https://www.gov.br/pt-br/categorias?id=transito-e-transportes",
+                        "http://brasil.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                        "https://www.gov.br/pt-br/categorias?id=financas-impostos-e-gestao-publica",
+                        "https://www.gov.br/pt-br/categorias?id=trabalho-e-previdencia",
+                        "https://www.gov.br/pt-br/categorias?id=agricultura-e-pecuaria",
+                        "https://www.gov.br/pt-br/categorias?id=educacao-e-pesquisa",
+                        "https://www.gov.br/pt-br/categorias?id=forcas-armadas-e-defesa-civil"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacoes",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacoes",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/noticias/viagens-e-turismo/2022/11/embratur-vai-divulgar-destinos-turisticos-brasileiros-durante-a-copa-do-mundo-do-catar",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2022/11/brasil-vai-apresentar-seu-potencial-de-energia-limpa-na-convencao-do-clima",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/noticias/viagens-e-turismo/2022/11/embratur-vai-divulgar-destinos-turisticos-brasileiros-durante-a-copa-do-mundo-do-catar",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2022/11/brasil-vai-apresentar-seu-potencial-de-energia-limpa-na-convencao-do-clima",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".dat",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/categorias?id=empresa-industria-e-comercio",
+                                "https://www.gov.br/pt-br/categorias?id=comunicacoes-e-transparencia-publica",
+                                "https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR",
+                                "https://www.gov.br/pt-br/categorias?id=justica-e-seguranca",
+                                "https://www.gov.br/pt-br/categorias?id=meio-ambiente-e-clima",
+                                "https://www.gov.br/pt-br/categorias?id=energia-minerais-e-combustiveis",
+                                "https://www.gov.br/pt-br/categorias?id=assistencia-social",
+                                "https://www.gov.br/pt-br/categorias?id=cultura-artes-historia-e-esportes",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                                "https://www.gov.br/pt-br/categorias?id=viagens-e-turismo",
+                                "https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                                "https://www.gov.br/pt-br/categorias?id=ciencia-e-tecnologia",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                                "https://apps.apple.com/br/app/conecte-sus/id1045754608",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade/painel-de-monitoramento-de-servicos-federais",
+                                "https://apps.apple.com/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217",
+                                "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/categorias?id=transito-e-transportes",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                                "https://www.gov.br/pt-br/categorias?id=financas-impostos-e-gestao-publica",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/categorias?id=trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/categorias?id=agricultura-e-pecuaria",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/categorias?id=educacao-e-pesquisa",
+                                "https://www.gov.br/pt-br/categorias?id=forcas-armadas-e-defesa-civil",
+                                "https://apps.apple.com/br/app/id1506827551",
+                                "https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/noticias/viagens-e-turismo/2022/11/embratur-vai-divulgar-destinos-turisticos-brasileiros-durante-a-copa-do-mundo-do-catar",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2022/11/brasil-vai-apresentar-seu-potencial-de-energia-limpa-na-convencao-do-clima",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "idioma",
+                        "versao",
+                        "temas",
+                        "categorias",
+                        "formato",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias?id=empresa-industria-e-comercio",
+                        "https://www.gov.br/pt-br/categorias?id=comunicacoes-e-transparencia-publica",
+                        "https://www.gov.br/pt-br/categorias?id=justica-e-seguranca",
+                        "https://www.gov.br/pt-br/categorias?id=meio-ambiente-e-clima",
+                        "https://www.gov.br/pt-br/categorias?id=energia-minerais-e-combustiveis",
+                        "https://www.gov.br/pt-br/categorias?id=assistencia-social",
+                        "https://www.gov.br/pt-br/categorias?id=cultura-artes-historia-e-esportes",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                        "https://www.gov.br/pt-br/categorias?id=viagens-e-turismo",
+                        "https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias?id=ciencia-e-tecnologia",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/acessar-centro-pop-centro-de-referencia-especializado-para-populacao-em-situacao-de-rua",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                        "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                        "https://www.gov.br/pt-br/categorias?id=transito-e-transportes",
+                        "http://brasil.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                        "https://www.gov.br/pt-br/categorias?id=financas-impostos-e-gestao-publica",
+                        "https://www.gov.br/pt-br/categorias?id=trabalho-e-previdencia",
+                        "https://www.gov.br/pt-br/categorias?id=agricultura-e-pecuaria",
+                        "https://www.gov.br/pt-br/categorias?id=educacao-e-pesquisa",
+                        "https://www.gov.br/pt-br/categorias?id=forcas-armadas-e-defesa-civil"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacoes",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/noticias/viagens-e-turismo/2022/11/embratur-vai-divulgar-destinos-turisticos-brasileiros-durante-a-copa-do-mundo-do-catar",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2022/11/brasil-vai-apresentar-seu-potencial-de-energia-limpa-na-convencao-do-clima",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".dat",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/categorias?id=empresa-industria-e-comercio",
+                                "https://www.gov.br/pt-br/categorias?id=comunicacoes-e-transparencia-publica",
+                                "https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR",
+                                "https://www.gov.br/pt-br/categorias?id=justica-e-seguranca",
+                                "https://www.gov.br/pt-br/categorias?id=meio-ambiente-e-clima",
+                                "https://www.gov.br/pt-br/categorias?id=energia-minerais-e-combustiveis",
+                                "https://www.gov.br/pt-br/categorias?id=assistencia-social",
+                                "https://www.gov.br/pt-br/categorias?id=cultura-artes-historia-e-esportes",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                                "https://www.gov.br/pt-br/categorias?id=viagens-e-turismo",
+                                "https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                                "https://www.gov.br/pt-br/categorias?id=ciencia-e-tecnologia",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                                "https://apps.apple.com/br/app/conecte-sus/id1045754608",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade/painel-de-monitoramento-de-servicos-federais",
+                                "https://apps.apple.com/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217",
+                                "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/categorias?id=transito-e-transportes",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                                "https://www.gov.br/pt-br/categorias?id=financas-impostos-e-gestao-publica",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/categorias?id=trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/categorias?id=agricultura-e-pecuaria",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/categorias?id=educacao-e-pesquisa",
+                                "https://www.gov.br/pt-br/categorias?id=forcas-armadas-e-defesa-civil",
+                                "https://apps.apple.com/br/app/id1506827551",
+                                "https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "breve"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/noticias/viagens-e-turismo/2022/11/embratur-vai-divulgar-destinos-turisticos-brasileiros-durante-a-copa-do-mundo-do-catar",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2022/11/brasil-vai-apresentar-seu-potencial-de-energia-limpa-na-convencao-do-clima",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/noticias/viagens-e-turismo/2022/11/embratur-vai-divulgar-destinos-turisticos-brasileiros-durante-a-copa-do-mundo-do-catar",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2022/11/brasil-vai-apresentar-seu-potencial-de-energia-limpa-na-convencao-do-clima",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=3&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/categorias?id=saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=1&orgaoDestinatario=26",
+                            "https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber",
+                            "https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacoes",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

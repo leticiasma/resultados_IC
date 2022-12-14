@@ -1,0 +1,430 @@
+{
+    "urlPaginaPrincipal": "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-de-gestao-e-negocios/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "temas"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-F.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/CONVITE-Informac%CC%A7a%CC%83o-ini%CC%81cio-das-aulas-2021-2023.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Apresentacao-do-Funcionamento-do-Curso.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-E-1.pdf",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/PPC-GN-FEV2020.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Relac\u0327a\u0303o-de-Professores-IFPR-PG-GN-EF.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Regulamento-TCC-Po\u0301s-GN-2022-v5R-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Representantes-SEI_IFPR-1578277-Comunicado-1.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/07/v12-GRADE-TURMA-EF.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.gn.curitiba@ifpr.edu.br",
+                        "roberto.guindani@ifpr.edu.br",
+                        "diana.pegorini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.gn.curitiba@ifpr.edu.br",
+                        "roberto.guindani@ifpr.edu.br",
+                        "diana.pegorini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-F.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/CONVITE-Informac%CC%A7a%CC%83o-ini%CC%81cio-das-aulas-2021-2023.pdf",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Apresentacao-do-Funcionamento-do-Curso.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-E-1.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/PPC-GN-FEV2020.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Relac\u0327a\u0303o-de-Professores-IFPR-PG-GN-EF.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Regulamento-TCC-Po\u0301s-GN-2022-v5R-1.pdf",
+                                "https://orcid.org/0000-0001-8080-054X",
+                                "mailto:roberto.guindani@ifpr.edu.br",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Representantes-SEI_IFPR-1578277-Comunicado-1.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/07/v12-GRADE-TURMA-EF.pdf",
+                                "https://orcid.org/0000-0002-5600-5869"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "temas"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-F.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/CONVITE-Informac%CC%A7a%CC%83o-ini%CC%81cio-das-aulas-2021-2023.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Apresentacao-do-Funcionamento-do-Curso.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-E-1.pdf",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/PPC-GN-FEV2020.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Relac\u0327a\u0303o-de-Professores-IFPR-PG-GN-EF.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Regulamento-TCC-Po\u0301s-GN-2022-v5R-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Representantes-SEI_IFPR-1578277-Comunicado-1.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/07/v12-GRADE-TURMA-EF.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.gn.curitiba@ifpr.edu.br",
+                        "roberto.guindani@ifpr.edu.br",
+                        "diana.pegorini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-F.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/11/CONVITE-Informac%CC%A7a%CC%83o-ini%CC%81cio-das-aulas-2021-2023.pdf",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Apresentacao-do-Funcionamento-do-Curso.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/v11-GRADE-TURMA-E-1.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/PPC-GN-FEV2020.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Relac\u0327a\u0303o-de-Professores-IFPR-PG-GN-EF.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Regulamento-TCC-Po\u0301s-GN-2022-v5R-1.pdf",
+                                "https://orcid.org/0000-0001-8080-054X",
+                                "mailto:roberto.guindani@ifpr.edu.br",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/Representantes-SEI_IFPR-1578277-Comunicado-1.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/07/v12-GRADE-TURMA-EF.pdf",
+                                "https://orcid.org/0000-0002-5600-5869"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.gn.curitiba@ifpr.edu.br",
+                        "roberto.guindani@ifpr.edu.br",
+                        "diana.pegorini@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

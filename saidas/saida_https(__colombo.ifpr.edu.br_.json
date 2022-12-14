@@ -1,0 +1,536 @@
+{
+    "urlPaginaPrincipal": "https://colombo.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo",
+                        "temas",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://colombo.ifpr.edu.br/index.php/biblioteca/normalizacao/",
+                        "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/relacao-de-professores/",
+                        "https://colombo.ifpr.edu.br/index.php/biblioteca/lista-de-links/",
+                        "https://colombo.ifpr.edu.br/index.php/biblioteca/",
+                        "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/sistemas/",
+                        "https://colombo.ifpr.edu.br/wp-content/uploads/2021/12/17.-SIGAA-TUTORIAL-ALUNOS-PDF.pdf",
+                        "https://colombo.ifpr.edu.br/wp-content/uploads/2022/11/IFPR_Carteirinha_2022.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade",
+                        "classificacao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade",
+                        "classificacao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                            "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                            "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                            "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                            "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://colombo.ifpr.edu.br/index.php/napne/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/nutead/",
+                                "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/relacao-de-professores/",
+                                "https://colombo.ifpr.edu.br/index.php/superiores/tecnologia-em-alimentos/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/tecnico-em-informatica/",
+                                "https://colombo.ifpr.edu.br/index.php/planejamento-e-administracao/",
+                                "https://colombo.ifpr.edu.br/index.php/codic-colegio-de-dirigentes-do-campus/",
+                                "https://colombo.ifpr.edu.br/index.php/transferencia-interna-externa/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnologia-em-processos-gerenciais/",
+                                "index.php/processo-seletivo-2022-2023///",
+                                "https://colombo.ifpr.edu.br/index.php/tag/facebike/",
+                                "https://colombo.ifpr.edu.br/index.php/superiores/tads/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/quero-ser-estudante/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/11/01/atencao-periodo-de-rematricula-para-os-cursos-subsequentes-e-superiores/",
+                                "https://colombo.ifpr.edu.br/index.php/tag/mostra-de-artes/",
+                                "https://colombo.ifpr.edu.br/index.php/educacao-especial/",
+                                "https://colombo.ifpr.edu.br/index.php/sobreifpr/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/estagio/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/08/governo-retira-mais-de-r-5-milhoes-do-ifpr-e-impossibilita-pagamentos-neste-final-de-ano/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/09/e-hoje-o-show-de-talentos-da-mostra-de-arte-e-cultura-do-ifpr-campus-colombo/",
+                                "https://colombo.ifpr.edu.br/index.php/boletins-e-outros-documentos/",
+                                "https://colombo.ifpr.edu.br/index.php/estude-no-ifpr/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/sistemas/",
+                                "https://colombo.ifpr.edu.br/index.php/vi-mepi-mostra-de-ensino-extensao-pesquisa-e-inovacao/",
+                                "https://colombo.ifpr.edu.br/wp-content/uploads/2021/12/17.-SIGAA-TUTORIAL-ALUNOS-PDF.pdf",
+                                "https://colombo.ifpr.edu.br/wp-content/uploads/2022/11/IFPR_Carteirinha_2022.pdf",
+                                "index.php/sistemas/",
+                                "https://colombo.ifpr.edu.br/index.php/biblioteca/lista-de-links/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/tecnico-em-administracao/",
+                                "https://colombo.ifpr.edu.br/index.php/processo-seletivo-simplifcado/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/05/alunos-do-campus-colombo-fazem-cartazes-sobre-a-cultura-africana/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/",
+                                "https://colombo.ifpr.edu.br/index.php/tag/dia-da-da-consciencia-negra/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/quero-ser-um-parceiro/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/alunos/diretorio-academico/",
+                                "https://colombo.ifpr.edu.br/index.php/guia-do-estudante/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://colombo.ifpr.edu.br/index.php/olimpiada-de-robotica/",
+                                "https://colombo.ifpr.edu.br/index.php/assistencia-estudantil-bolsas-e-auxilios/",
+                                "https://colombo.ifpr.edu.br/index.php/avaliacao-recuperacao-aprovacao-reprovacao-e-dependencias/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/tecnico-em-alimentos/",
+                                "https://colombo.ifpr.edu.br/index.php/projeto-politico-pedagogico-do-campus-colombo/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/10/18/resultado-provisorio-das-bancas-de-validacao-de-pretos-e-pardos-do-processo-seletivo-ifpr-2022-2023-e-publicado/",
+                                "https://colombo.ifpr.edu.br/index.php/superiores/",
+                                "https://colombo.ifpr.edu.br/index.php/a-sepae/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/10/18/programacao-mepi/",
+                                "https://colombo.ifpr.edu.br/index.php/pesquisa-e-extensao/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-subsequentes/tecnico-em-administracao/",
+                                "https://colombo.ifpr.edu.br/index.php/iftech-ifagrotech/",
+                                "index.php/rematricula-2/",
+                                "https://colombo.ifpr.edu.br/index.php/pac-plano-anual-de-contratacoes/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-subsequentes/",
+                                "https://colombo.ifpr.edu.br/index.php/o-campus-colombo/",
+                                "https://colombo.ifpr.edu.br/index.php/cursos/",
+                                "https://colombo.ifpr.edu.br/index.php/tag/nota-oficial/",
+                                "https://colombo.ifpr.edu.br/index.php/fale-conosco/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/documentos-e-formularios/",
+                                "https://colombo.ifpr.edu.br/index.php/nit/",
+                                "https://colombo.ifpr.edu.br/index.php/direitos-e-deveres-dos-estudantes/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/cursos-ead/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/11/16/classificacao-dos-projetos-da-vi-iftech-e-v-ifagrotech/",
+                                "https://colombo.ifpr.edu.br/index.php/atendimento-aos-alunos/",
+                                "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/",
+                                "https://colombo.ifpr.edu.br/index.php/informacoes-sobre-os-cursos/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/calendario-academico/",
+                                "https://colombo.ifpr.edu.br/index.php/equipe-da-sepae/",
+                                "https://colombo.ifpr.edu.br/index.php/rematricula/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/11/23/i-ectal-i-encontro-de-ciencia-e-tecnologia-de-alimentos/",
+                                "https://colombo.ifpr.edu.br/index.php/biblioteca/normalizacao/",
+                                "https://colombo.ifpr.edu.br/index.php/biblioteca/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/10/26/teste/",
+                                "https://colombo.ifpr.edu.br/index.php/concursos-e-selecoes/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/06/estudantes-do-campus-colombo-conquistam-1o-lugar-na-19a-semana-nacional-de-ciencia-e-tecnologia/",
+                                "https://colombo.ifpr.edu.br/index.php/cpa-comissao-propria-de-avaliacao/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                            "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                            "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo",
+                        "temas",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://colombo.ifpr.edu.br/index.php/biblioteca/normalizacao/",
+                        "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/relacao-de-professores/",
+                        "https://colombo.ifpr.edu.br/index.php/biblioteca/lista-de-links/",
+                        "https://colombo.ifpr.edu.br/index.php/biblioteca/",
+                        "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/sistemas/",
+                        "https://colombo.ifpr.edu.br/wp-content/uploads/2021/12/17.-SIGAA-TUTORIAL-ALUNOS-PDF.pdf",
+                        "https://colombo.ifpr.edu.br/wp-content/uploads/2022/11/IFPR_Carteirinha_2022.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade",
+                        "classificacao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                            "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                            "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://colombo.ifpr.edu.br/index.php/napne/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/nutead/",
+                                "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/relacao-de-professores/",
+                                "https://colombo.ifpr.edu.br/index.php/superiores/tecnologia-em-alimentos/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/tecnico-em-informatica/",
+                                "https://colombo.ifpr.edu.br/index.php/planejamento-e-administracao/",
+                                "https://colombo.ifpr.edu.br/index.php/codic-colegio-de-dirigentes-do-campus/",
+                                "https://colombo.ifpr.edu.br/index.php/transferencia-interna-externa/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnologia-em-processos-gerenciais/",
+                                "index.php/processo-seletivo-2022-2023///",
+                                "https://colombo.ifpr.edu.br/index.php/tag/facebike/",
+                                "https://colombo.ifpr.edu.br/index.php/superiores/tads/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/quero-ser-estudante/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/11/01/atencao-periodo-de-rematricula-para-os-cursos-subsequentes-e-superiores/",
+                                "https://colombo.ifpr.edu.br/index.php/tag/mostra-de-artes/",
+                                "https://colombo.ifpr.edu.br/index.php/educacao-especial/",
+                                "https://colombo.ifpr.edu.br/index.php/sobreifpr/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/estagio/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/08/governo-retira-mais-de-r-5-milhoes-do-ifpr-e-impossibilita-pagamentos-neste-final-de-ano/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/09/e-hoje-o-show-de-talentos-da-mostra-de-arte-e-cultura-do-ifpr-campus-colombo/",
+                                "https://colombo.ifpr.edu.br/index.php/boletins-e-outros-documentos/",
+                                "https://colombo.ifpr.edu.br/index.php/estude-no-ifpr/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/sistemas/",
+                                "https://colombo.ifpr.edu.br/index.php/vi-mepi-mostra-de-ensino-extensao-pesquisa-e-inovacao/",
+                                "https://colombo.ifpr.edu.br/wp-content/uploads/2021/12/17.-SIGAA-TUTORIAL-ALUNOS-PDF.pdf",
+                                "https://colombo.ifpr.edu.br/wp-content/uploads/2022/11/IFPR_Carteirinha_2022.pdf",
+                                "index.php/sistemas/",
+                                "https://colombo.ifpr.edu.br/index.php/biblioteca/lista-de-links/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/tecnico-em-administracao/",
+                                "https://colombo.ifpr.edu.br/index.php/processo-seletivo-simplifcado/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/05/alunos-do-campus-colombo-fazem-cartazes-sobre-a-cultura-africana/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/",
+                                "https://colombo.ifpr.edu.br/index.php/tag/dia-da-da-consciencia-negra/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/quero-ser-um-parceiro/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/alunos/diretorio-academico/",
+                                "https://colombo.ifpr.edu.br/index.php/guia-do-estudante/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://colombo.ifpr.edu.br/index.php/olimpiada-de-robotica/",
+                                "https://colombo.ifpr.edu.br/index.php/assistencia-estudantil-bolsas-e-auxilios/",
+                                "https://colombo.ifpr.edu.br/index.php/avaliacao-recuperacao-aprovacao-reprovacao-e-dependencias/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/tecnico-em-alimentos/",
+                                "https://colombo.ifpr.edu.br/index.php/projeto-politico-pedagogico-do-campus-colombo/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/10/18/resultado-provisorio-das-bancas-de-validacao-de-pretos-e-pardos-do-processo-seletivo-ifpr-2022-2023-e-publicado/",
+                                "https://colombo.ifpr.edu.br/index.php/superiores/",
+                                "https://colombo.ifpr.edu.br/index.php/a-sepae/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/10/18/programacao-mepi/",
+                                "https://colombo.ifpr.edu.br/index.php/pesquisa-e-extensao/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-subsequentes/tecnico-em-administracao/",
+                                "https://colombo.ifpr.edu.br/index.php/iftech-ifagrotech/",
+                                "index.php/rematricula-2/",
+                                "https://colombo.ifpr.edu.br/index.php/pac-plano-anual-de-contratacoes/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-subsequentes/",
+                                "https://colombo.ifpr.edu.br/index.php/o-campus-colombo/",
+                                "https://colombo.ifpr.edu.br/index.php/cursos/",
+                                "https://colombo.ifpr.edu.br/index.php/tag/nota-oficial/",
+                                "https://colombo.ifpr.edu.br/index.php/fale-conosco/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/docentes/documentos-e-formularios/",
+                                "https://colombo.ifpr.edu.br/index.php/nit/",
+                                "https://colombo.ifpr.edu.br/index.php/direitos-e-deveres-dos-estudantes/",
+                                "https://colombo.ifpr.edu.br/index.php/ead/cursos-ead/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/11/16/classificacao-dos-projetos-da-vi-iftech-e-v-ifagrotech/",
+                                "https://colombo.ifpr.edu.br/index.php/atendimento-aos-alunos/",
+                                "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/",
+                                "https://colombo.ifpr.edu.br/index.php/informacoes-sobre-os-cursos/",
+                                "https://colombo.ifpr.edu.br/index.php/tecnicos-integrados/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/calendario-academico/",
+                                "https://colombo.ifpr.edu.br/index.php/equipe-da-sepae/",
+                                "https://colombo.ifpr.edu.br/index.php/rematricula/",
+                                "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/11/23/i-ectal-i-encontro-de-ciencia-e-tecnologia-de-alimentos/",
+                                "https://colombo.ifpr.edu.br/index.php/biblioteca/normalizacao/",
+                                "https://colombo.ifpr.edu.br/index.php/biblioteca/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/10/26/teste/",
+                                "https://colombo.ifpr.edu.br/index.php/concursos-e-selecoes/",
+                                "https://colombo.ifpr.edu.br/index.php/2022/12/06/estudantes-do-campus-colombo-conquistam-1o-lugar-na-19a-semana-nacional-de-ciencia-e-tecnologia/",
+                                "https://colombo.ifpr.edu.br/index.php/cpa-comissao-propria-de-avaliacao/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                            "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                            "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/",
+                            "https://colombo.ifpr.edu.br/index.php/menu-academico/secretaria-academica/documentos/",
+                            "https://colombo.ifpr.edu.br/index.php/horario-de-atendimento-da-sepae/",
+                            "https://colombo.ifpr.edu.br/index.php/editais-e-portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "qualidade",
+                        "classificacao",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

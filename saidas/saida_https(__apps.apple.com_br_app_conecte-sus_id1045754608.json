@@ -1,0 +1,445 @@
+{
+    "urlPaginaPrincipal": "https://apps.apple.com/br/app/conecte-sus/id1045754608",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "responsavel",
+                        "responsaveis",
+                        "versao",
+                        "descricao",
+                        "criado",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "criado",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "criado",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "dat",
+                                "id",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://apps.apple.com/br/app/meu-inss-central-de-servi%C3%A7os/id1243048358",
+                                "https://apps.apple.com/br/app/webdiet-para-pacientes/id1195115431",
+                                "https://apps.apple.com/br/app/conexa-sa%C3%BAde/id1476749720",
+                                "https://apps.apple.com/br/developer/servicos-e-informacoes-do-brasil/id1475781851",
+                                "https://apps.apple.com/br/app/drogasil/id1328994276",
+                                "https://www.apple.com/br/airpods/",
+                                "https://apps.apple.com/br/app/mei/id1040521803",
+                                "https://apps.apple.com/br/app/enem-inep/id1114622953",
+                                "https://apps.apple.com/br/app/doctoralia-cuide-da-sua-sa%C3%BAde/id1453542076",
+                                "https://apps.apple.com/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217",
+                                "/br/app/conecte-sus/id1045754608?platform=ipad",
+                                "https://itunes.apple.com/br/genre/id6020",
+                                "https://apps.apple.com/br/app/panvel-farm%C3%A1cia-e-perfumaria/id1039184023",
+                                "https://apps.apple.com/br/app/sine-facil/id1251035126",
+                                "https://apps.apple.com/story/id1538632801",
+                                "http://datasus.saude.gov.br/",
+                                "https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499",
+                                "https://apps.apple.com/br/app/droga-raia/id1093925421",
+                                "https://www.apple.com/br/sitemap/",
+                                "/br/app/conecte-sus/id1045754608?platform=iphone"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "criado",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "responsavel",
+                        "responsaveis",
+                        "versao",
+                        "descricao",
+                        "criado",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": [],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "criado",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "ods",
+                                "dat",
+                                "id",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://apps.apple.com/br/app/meu-inss-central-de-servi%C3%A7os/id1243048358",
+                                "https://apps.apple.com/br/app/webdiet-para-pacientes/id1195115431",
+                                "https://apps.apple.com/br/app/conexa-sa%C3%BAde/id1476749720",
+                                "https://apps.apple.com/br/developer/servicos-e-informacoes-do-brasil/id1475781851",
+                                "https://apps.apple.com/br/app/drogasil/id1328994276",
+                                "https://www.apple.com/br/airpods/",
+                                "https://apps.apple.com/br/app/mei/id1040521803",
+                                "https://apps.apple.com/br/app/enem-inep/id1114622953",
+                                "https://apps.apple.com/br/app/doctoralia-cuide-da-sua-sa%C3%BAde/id1453542076",
+                                "https://apps.apple.com/br/app/carteira-digital-de-tr%C3%A2nsito/id1275057217",
+                                "/br/app/conecte-sus/id1045754608?platform=ipad",
+                                "https://itunes.apple.com/br/genre/id6020",
+                                "https://apps.apple.com/br/app/panvel-farm%C3%A1cia-e-perfumaria/id1039184023",
+                                "https://apps.apple.com/br/app/sine-facil/id1251035126",
+                                "https://apps.apple.com/story/id1538632801",
+                                "http://datasus.saude.gov.br/",
+                                "https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499",
+                                "https://apps.apple.com/br/app/droga-raia/id1093925421",
+                                "https://www.apple.com/br/sitemap/",
+                                "/br/app/conecte-sus/id1045754608?platform=iphone"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "criado",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data",
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "criado",
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "descricao",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacoes",
+                        "classificacao",
+                        "correcao",
+                        "compartilhar",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

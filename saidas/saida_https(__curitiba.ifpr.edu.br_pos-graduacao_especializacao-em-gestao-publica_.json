@@ -1,0 +1,544 @@
+{
+    "urlPaginaPrincipal": "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-publica/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "referencia",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0141381-Edital-retificado.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-028-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-2\u00aa-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0203864-Edital-resultado-provis\u00f3rio-gp.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195974-Edital-9.pdf",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207262-Edital-resultado-final-gest\u00e3o-p\u00fablica.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708174-Edital-116.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/ANEXO-MODELO-DE-PROJETO.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-020-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-HOMOLOGA\u00c7\u00c3O-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207257-Edital-p\u00f3s-recurso-2.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-031-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica-gesta\u0303o-de-pessoas.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195963-Edital-8.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/PPC-P\u00f3s-Gradua\u00e7\u00e3o-GP-3-habilita\u00e7\u00f5es-_3_.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1686414-Edital-94-2-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/04/Edital-031-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-3\u00aa-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-022-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-provis\u00f3rio.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190417-Edital-homologac\u0327a\u0303o-especializac\u0327a\u0303o-gesta\u0303o-pu\u0301blica.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/EDITAL-048-18-POS-GEST\u00c3O-P\u00daBLICA-GEST\u00c3O-DE-PESSOAS.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-021-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-027-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-FINAL.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/EDITAL-N\u00b030-DE-23-DE-MARC\u0327O-DE-2020-CURSO-ESPECIALIZAC\u0327A\u0303O-LATO-SENSU-EM-GESTA\u0303O-PU\u0301BLICA-HABILITAC\u0327A\u0303O-HOMOLOGAC\u0327A\u0303O-FINAL-DAS-INSCRIC\u0327O\u0303ES.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/Edital-gp.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/05/SEI_IFPR-1725308-Edital-140.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "antonio.novaes@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "antonio.novaes@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0141381-Edital-retificado.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-028-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-2\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0203864-Edital-resultado-provis\u00f3rio-gp.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195974-Edital-9.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207262-Edital-resultado-final-gest\u00e3o-p\u00fablica.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708174-Edital-116.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0663353%20&codigo_crc=232F05B8&hash_download=f27b4c41675e8f8c5ca38dab13666860acb01fa1d8d11f54017a92d59057d62ef050538a19350fea715d06e207481378588bb55889d0f955a6764f223b3950fa&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/ANEXO-MODELO-DE-PROJETO.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-020-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-HOMOLOGA\u00c7\u00c3O-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207257-Edital-p\u00f3s-recurso-2.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-031-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica-gesta\u0303o-de-pessoas.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195963-Edital-8.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/PPC-P\u00f3s-Gradua\u00e7\u00e3o-GP-3-habilita\u00e7\u00f5es-_3_.pdf",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0710472&codigo_crc=150AA226&hash_download=b74dd7c5e137f742e5240f0429d955070483d07ccbd6531b5bcf76f226a9fb072c0103d63134f5402fad59c2776ad2db1309024aec121a05f983cb164e6ce50d&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1686414-Edital-94-2-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/04/Edital-031-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-3\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-022-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-provis\u00f3rio.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0665850%20&codigo_crc=E9A89027&hash_download=d5e8114e86e9def59f91811dd4afa60d9836e1d293df689a7a49758cae1af9a989b592380569a270226c5c41484996bdf90125ee169ca95a71068dbc9425fdc6&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0668500%20&codigo_crc=A9EE4E6C&hash_download=27c669c906f29a8c3618c28b9e1b2b574119ab34ea7da0869b8166838a58949951ad75338361a39c9459cbc4fa7657c083e3ae7f1462fd4061a9414a78d68882&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1715482&codigo_crc=48D8E1A9&hash_download=167e911701b6b2c3c04143904ca7ef9b80328b9bd62069fdb7a857595c80649cba43b6ca225117bea142bdfdbbe9b2983ffdfbca59e719100d8268ea372df6d7&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190417-Edital-homologac\u0327a\u0303o-especializac\u0327a\u0303o-gesta\u0303o-pu\u0301blica.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1715517&codigo_crc=5B0EA527&hash_download=c2af2558d480b794acbdce92b7f31a5491745242e0d1697cefb99606af9de13d10eb1e049196b6fead0ef812e8e212a720c5d75e751e230b07db2632aeeacf15&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/EDITAL-048-18-POS-GEST\u00c3O-P\u00daBLICA-GEST\u00c3O-DE-PESSOAS.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-021-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-027-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-FINAL.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/EDITAL-N\u00b030-DE-23-DE-MARC\u0327O-DE-2020-CURSO-ESPECIALIZAC\u0327A\u0303O-LATO-SENSU-EM-GESTA\u0303O-PU\u0301BLICA-HABILITAC\u0327A\u0303O-HOMOLOGAC\u0327A\u0303O-FINAL-DAS-INSCRIC\u0327O\u0303ES.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/Edital-gp.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/05/SEI_IFPR-1725308-Edital-140.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "referencia",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0141381-Edital-retificado.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-028-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-2\u00aa-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0203864-Edital-resultado-provis\u00f3rio-gp.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195974-Edital-9.pdf",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207262-Edital-resultado-final-gest\u00e3o-p\u00fablica.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708174-Edital-116.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/ANEXO-MODELO-DE-PROJETO.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-020-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-HOMOLOGA\u00c7\u00c3O-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207257-Edital-p\u00f3s-recurso-2.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-031-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica-gesta\u0303o-de-pessoas.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195963-Edital-8.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/PPC-P\u00f3s-Gradua\u00e7\u00e3o-GP-3-habilita\u00e7\u00f5es-_3_.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1686414-Edital-94-2-1.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/04/Edital-031-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-3\u00aa-chamada.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-022-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-provis\u00f3rio.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190417-Edital-homologac\u0327a\u0303o-especializac\u0327a\u0303o-gesta\u0303o-pu\u0301blica.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/EDITAL-048-18-POS-GEST\u00c3O-P\u00daBLICA-GEST\u00c3O-DE-PESSOAS.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-021-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-027-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-FINAL.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/EDITAL-N\u00b030-DE-23-DE-MARC\u0327O-DE-2020-CURSO-ESPECIALIZAC\u0327A\u0303O-LATO-SENSU-EM-GESTA\u0303O-PU\u0301BLICA-HABILITAC\u0327A\u0303O-HOMOLOGAC\u0327A\u0303O-FINAL-DAS-INSCRIC\u0327O\u0303ES.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/Edital-gp.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/05/SEI_IFPR-1725308-Edital-140.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "antonio.novaes@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0141381-Edital-retificado.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-028-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-2\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0203864-Edital-resultado-provis\u00f3rio-gp.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195974-Edital-9.pdf",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207262-Edital-resultado-final-gest\u00e3o-p\u00fablica.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708174-Edital-116.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0663353%20&codigo_crc=232F05B8&hash_download=f27b4c41675e8f8c5ca38dab13666860acb01fa1d8d11f54017a92d59057d62ef050538a19350fea715d06e207481378588bb55889d0f955a6764f223b3950fa&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/02/ANEXO-MODELO-DE-PROJETO.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-020-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-HOMOLOGA\u00c7\u00c3O-DAS-INSCRI\u00c7\u00d5ES.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0207257-Edital-p\u00f3s-recurso-2.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2017/12/Edital-031-17-Processo-Seletivo-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica-gesta\u0303o-de-pessoas.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0195963-Edital-8.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/PPC-P\u00f3s-Gradua\u00e7\u00e3o-GP-3-habilita\u00e7\u00f5es-_3_.pdf",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0710472&codigo_crc=150AA226&hash_download=b74dd7c5e137f742e5240f0429d955070483d07ccbd6531b5bcf76f226a9fb072c0103d63134f5402fad59c2776ad2db1309024aec121a05f983cb164e6ce50d&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1686414-Edital-94-2-1.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/04/Edital-031-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-3\u00aa-chamada.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-022-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-provis\u00f3rio.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0665850%20&codigo_crc=E9A89027&hash_download=d5e8114e86e9def59f91811dd4afa60d9836e1d293df689a7a49758cae1af9a989b592380569a270226c5c41484996bdf90125ee169ca95a71068dbc9425fdc6&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0668500%20&codigo_crc=A9EE4E6C&hash_download=27c669c906f29a8c3618c28b9e1b2b574119ab34ea7da0869b8166838a58949951ad75338361a39c9459cbc4fa7657c083e3ae7f1462fd4061a9414a78d68882&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1715482&codigo_crc=48D8E1A9&hash_download=167e911701b6b2c3c04143904ca7ef9b80328b9bd62069fdb7a857595c80649cba43b6ca225117bea142bdfdbbe9b2983ffdfbca59e719100d8268ea372df6d7&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190417-Edital-homologac\u0327a\u0303o-especializac\u0327a\u0303o-gesta\u0303o-pu\u0301blica.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1715517&codigo_crc=5B0EA527&hash_download=c2af2558d480b794acbdce92b7f31a5491745242e0d1697cefb99606af9de13d10eb1e049196b6fead0ef812e8e212a720c5d75e751e230b07db2632aeeacf15&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/EDITAL-048-18-POS-GEST\u00c3O-P\u00daBLICA-GEST\u00c3O-DE-PESSOAS.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Edital-021-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/03/Edital-027-18-Processo-Seletivo-Especializa\u00e7\u00e3o-Gest\u00e3o-P\u00fablica-resultado-FINAL.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/03/EDITAL-N\u00b030-DE-23-DE-MARC\u0327O-DE-2020-CURSO-ESPECIALIZAC\u0327A\u0303O-LATO-SENSU-EM-GESTA\u0303O-PU\u0301BLICA-HABILITAC\u0327A\u0303O-HOMOLOGAC\u0327A\u0303O-FINAL-DAS-INSCRIC\u0327O\u0303ES.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/02/Edital-gp.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/05/SEI_IFPR-1725308-Edital-140.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/02/Portaria-012-18-Comiss\u00e3o-homologa\u00e7\u00e3o-das-inscri\u00e7\u00f5es-Edital-031.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0197650-Portaria-2\u00ba-retifica\u00e7\u00e3o-da-Especializa\u00e7\u00e3o.pdf",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2019/02/SEI_IFPR-0190404-Portaria-Comissa\u0303o-Especializac\u0327a\u0303o-Gesta\u0303o-Pu\u0301blica.pdf",
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/",
+                            "https://curitiba.ifpr.edu.br/wp-content/uploads/2018/12/SEI_IFPR-0123526-Portaria-comiss\u00e3o-especializa\u00e7\u00e3o-gest\u00e3o-de-pessoas.pdf"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "antonio.novaes@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

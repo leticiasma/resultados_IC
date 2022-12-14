@@ -1,0 +1,434 @@
+{
+    "urlPaginaPrincipal": "https://curitiba.ifpr.edu.br/pos-graduacao/especializacao-em-gestao-social-e-politicas-publicas/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "responsavel",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Resultado-dos-Procedimentos-de-Heteroidentifica\u00e7\u00e3o-Racial-Avalia\u00e7\u00e3o-Biopsicossocial-e-Entrevistas-Relacionadas-\u00e0s-Cotas.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/Regulamento-TCC-e-Crite%CC%81rios-de-Avaliac%CC%A7a%CC%83o-1.pdf",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1694144-Edital-99.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708278-Edital-117.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/SEI_IFPR-1669314-Edital-80.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/PPC_2022_Projeto_Pedagogico_do_Curso_Atual_2022.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/EDITAL-58-PROCESSO-SELETIVO-GSPP-2022-2.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1699771-Edital-110.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1710295-Edital-118.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1698608-Edital-106.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1684203-Edital-91.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "gspp.curitiba@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "gspp.curitiba@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Resultado-dos-Procedimentos-de-Heteroidentifica\u00e7\u00e3o-Racial-Avalia\u00e7\u00e3o-Biopsicossocial-e-Entrevistas-Relacionadas-\u00e0s-Cotas.pdf",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1742647%20&codigo_crc=BAA7EB43&hash_download=879eae392ff0066b48b66a8f210f405d0485d543d30d1184b2ff914b0289659ded820e32d9d9be2f1b2747b4a512ac2f52b1a2c58d1079b4060c110c20de0184&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/Regulamento-TCC-e-Crite%CC%81rios-de-Avaliac%CC%A7a%CC%83o-1.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1694144-Edital-99.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708278-Edital-117.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1807709%20&codigo_crc=802FB34D&hash_download=9b7a1d6e98fe1453978a749d8e9af776236cf5e04c41067543c160b2309026cbc9c4cd920f0c4cefcb64541cc1775dec0afc88a02ede2a01084b3ae8ddf8fc3b&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1744677&codigo_crc=20F1E99C&hash_download=8044bef2520275897b6f3185c033dafffa38a1a7b817d73a2cded8e8de0e68e5203a98c5bdc5045d6dc75fd680f5b0fbbe259529b429275a2d4f7ee922d714dd&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/SEI_IFPR-1669314-Edital-80.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/PPC_2022_Projeto_Pedagogico_do_Curso_Atual_2022.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1807621%20&codigo_crc=E05FF81C&hash_download=58e54a34bc439d180aeaaaf8a998fec0fb755594aa1b71a5594ca80103d9dd21906a2e913362068619bdf5796254558499c6b929cdc173b03e5b7c5247fa89a8&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/EDITAL-58-PROCESSO-SELETIVO-GSPP-2022-2.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1699771-Edital-110.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1710295-Edital-118.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1698608-Edital-106.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1684203-Edital-91.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "referencia",
+                        "responsavel",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Resultado-dos-Procedimentos-de-Heteroidentifica\u00e7\u00e3o-Racial-Avalia\u00e7\u00e3o-Biopsicossocial-e-Entrevistas-Relacionadas-\u00e0s-Cotas.pdf",
+                        "https://curitiba.ifpr.edu.br/biblioteca-virtual/",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://curitiba.ifpr.edu.br/sugestao-para-aquisicao-de-livros-para-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/guia-do-usuario-da-biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/Regulamento-TCC-e-Crite%CC%81rios-de-Avaliac%CC%A7a%CC%83o-1.pdf",
+                        "https://curitiba.ifpr.edu.br/servicos/biblioteca/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1694144-Edital-99.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708278-Edital-117.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/SEI_IFPR-1669314-Edital-80.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/PPC_2022_Projeto_Pedagogico_do_Curso_Atual_2022.pdf",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/EDITAL-58-PROCESSO-SELETIVO-GSPP-2022-2.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1699771-Edital-110.pdf",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1710295-Edital-118.pdf",
+                        "https://curitiba.ifpr.edu.br/normativas-da-biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1698608-Edital-106.pdf",
+                        "https://curitiba.ifpr.edu.br/centro-de-referencia-de-ponta-grossa/",
+                        "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1684203-Edital-91.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "gspp.curitiba@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/Resultado-dos-Procedimentos-de-Heteroidentifica\u00e7\u00e3o-Racial-Avalia\u00e7\u00e3o-Biopsicossocial-e-Entrevistas-Relacionadas-\u00e0s-Cotas.pdf",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://curitiba.ifpr.edu.br/menu-institucional/pesquisa-extensao-inovacao/duvidas-frequentes/",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1742647%20&codigo_crc=BAA7EB43&hash_download=879eae392ff0066b48b66a8f210f405d0485d543d30d1184b2ff914b0289659ded820e32d9d9be2f1b2747b4a512ac2f52b1a2c58d1079b4060c110c20de0184&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2021/12/Regulamento-TCC-e-Crite%CC%81rios-de-Avaliac%CC%A7a%CC%83o-1.pdf",
+                                "https://curitiba.ifpr.edu.br/midiateca/",
+                                "https://curitiba.ifpr.edu.br/menu-do-servidor/servidores-do-campus/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1694144-Edital-99.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1708278-Edital-117.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1807709%20&codigo_crc=802FB34D&hash_download=9b7a1d6e98fe1453978a749d8e9af776236cf5e04c41067543c160b2309026cbc9c4cd920f0c4cefcb64541cc1775dec0afc88a02ede2a01084b3ae8ddf8fc3b&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1744677&codigo_crc=20F1E99C&hash_download=8044bef2520275897b6f3185c033dafffa38a1a7b817d73a2cded8e8de0e68e5203a98c5bdc5045d6dc75fd680f5b0fbbe259529b429275a2d4f7ee922d714dd&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/SEI_IFPR-1669314-Edital-80.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://curitiba.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/PPC_2022_Projeto_Pedagogico_do_Curso_Atual_2022.pdf",
+                                "https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1807621%20&codigo_crc=E05FF81C&hash_download=58e54a34bc439d180aeaaaf8a998fec0fb755594aa1b71a5594ca80103d9dd21906a2e913362068619bdf5796254558499c6b929cdc173b03e5b7c5247fa89a8&visualizacao=1&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/03/EDITAL-58-PROCESSO-SELETIVO-GSPP-2022-2.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1699771-Edital-110.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1710295-Edital-118.pdf",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1698608-Edital-106.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://curitiba.ifpr.edu.br/wp-content/uploads/2022/04/SEI_IFPR-1684203-Edital-91.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://curitiba.ifpr.edu.br/horarios-de-aula/",
+                            "https://curitiba.ifpr.edu.br/menu-academico/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "gspp.curitiba@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}
