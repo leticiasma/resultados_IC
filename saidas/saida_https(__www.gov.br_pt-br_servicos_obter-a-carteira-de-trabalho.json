@@ -1,0 +1,576 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "informacoes adicionais",
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "formato",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia",
+                        "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego/para-o-cidadao",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR",
+                        "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "trabalho.sp@economia.gov.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "trabalho.sp@economia.gov.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://in.gov.br/en/web/dou/-/portaria-359094139",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://in.gov.br/en/web/dou/-/portaria-359094139",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".dat",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia",
+                                "https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais",
+                                "https://www.gov.br/pt-br/orgaos/ministerio-do-trabalho-e-previdencia",
+                                "https://apps.apple.com/br/app/ctps-digital/id1295257499",
+                                "https://twitter.com/share?text=Obter%20a%20Carteira%20de%20Trabalho&url=https://www.gov.br/resolveuid/f7b726b43c7d49e1b6170377f55ddf7b",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Carteira%20de%20Trabalho%20e%20Previd%C3%AAncia%20Social",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego/para-o-cidadao",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://in.gov.br/en/web/dou/-/portaria-359094139",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "informacoes adicionais",
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "formato",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia",
+                        "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego/para-o-cidadao",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR",
+                        "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "trabalho.sp@economia.gov.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://in.gov.br/en/web/dou/-/portaria-359094139",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".dat",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia",
+                                "https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais",
+                                "https://www.gov.br/pt-br/orgaos/ministerio-do-trabalho-e-previdencia",
+                                "https://apps.apple.com/br/app/ctps-digital/id1295257499",
+                                "https://twitter.com/share?text=Obter%20a%20Carteira%20de%20Trabalho&url=https://www.gov.br/resolveuid/f7b726b43c7d49e1b6170377f55ddf7b",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Carteira%20de%20Trabalho%20e%20Previd%C3%AAncia%20Social",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/categorias/trabalho-e-previdencia/trabalho-e-emprego/para-o-cidadao",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://in.gov.br/en/web/dou/-/portaria-359094139",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://in.gov.br/en/web/dou/-/portaria-359094139",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "trabalho.sp@economia.gov.br"
+                    ]
+                }
+            }
+        }
+    }
+}

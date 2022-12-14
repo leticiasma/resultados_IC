@@ -1,0 +1,572 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "informacoes adicionais",
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/cpf-cnpj-e-outros-cadastros/cpf",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=2",
+                        "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/cpf-cnpj-e-outros-cadastros",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                        "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ComprovanteAutenticidade/CPFautentic.asp",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00015",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/@@search?Subject%3Alist=Consultar%20CPF",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas&title=Consultar%20CPF",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                            "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/@@search?Subject%3Alist=Consultar%20CPF",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas&title=Consultar%20CPF",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                            "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                                "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ComprovanteAutenticidade/CPFautentic.asp",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00015",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=2",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Autenticidade",
+                                "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=61197"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/@@search?Subject%3Alist=Consultar%20CPF",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas&title=Consultar%20CPF",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                            "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "informacoes adicionais",
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/cpf-cnpj-e-outros-cadastros/cpf",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=2",
+                        "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/cpf-cnpj-e-outros-cadastros",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                        "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ComprovanteAutenticidade/CPFautentic.asp",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00015",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/@@search?Subject%3Alist=Consultar%20CPF",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas&title=Consultar%20CPF",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                            "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                                "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ComprovanteAutenticidade/CPFautentic.asp",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00015",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=2",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Autenticidade",
+                                "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=61197"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/@@search?Subject%3Alist=Consultar%20CPF",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas&title=Consultar%20CPF",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                            "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/@@search?Subject%3Alist=Consultar%20CPF",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas&title=Consultar%20CPF",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://twitter.com/share?text=Consultar%20CPF&url=https://www.gov.br/resolveuid/44cb77bcd0e3401d87edbf1916723dd6",
+                            "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

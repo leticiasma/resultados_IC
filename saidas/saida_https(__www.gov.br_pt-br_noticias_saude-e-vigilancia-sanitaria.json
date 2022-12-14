@@ -1,0 +1,454 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "idioma",
+                        "ponto contato",
+                        "licenca",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/economia/pt-br/assuntos/gestao/central-de-compras/taxigov/paginas/taxigov-acesso-aos-sistemas",
+                        "https://www.gov.br/economia/pt-br/internet/divulgacao/quem-e-quem/atualizacao-no-quem-e-quem",
+                        "https://www.gov.br/economia/pt-br/orgaos/orgaos-colegiados/conselho-de-recursos-do-sistema-financeiro-nacional",
+                        "https://www.gov.br/economia/pt-br/orgaos/orgaos-colegiados/conselho-de-recursos-do-sistema-nacional-de-seguros-privados-de-previdencia-aberta-e-de-capitalizacao"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                            "https://www.gov.br/@@multilingual-selector/notg/en?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=en",
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                            "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                            "http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/formarrecuperarconta.html#",
+                            "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura",
+                            "https://www.gov.br/@@multilingual-selector/notg/es?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=es",
+                            "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                            "https://www.gov.br/@@multilingual-selector/notg/en?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=en",
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                            "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                            "http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/formarrecuperarconta.html#",
+                            "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura",
+                            "https://www.gov.br/@@multilingual-selector/notg/es?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=es",
+                            "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dataset"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "tab",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/assuntos/rendaeoportunidade",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/servicos/trabalhador/qualificacao-profissional-1/caminho-digital/caminho-digital",
+                                "/trabalho-e-previdencia/pt-br/inspecao/escola/revista",
+                                "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/caminho-da-prosperidade",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex",
+                                "https://www.gov.br/cidadania/pt-br/auxilio-brasil",
+                                "https://www.gov.br/mma/pt-br/assuntos/areasprotegidasecoturismo/adoteumparque",
+                                "https://www.gov.br/economia/pt-br/orgaos/orgaos-colegiados/conselho-de-recursos-do-sistema-nacional-de-seguros-privados-de-previdencia-aberta-e-de-capitalizacao",
+                                "https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvidoria-do-sus",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade",
+                                "https://dados.gov.br/dataset/dominios-gov-br",
+                                "https://www.gov.br/prf/pt-br/servicos/sinal-desaparecidos",
+                                "http://defesadoempreendedor.datalegis.inf.br",
+                                "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/pcn",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/reducao-do-custo-brasil",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/servicos/empregador/fgtsdigital",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-secint",
+                                "https://www.gov.br/economia/pt-br/assuntos/drei/tabelas-de-dispensa-de-alvara/tabelas-de-dispensa-de-alvara",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-verde-do-clima",
+                                "https://www.gov.br/cidadania/pt-br/acoes-e-programas/inclusao-produtiva-rural/comida-no-prato",
+                                "https://www.gov.br/cidadania/pt-br/cadunico/ca",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/assuntos/proteja"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                            "https://www.gov.br/@@multilingual-selector/notg/en?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=en",
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                            "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                            "http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/formarrecuperarconta.html#",
+                            "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura",
+                            "https://www.gov.br/@@multilingual-selector/notg/es?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=es",
+                            "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "idioma",
+                        "ponto contato",
+                        "licenca",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/economia/pt-br/assuntos/gestao/central-de-compras/taxigov/paginas/taxigov-acesso-aos-sistemas",
+                        "https://www.gov.br/economia/pt-br/internet/divulgacao/quem-e-quem/atualizacao-no-quem-e-quem",
+                        "https://www.gov.br/economia/pt-br/orgaos/orgaos-colegiados/conselho-de-recursos-do-sistema-financeiro-nacional",
+                        "https://www.gov.br/economia/pt-br/orgaos/orgaos-colegiados/conselho-de-recursos-do-sistema-nacional-de-seguros-privados-de-previdencia-aberta-e-de-capitalizacao"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                            "https://www.gov.br/@@multilingual-selector/notg/en?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=en",
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                            "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                            "http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/formarrecuperarconta.html#",
+                            "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura",
+                            "https://www.gov.br/@@multilingual-selector/notg/es?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=es",
+                            "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dataset"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "tab",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/assuntos/rendaeoportunidade",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/servicos/trabalhador/qualificacao-profissional-1/caminho-digital/caminho-digital",
+                                "/trabalho-e-previdencia/pt-br/inspecao/escola/revista",
+                                "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/caminho-da-prosperidade",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex",
+                                "https://www.gov.br/cidadania/pt-br/auxilio-brasil",
+                                "https://www.gov.br/mma/pt-br/assuntos/areasprotegidasecoturismo/adoteumparque",
+                                "https://www.gov.br/economia/pt-br/orgaos/orgaos-colegiados/conselho-de-recursos-do-sistema-nacional-de-seguros-privados-de-previdencia-aberta-e-de-capitalizacao",
+                                "https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvidoria-do-sus",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade",
+                                "https://dados.gov.br/dataset/dominios-gov-br",
+                                "https://www.gov.br/prf/pt-br/servicos/sinal-desaparecidos",
+                                "http://defesadoempreendedor.datalegis.inf.br",
+                                "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/pcn",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/reducao-do-custo-brasil",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/servicos/empregador/fgtsdigital",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-secint",
+                                "https://www.gov.br/economia/pt-br/assuntos/drei/tabelas-de-dispensa-de-alvara/tabelas-de-dispensa-de-alvara",
+                                "https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-verde-do-clima",
+                                "https://www.gov.br/cidadania/pt-br/acoes-e-programas/inclusao-produtiva-rural/comida-no-prato",
+                                "https://www.gov.br/cidadania/pt-br/cadunico/ca",
+                                "https://www.gov.br/trabalho-e-previdencia/pt-br/assuntos/proteja"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                            "https://www.gov.br/@@multilingual-selector/notg/en?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=en",
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                            "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                            "http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/formarrecuperarconta.html#",
+                            "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura",
+                            "https://www.gov.br/@@multilingual-selector/notg/es?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=es",
+                            "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/seguranca-e-saude-no-trabalho/canpat-2/canpat-2021/dnsse_2021",
+                            "https://www.gov.br/@@multilingual-selector/notg/en?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=en",
+                            "https://www.gov.br/trabalho-e-previdencia/pt-br/composicao/orgaos-especificos/secretaria-de-trabalho/inspecao/fiscalizacao-do-trabalho/copy2_of_boletim",
+                            "https://www.gov.br/secretariageral/pt-br/moderniza-brasil/identificacao-do-cidadao/carteira-de-identidade/cin",
+                            "http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/formarrecuperarconta.html#",
+                            "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura",
+                            "https://www.gov.br/@@multilingual-selector/notg/es?post_path=/acl_users/credentials_cookie_auth/require_login&came_from=https%3A//www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria&set_language=es",
+                            "https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

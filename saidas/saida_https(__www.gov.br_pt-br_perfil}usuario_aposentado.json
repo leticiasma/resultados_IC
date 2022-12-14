@@ -1,0 +1,723 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/perfil_usuario/aposentado",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                            "https://www.gov.br/pt-br/servicos/registrar-obito-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-da-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-ou-renovar-procuracao",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-pensao-alimenticia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-carta-de-concessao-e-memoria-de-calculo-do-pis-ou-pasep",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                            "https://www.gov.br/pt-br/servicos/registrar-obito-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-da-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-ou-renovar-procuracao",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-pensao-alimenticia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-carta-de-concessao-e-memoria-de-calculo-do-pis-ou-pasep",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/perfil_usuario/aposentado/vida-de-aposentado-extratos-e-certidoes",
+                                "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                                "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                                "https://www.gov.br/pt-br/servicos/aposentadoria-por-incapacidade-permanente-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                                "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                                "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/obter-25-de-acrescimo-na-aposentadoria-por-invalidez",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                                "https://www.gov.br/pt-br/servicos/transferir-beneficio-para-outra-agencia-da-previdencia-social",
+                                "https://www.gov.br/pt-br/perfil_usuario/aposentado/vida-de-aposentado-beneficio",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/cancelar-cadastro-de-atividade-economica-de-pessoa-fisica",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                                "https://twitter.com/share?text=Aposentado&url=https://www.gov.br/resolveuid/a12727427d914b29adb9e6ec5cf3c86a",
+                                "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario",
+                                "https://www.gov.br/pt-br/perfil_usuario/aposentado/vida-de-aposentado-cadastro"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                            "https://www.gov.br/pt-br/servicos/registrar-obito-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-da-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-ou-renovar-procuracao",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-pensao-alimenticia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-carta-de-concessao-e-memoria-de-calculo-do-pis-ou-pasep",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                            "https://www.gov.br/pt-br/servicos/registrar-obito-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-da-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-ou-renovar-procuracao",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-pensao-alimenticia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-carta-de-concessao-e-memoria-de-calculo-do-pis-ou-pasep",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/perfil_usuario/aposentado/vida-de-aposentado-extratos-e-certidoes",
+                                "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                                "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                                "https://www.gov.br/pt-br/servicos/aposentadoria-por-incapacidade-permanente-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                                "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                                "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/obter-25-de-acrescimo-na-aposentadoria-por-invalidez",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                                "https://www.gov.br/pt-br/servicos/transferir-beneficio-para-outra-agencia-da-previdencia-social",
+                                "https://www.gov.br/pt-br/perfil_usuario/aposentado/vida-de-aposentado-beneficio",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/cancelar-cadastro-de-atividade-economica-de-pessoa-fisica",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                                "https://twitter.com/share?text=Aposentado&url=https://www.gov.br/resolveuid/a12727427d914b29adb9e6ec5cf3c86a",
+                                "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario",
+                                "https://www.gov.br/pt-br/perfil_usuario/aposentado/vida-de-aposentado-cadastro"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                            "https://www.gov.br/pt-br/servicos/registrar-obito-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-da-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-ou-renovar-procuracao",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-pensao-alimenticia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-carta-de-concessao-e-memoria-de-calculo-do-pis-ou-pasep",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-titularidade-de-desenho-industrial",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pagamento-de-beneficio-nao-recebido",
+                            "https://www.gov.br/pt-br/servicos/registrar-obito-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-certidao-de-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atualizacao-de-atestado-de-vida-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-registro-de-marca",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-de-inexistencia-de-dependentes-habilitados-a-pensao-por-morte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-validacao-de-facultativo-baixa-renda",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-da-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-ou-renovar-procuracao",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-da-pessoa-com-deficiencia-por-idade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-revisao-de-beneficio-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-transferencia-de-titularidade-de-patente-ou-de-certificado-de-adicao-de-invencao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-pensao-alimenticia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-reativacao-de-beneficio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-de-beneficio-de-residente-no-exterior-para-receber-em-banco-brasileiro-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-carta-de-concessao-e-memoria-de-calculo-do-pis-ou-pasep",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exclusao-de-desconto-de-mensalidade-associativa-em-beneficio-previdenciario"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

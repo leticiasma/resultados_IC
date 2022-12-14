@@ -1,0 +1,482 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/participacao-social",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                        "https://esic.cgu.gov.br/sistema/site/index.aspx",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                        "https://www.gov.br/pt-br/categorias"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "entre"
+                    ],
+                    "emails": [
+                        "participacaosocial@presidencia.gov.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "entre"
+                    ],
+                    "emails": [
+                        "participacaosocial@presidencia.gov.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                                "mailto:participacaosocial@presidencia.gov.br",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                                "https://esic.cgu.gov.br/sistema/site/index.aspx",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                        "https://esic.cgu.gov.br/sistema/site/index.aspx",
+                        "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                        "https://www.gov.br/pt-br/categorias"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "entre"
+                    ],
+                    "emails": [
+                        "participacaosocial@presidencia.gov.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                                "mailto:participacaosocial@presidencia.gov.br",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                                "https://esic.cgu.gov.br/sistema/site/index.aspx",
+                                "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=2&tipo=9&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d2%26tipo%3d9%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=2&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=4&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d4%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=3&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d3%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=5&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d5%26origem%3didp%26modo%3d",
+                            "https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&tipo=1&ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d1%26origem%3didp%26modo%3d",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "entre"
+                    ],
+                    "emails": [
+                        "participacaosocial@presidencia.gov.br"
+                    ]
+                }
+            }
+        }
+    }
+}

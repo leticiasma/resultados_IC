@@ -1,0 +1,616 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/perfil_usuario/motorista",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                        "https://www.gov.br/pt-br/categorias"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-do-crv-atual-do-veiculo",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-estampadores-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                            "https://www.gov.br/pt-br/servicos/registrar-furto-ou-roubo-de-veiculos-no-sistema-alerta-do-sinal",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-de-nada-consta-ao-dnit",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-fabricantes-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-para-substituir-multa-por-advertencia",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-transito-por-terceiro-pais-para-transporte-rodoviario-internacional-de-cargas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-verificacao-subsequente-de-cronotacografo",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-da-autuacao",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-contra-autuacao-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-seus-veiculos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-os-dados-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/consultar-multas-aplicadas-pelo-dnit",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-multa",
+                            "https://www.gov.br/pt-br/servicos/consultar-veiculo"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-do-crv-atual-do-veiculo",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-estampadores-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                            "https://www.gov.br/pt-br/servicos/registrar-furto-ou-roubo-de-veiculos-no-sistema-alerta-do-sinal",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-de-nada-consta-ao-dnit",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-fabricantes-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-para-substituir-multa-por-advertencia",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-transito-por-terceiro-pais-para-transporte-rodoviario-internacional-de-cargas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-verificacao-subsequente-de-cronotacografo",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-da-autuacao",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-contra-autuacao-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-seus-veiculos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-os-dados-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/consultar-multas-aplicadas-pelo-dnit",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-multa",
+                            "https://www.gov.br/pt-br/servicos/consultar-veiculo"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                                "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                                "https://www.gov.br/pt-br/servicos/Comunicar-desaparecimento-de-pessoas-SINAL-DESAPARECIDOS",
+                                "https://twitter.com/share?text=Motorista&url=https://www.gov.br/resolveuid/b5f9b8a54db146dcb22f013466adf12c",
+                                "https://www.gov.br/pt-br/perfil_usuario/motorista/obter-documentos-e-certidoes",
+                                "https://www.gov.br/pt-br/servicos/identificar-condutor-infrator",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                                "https://www.gov.br/pt-br/perfil_usuario/motorista/acidente-de-transito",
+                                "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                                "https://www.gov.br/pt-br/servicos/verificar-autenticidade-de-boletim-de-acidente",
+                                "https://www.gov.br/pt-br/servicos/homologar-veiculo-adquirido-em-leilao",
+                                "https://www.gov.br/pt-br/servicos/validar-cnh",
+                                "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                                "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-o-transito-de-residuos",
+                                "https://www.gov.br/pt-br/servicos/inserir-restricao-de-roubo-furto-de-veiculo-cadastrado-no-sinesp-cidadao",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/obter-boletim-de-acidente-de-transito",
+                                "https://www.gov.br/pt-br/servicos/indicar-online-o-principal-condutor-de-um-veiculo"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-do-crv-atual-do-veiculo",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-estampadores-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                            "https://www.gov.br/pt-br/servicos/registrar-furto-ou-roubo-de-veiculos-no-sistema-alerta-do-sinal",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-de-nada-consta-ao-dnit",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-fabricantes-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-para-substituir-multa-por-advertencia",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-transito-por-terceiro-pais-para-transporte-rodoviario-internacional-de-cargas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-verificacao-subsequente-de-cronotacografo",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-da-autuacao",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-contra-autuacao-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-seus-veiculos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-os-dados-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/consultar-multas-aplicadas-pelo-dnit",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-multa",
+                            "https://www.gov.br/pt-br/servicos/consultar-veiculo"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                        "https://www.gov.br/pt-br/categorias"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-do-crv-atual-do-veiculo",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-estampadores-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                            "https://www.gov.br/pt-br/servicos/registrar-furto-ou-roubo-de-veiculos-no-sistema-alerta-do-sinal",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-de-nada-consta-ao-dnit",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-fabricantes-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-para-substituir-multa-por-advertencia",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-transito-por-terceiro-pais-para-transporte-rodoviario-internacional-de-cargas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-verificacao-subsequente-de-cronotacografo",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-da-autuacao",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-contra-autuacao-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-seus-veiculos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-os-dados-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/consultar-multas-aplicadas-pelo-dnit",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-multa",
+                            "https://www.gov.br/pt-br/servicos/consultar-veiculo"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                                "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                                "https://www.gov.br/pt-br/servicos/Comunicar-desaparecimento-de-pessoas-SINAL-DESAPARECIDOS",
+                                "https://twitter.com/share?text=Motorista&url=https://www.gov.br/resolveuid/b5f9b8a54db146dcb22f013466adf12c",
+                                "https://www.gov.br/pt-br/perfil_usuario/motorista/obter-documentos-e-certidoes",
+                                "https://www.gov.br/pt-br/servicos/identificar-condutor-infrator",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                                "https://www.gov.br/pt-br/perfil_usuario/motorista/acidente-de-transito",
+                                "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                                "https://www.gov.br/pt-br/servicos/verificar-autenticidade-de-boletim-de-acidente",
+                                "https://www.gov.br/pt-br/servicos/homologar-veiculo-adquirido-em-leilao",
+                                "https://www.gov.br/pt-br/servicos/validar-cnh",
+                                "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                                "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-o-transito-de-residuos",
+                                "https://www.gov.br/pt-br/servicos/inserir-restricao-de-roubo-furto-de-veiculo-cadastrado-no-sinesp-cidadao",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/obter-boletim-de-acidente-de-transito",
+                                "https://www.gov.br/pt-br/servicos/indicar-online-o-principal-condutor-de-um-veiculo"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "copia"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-do-crv-atual-do-veiculo",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-estampadores-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                            "https://www.gov.br/pt-br/servicos/registrar-furto-ou-roubo-de-veiculos-no-sistema-alerta-do-sinal",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-de-nada-consta-ao-dnit",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-fabricantes-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-para-substituir-multa-por-advertencia",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-transito-por-terceiro-pais-para-transporte-rodoviario-internacional-de-cargas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-verificacao-subsequente-de-cronotacografo",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-da-autuacao",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-contra-autuacao-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-seus-veiculos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-os-dados-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/consultar-multas-aplicadas-pelo-dnit",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-multa",
+                            "https://www.gov.br/pt-br/servicos/consultar-veiculo"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-restituicao-de-valores-pagos-indevidamente-referentes-a-multas-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-do-crv-atual-do-veiculo",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-boletim-de-acidente-de-transito-BAT-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-veiculo-na-base-renavam",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-estampadores-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-relacao-de-multas-de-transporte",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-proprietario-de-veiculo-no-aplicativo-sinesp-cidadao",
+                            "https://www.gov.br/pt-br/servicos/registrar-furto-ou-roubo-de-veiculos-no-sistema-alerta-do-sinal",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-de-nada-consta-ao-dnit",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-fabricantes-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-penalidade-de-multa-de-transito-transporte-da-prf",
+                            "https://www.gov.br/pt-br/servicos/apresentar-solicitacao-para-substituir-multa-por-advertencia",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/apresentar-indicacao-do-responsavel-por-infracao-de-transito",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-transito-por-terceiro-pais-para-transporte-rodoviario-internacional-de-cargas",
+                            "https://www.gov.br/pt-br/servicos/solicitar-verificacao-subsequente-de-cronotacografo",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-da-autuacao",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/declarar-acidente-de-transito",
+                            "https://www.gov.br/pt-br/servicos/apresentar-defesa-contra-autuacao-de-transito-transporte-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/apresentar-identificacao-de-condutor-infrator-da-PRF",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-seus-veiculos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-online-os-dados-de-placa-veicular",
+                            "https://www.gov.br/pt-br/servicos/consultar-multas-aplicadas-pelo-dnit",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-contra-multa",
+                            "https://www.gov.br/pt-br/servicos/consultar-veiculo"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

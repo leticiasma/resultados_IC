@@ -1,0 +1,411 @@
+{
+    "urlPaginaPrincipal": "https://www.portaltransparencia.gov.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "versao",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "correcao",
+                        "compartilhe",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "correcao",
+                        "compartilhe",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "map",
+                                "tab",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "#tab-contato",
+                                "/servidores/consulta",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                                "/servidores",
+                                "/localidades/busca/lista",
+                                "/despesas/favorecido",
+                                "/servidores/lista-consultas",
+                                "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                                "/entenda-a-gestao-publica/beneficios-ao-cidadao",
+                                "#tab-notificacoes",
+                                "/entenda-a-gestao-publica/servidores-publicos",
+                                "https://www.gov.br/acessoainformacao/pt-br/assuntos/busca-de-pedidos-e-respostas/busca-de-pedidos-e-respostas",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874",
+                                "/mapa-do-site",
+                                "#tab-compartilhe",
+                                "/localidades",
+                                "/servidores/orgao",
+                                "/pessoa-juridica/busca/lista"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "contato",
+                        "versao",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "correcao",
+                        "compartilhe",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "map",
+                                "tab",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "#tab-contato",
+                                "/servidores/consulta",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx",
+                                "/servidores",
+                                "/localidades/busca/lista",
+                                "/despesas/favorecido",
+                                "/servidores/lista-consultas",
+                                "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                                "/entenda-a-gestao-publica/beneficios-ao-cidadao",
+                                "#tab-notificacoes",
+                                "/entenda-a-gestao-publica/servidores-publicos",
+                                "https://www.gov.br/acessoainformacao/pt-br/assuntos/busca-de-pedidos-e-respostas/busca-de-pedidos-e-respostas",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874",
+                                "/mapa-do-site",
+                                "#tab-compartilhe",
+                                "/localidades",
+                                "/servidores/orgao",
+                                "/pessoa-juridica/busca/lista"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "http://transparencia.gov.br/coronavirus/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2021&planoOrcamentario=45800004%2C36800001%2C48800001%2C50800002%2C43100003%2C26300001%2C26200001&colunasSelecionadas=linkDetalhamento%2CvalorDespesaEmpenhada%2CvalorDespesaLiquidada%2CvalorDespesaPaga%2CvalorRestoPago%2CvalorRestoCancelado",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario4=&tipo=1&assunto=951&orgaoDestinatario=235874"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "correcao",
+                        "compartilhe",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

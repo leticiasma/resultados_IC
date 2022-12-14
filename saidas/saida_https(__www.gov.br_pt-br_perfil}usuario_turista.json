@@ -1,0 +1,744 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/perfil_usuario/turista",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/servicos/acessar-conteudo-da-biblioteca-virtual-da-rede-de-inteligencia-de-mercado-do-turismo",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/modificar-operacao-licenca-operacional-de-transporte-rodoviario-interestadual-de-passageiros",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-de-viagem-para-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento-excepcional",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-originaria-para-transporte-internacional-de-passageiros",
+                        "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-de-viagem-para-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento-continuo",
+                        "https://www.gov.br/pt-br/categorias"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-site-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/visitar-a-galeria-de-arte-do-banco-central",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-veiculo-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/visitar-exposicao-virtual-no-centro-de-visitantes-do-jardim-botanico-do-rio-de-janeiro",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                            "https://www.gov.br/pt-br/perfil_usuario/turista/cadastrar-servicos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-turisticos-dos-destinos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/consultar-estatisticas-sobre-o-turismo-brasileiro-no-periodo-da-copa-do-mundo",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-regime-de-autorizacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-canada",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-desembarques-internacionais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estudos-sobre-o-turismo-brasileiro-no-periodo-das-olimpiadas-rio-2016",
+                            "https://www.gov.br/pt-br/servicos/gerar-relatorio-de-operacoes-de-cambio-e-transferencias-internacionais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                            "https://www.gov.br/pt-br/servicos/consultar-registros-de-entrada-de-estrangeiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-motorista-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-informacoes-dos-municipios-e-destinos-turisticos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-para-concessao-de-passaporte-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-uruguai",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-financiamento-do-setor-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-guia-de-turismo",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-bolivia",
+                            "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-observatorios-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-viagem-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-banco-de-dados-de-bens-culturais-tombados",
+                            "https://www.gov.br/pt-br/servicos/cvi-japao-solicitar-certificado-internacional-para-viajar-com-seu-cao-ou-gato-para-o-japao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-modificacao-operacional-de-servicos-de-transporte-rodoviario-interestadual-semiurbano-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-paraguai",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-venezuela",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-eua",
+                            "https://www.gov.br/pt-br/servicos/consultar-demanda-turistica-domestica-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-agencias-de-viagens-e-turismo-para-participar-do-processo-seletivo-para-recepcao-de-turistas-chineses"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-site-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/visitar-a-galeria-de-arte-do-banco-central",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-veiculo-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/visitar-exposicao-virtual-no-centro-de-visitantes-do-jardim-botanico-do-rio-de-janeiro",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                            "https://www.gov.br/pt-br/perfil_usuario/turista/cadastrar-servicos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-turisticos-dos-destinos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/consultar-estatisticas-sobre-o-turismo-brasileiro-no-periodo-da-copa-do-mundo",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-regime-de-autorizacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-canada",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-desembarques-internacionais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estudos-sobre-o-turismo-brasileiro-no-periodo-das-olimpiadas-rio-2016",
+                            "https://www.gov.br/pt-br/servicos/gerar-relatorio-de-operacoes-de-cambio-e-transferencias-internacionais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                            "https://www.gov.br/pt-br/servicos/consultar-registros-de-entrada-de-estrangeiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-motorista-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-informacoes-dos-municipios-e-destinos-turisticos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-para-concessao-de-passaporte-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-uruguai",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-financiamento-do-setor-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-guia-de-turismo",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-bolivia",
+                            "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-observatorios-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-viagem-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-banco-de-dados-de-bens-culturais-tombados",
+                            "https://www.gov.br/pt-br/servicos/cvi-japao-solicitar-certificado-internacional-para-viajar-com-seu-cao-ou-gato-para-o-japao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-modificacao-operacional-de-servicos-de-transporte-rodoviario-interestadual-semiurbano-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-paraguai",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-venezuela",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-eua",
+                            "https://www.gov.br/pt-br/servicos/consultar-demanda-turistica-domestica-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-agencias-de-viagens-e-turismo-para-participar-do-processo-seletivo-para-recepcao-de-turistas-chineses"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/certificado-nacional-de-vacinacao-covid-19",
+                                "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                                "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                                "https://www.gov.br/pt-br/servicos/legalizar-documento-para-validade-em-paises-que-nao-sao-parte-da-convencao-da-apostila-de-haia",
+                                "https://www.gov.br/pt-br/servicos/turismo-acessivel-pesquisar-estabelecimentos-conforme-suas-caracteristicas-de-acessibilidade",
+                                "https://www.gov.br/pt-br/perfil_usuario/turista/acessibilidade",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-transporte-ferroviario-nao-regular-de-passageiros-com-finalidade-turistica-historica-e-cultural-ou-comemorativa",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-previa-de-embarque-p-prod-veterinario-isento-de-registro-nao-controlado-em-quant-p-uso-individual-e-nao-destin-a-comercializacao",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/obter-declaracoes-de-regularidade-de-cursos-e-instituicoes-para-apresentacao-no-exterior",
+                                "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-de-uso-de-imagens-e-videos-da-embratur",
+                                "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/mapa-do-turismo-brasileiro",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/obter-certidao-de-populacao-ibge",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/servicos/divulgar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                                "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                                "https://twitter.com/share?text=Turista&url=https://www.gov.br/resolveuid/94c8f3ea715d4f969796866d2de2a81e",
+                                "https://www.gov.br/pt-br/servicos/avaliar-estabelecimentos-conforme-suas-caracteristicas-de-acessibilidade"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-site-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/visitar-a-galeria-de-arte-do-banco-central",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-veiculo-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/visitar-exposicao-virtual-no-centro-de-visitantes-do-jardim-botanico-do-rio-de-janeiro",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                            "https://www.gov.br/pt-br/perfil_usuario/turista/cadastrar-servicos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-turisticos-dos-destinos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/consultar-estatisticas-sobre-o-turismo-brasileiro-no-periodo-da-copa-do-mundo",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-regime-de-autorizacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-canada",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-desembarques-internacionais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estudos-sobre-o-turismo-brasileiro-no-periodo-das-olimpiadas-rio-2016",
+                            "https://www.gov.br/pt-br/servicos/gerar-relatorio-de-operacoes-de-cambio-e-transferencias-internacionais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                            "https://www.gov.br/pt-br/servicos/consultar-registros-de-entrada-de-estrangeiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-motorista-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-informacoes-dos-municipios-e-destinos-turisticos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-para-concessao-de-passaporte-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-uruguai",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-financiamento-do-setor-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-guia-de-turismo",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-bolivia",
+                            "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-observatorios-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-viagem-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-banco-de-dados-de-bens-culturais-tombados",
+                            "https://www.gov.br/pt-br/servicos/cvi-japao-solicitar-certificado-internacional-para-viajar-com-seu-cao-ou-gato-para-o-japao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-modificacao-operacional-de-servicos-de-transporte-rodoviario-interestadual-semiurbano-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-paraguai",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-venezuela",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-eua",
+                            "https://www.gov.br/pt-br/servicos/consultar-demanda-turistica-domestica-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-agencias-de-viagens-e-turismo-para-participar-do-processo-seletivo-para-recepcao-de-turistas-chineses"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/servicos/acessar-conteudo-da-biblioteca-virtual-da-rede-de-inteligencia-de-mercado-do-turismo",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/modificar-operacao-licenca-operacional-de-transporte-rodoviario-interestadual-de-passageiros",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-de-viagem-para-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento-excepcional",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-originaria-para-transporte-internacional-de-passageiros",
+                        "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-de-viagem-para-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento-continuo",
+                        "https://www.gov.br/pt-br/categorias"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-site-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/visitar-a-galeria-de-arte-do-banco-central",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-veiculo-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/visitar-exposicao-virtual-no-centro-de-visitantes-do-jardim-botanico-do-rio-de-janeiro",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                            "https://www.gov.br/pt-br/perfil_usuario/turista/cadastrar-servicos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-turisticos-dos-destinos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/consultar-estatisticas-sobre-o-turismo-brasileiro-no-periodo-da-copa-do-mundo",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-regime-de-autorizacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-canada",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-desembarques-internacionais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estudos-sobre-o-turismo-brasileiro-no-periodo-das-olimpiadas-rio-2016",
+                            "https://www.gov.br/pt-br/servicos/gerar-relatorio-de-operacoes-de-cambio-e-transferencias-internacionais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                            "https://www.gov.br/pt-br/servicos/consultar-registros-de-entrada-de-estrangeiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-motorista-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-informacoes-dos-municipios-e-destinos-turisticos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-para-concessao-de-passaporte-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-uruguai",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-financiamento-do-setor-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-guia-de-turismo",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-bolivia",
+                            "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-observatorios-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-viagem-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-banco-de-dados-de-bens-culturais-tombados",
+                            "https://www.gov.br/pt-br/servicos/cvi-japao-solicitar-certificado-internacional-para-viajar-com-seu-cao-ou-gato-para-o-japao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-modificacao-operacional-de-servicos-de-transporte-rodoviario-interestadual-semiurbano-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-paraguai",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-venezuela",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-eua",
+                            "https://www.gov.br/pt-br/servicos/consultar-demanda-turistica-domestica-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-agencias-de-viagens-e-turismo-para-participar-do-processo-seletivo-para-recepcao-de-turistas-chineses"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca",
+                        "restricao"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/certificado-nacional-de-vacinacao-covid-19",
+                                "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                                "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                                "https://www.gov.br/pt-br/servicos/legalizar-documento-para-validade-em-paises-que-nao-sao-parte-da-convencao-da-apostila-de-haia",
+                                "https://www.gov.br/pt-br/servicos/turismo-acessivel-pesquisar-estabelecimentos-conforme-suas-caracteristicas-de-acessibilidade",
+                                "https://www.gov.br/pt-br/perfil_usuario/turista/acessibilidade",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-transporte-ferroviario-nao-regular-de-passageiros-com-finalidade-turistica-historica-e-cultural-ou-comemorativa",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-previa-de-embarque-p-prod-veterinario-isento-de-registro-nao-controlado-em-quant-p-uso-individual-e-nao-destin-a-comercializacao",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/obter-declaracoes-de-regularidade-de-cursos-e-instituicoes-para-apresentacao-no-exterior",
+                                "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-de-uso-de-imagens-e-videos-da-embratur",
+                                "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/mapa-do-turismo-brasileiro",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/obter-certidao-de-populacao-ibge",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/servicos/divulgar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                                "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                                "https://twitter.com/share?text=Turista&url=https://www.gov.br/resolveuid/94c8f3ea715d4f969796866d2de2a81e",
+                                "https://www.gov.br/pt-br/servicos/avaliar-estabelecimentos-conforme-suas-caracteristicas-de-acessibilidade"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-site-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/visitar-a-galeria-de-arte-do-banco-central",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-veiculo-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/visitar-exposicao-virtual-no-centro-de-visitantes-do-jardim-botanico-do-rio-de-janeiro",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                            "https://www.gov.br/pt-br/perfil_usuario/turista/cadastrar-servicos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-turisticos-dos-destinos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/consultar-estatisticas-sobre-o-turismo-brasileiro-no-periodo-da-copa-do-mundo",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-regime-de-autorizacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-canada",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-desembarques-internacionais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estudos-sobre-o-turismo-brasileiro-no-periodo-das-olimpiadas-rio-2016",
+                            "https://www.gov.br/pt-br/servicos/gerar-relatorio-de-operacoes-de-cambio-e-transferencias-internacionais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                            "https://www.gov.br/pt-br/servicos/consultar-registros-de-entrada-de-estrangeiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-motorista-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-informacoes-dos-municipios-e-destinos-turisticos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-para-concessao-de-passaporte-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-uruguai",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-financiamento-do-setor-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-guia-de-turismo",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-bolivia",
+                            "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-observatorios-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-viagem-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-banco-de-dados-de-bens-culturais-tombados",
+                            "https://www.gov.br/pt-br/servicos/cvi-japao-solicitar-certificado-internacional-para-viajar-com-seu-cao-ou-gato-para-o-japao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-modificacao-operacional-de-servicos-de-transporte-rodoviario-interestadual-semiurbano-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-paraguai",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-venezuela",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-eua",
+                            "https://www.gov.br/pt-br/servicos/consultar-demanda-turistica-domestica-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-agencias-de-viagens-e-turismo-para-participar-do-processo-seletivo-para-recepcao-de-turistas-chineses"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-site-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/visitar-a-galeria-de-arte-do-banco-central",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-veiculo-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/visitar-exposicao-virtual-no-centro-de-visitantes-do-jardim-botanico-do-rio-de-janeiro",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-sobre-a-existencia-de-restricao-legal-para-saida-de-obras-de-arte-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estabelecimentos-que-possuem-o-selo-turismo-responsavel",
+                            "https://www.gov.br/pt-br/perfil_usuario/turista/cadastrar-servicos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-turisticos-dos-destinos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/consultar-estatisticas-sobre-o-turismo-brasileiro-no-periodo-da-copa-do-mundo",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-regime-de-autorizacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-canada",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-desembarques-internacionais",
+                            "https://www.gov.br/pt-br/servicos/consultar-estudos-sobre-o-turismo-brasileiro-no-periodo-das-olimpiadas-rio-2016",
+                            "https://www.gov.br/pt-br/servicos/gerar-relatorio-de-operacoes-de-cambio-e-transferencias-internacionais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/obter-licenca-complementar-para-transporte-rodoviario-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-do-numero-de-turistas-por-pais-de-residencia-permanente",
+                            "https://www.gov.br/pt-br/servicos/consultar-registros-de-entrada-de-estrangeiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-habilitacao-de-motorista-para-prestacao-do-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-informacoes-dos-municipios-e-destinos-turisticos-brasileiros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-para-concessao-de-passaporte-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-uruguai",
+                            "https://www.gov.br/pt-br/servicos/obter-termo-de-autorizacao-para-prestar-servico-de-transporte-rodoviario-coletivo-interestadual-e-internacional-de-passageiros-em-regime-de-fretamento",
+                            "https://www.gov.br/pt-br/servicos/consultar-dados-de-financiamento-do-setor-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-guia-de-turismo",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-bolivia",
+                            "https://www.gov.br/pt-br/servicos/consultar-oportunidades-de-negocios-em-regioes-turisticas-do-pais",
+                            "https://www.gov.br/pt-br/servicos/consultar-informacoes-sobre-observatorios-de-turismo-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-viagem-para-menor-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/consultar-banco-de-dados-de-bens-culturais-tombados",
+                            "https://www.gov.br/pt-br/servicos/cvi-japao-solicitar-certificado-internacional-para-viajar-com-seu-cao-ou-gato-para-o-japao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-modificacao-operacional-de-servicos-de-transporte-rodoviario-interestadual-semiurbano-de-passageiros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-estabelecimentos-ou-atrativo-turistico-no-guia-turismo-acessivel",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-o-paraguai",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-para-outro-pais-com-seu-cao-ou-gato-para-a-venezuela",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-o-eua",
+                            "https://www.gov.br/pt-br/servicos/consultar-demanda-turistica-domestica-no-brasil",
+                            "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-agencias-de-viagens-e-turismo-para-participar-do-processo-seletivo-para-recepcao-de-turistas-chineses"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "documentacao"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhar",
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

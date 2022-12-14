@@ -1,0 +1,514 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/perfil_usuario/empreendedor",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/entregar-a-relacao-anual-de-informacoes-sociais",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                        "https://www.gov.br/pt-br/categorias"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/encerrar-empresa",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/declarar-receita-bruta-anual-para-o-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-domicilio-tributario-eletronico",
+                            "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-sistema-de-recolhimento-do-mei",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-fornecedor-da-administracao-publica",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/encerrar-empresa",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/declarar-receita-bruta-anual-para-o-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-domicilio-tributario-eletronico",
+                            "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-sistema-de-recolhimento-do-mei",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-fornecedor-da-administracao-publica",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/admitir-empregado-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-condicao-de-microempreendedor-individual",
+                                "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                                "https://www.gov.br/pt-br/servicos/realizar-registro-como-microempreendedor-individual-mei",
+                                "https://www.gov.br/pt-br/servicos/efetuar-desligamento-de-empregado-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/acessar-produtos-e-servicos-financeiros-como-microempreendedor-individual",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/gerenciar-dividas",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/emitir-das-microempreendedor-individual",
+                                "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://twitter.com/share?text=Empreendedor&url=https://www.gov.br/resolveuid/0b401ea4e02c4d17bf863d0e1808a123",
+                                "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual",
+                                "https://www.gov.br/pt-br/servicos/devolver-o-auxilio-emergencial-coronavirus-covid-19"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/encerrar-empresa",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/declarar-receita-bruta-anual-para-o-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-domicilio-tributario-eletronico",
+                            "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-sistema-de-recolhimento-do-mei",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-fornecedor-da-administracao-publica",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/entregar-a-relacao-anual-de-informacoes-sociais",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                        "https://www.gov.br/pt-br/categorias"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/encerrar-empresa",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/declarar-receita-bruta-anual-para-o-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-domicilio-tributario-eletronico",
+                            "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-sistema-de-recolhimento-do-mei",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-fornecedor-da-administracao-publica",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/admitir-empregado-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-condicao-de-microempreendedor-individual",
+                                "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                                "https://www.gov.br/pt-br/servicos/realizar-registro-como-microempreendedor-individual-mei",
+                                "https://www.gov.br/pt-br/servicos/efetuar-desligamento-de-empregado-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/acessar-produtos-e-servicos-financeiros-como-microempreendedor-individual",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/gerenciar-dividas",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/emitir-das-microempreendedor-individual",
+                                "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://twitter.com/share?text=Empreendedor&url=https://www.gov.br/resolveuid/0b401ea4e02c4d17bf863d0e1808a123",
+                                "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual",
+                                "https://www.gov.br/pt-br/servicos/devolver-o-auxilio-emergencial-coronavirus-covid-19"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/encerrar-empresa",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/declarar-receita-bruta-anual-para-o-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-domicilio-tributario-eletronico",
+                            "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-sistema-de-recolhimento-do-mei",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-fornecedor-da-administracao-publica",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/registrar-afastamento-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/perfil_usuario/empreendedor/mei/encerrar-empresa",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-dispensa-de-alvara-e-licenca-de-funcionamento",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/declarar-receita-bruta-anual-para-o-mei",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-domicilio-tributario-eletronico",
+                            "https://www.gov.br/pt-br/servicos/registrar-ferias-no-esocial-simplificado-pessoa-juridica-mei",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-prestadora-de-servico-turistico",
+                            "https://www.gov.br/pt-br/servicos/optar-pelo-sistema-de-recolhimento-do-mei",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-como-fornecedor-da-administracao-publica",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-cadastral-do-microempreendedor-individual"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

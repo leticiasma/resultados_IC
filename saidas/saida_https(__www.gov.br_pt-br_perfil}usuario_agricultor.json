@@ -1,0 +1,704 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/perfil_usuario/agricultor",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "idioma",
+                        "campo",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-para-o-uso-de-maquinas-rodoviarias-e-agricolas",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/regularizar-usos-de-recursos-hidricos-nao-sujeitos-a-outorga",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                        "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                        "https://www.gov.br/pt-br/servicos/acessar-a-biblioteca-do-centro-de-tecnologia-mineral-cetem",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/denunciar-o-uso-irregular-de-recursos-hidricos-e-a-situacao-de-seguranca-de-barragens",
+                        "https://www.gov.br/pt-br/servicos/obter-a-correcao-diferencial-dos-dados-coletados-durante-o-georreferenciamento-de-imovel-rural"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-de-gestacao-de-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/ofertar-garantia-antecipada",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/registrar-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-selo-combustivel-social-scs",
+                            "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-laboratorial-de-amostras-florestais-e-de-madeira-lpf-sbf",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-trabalho-temporario-de-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/contratar-consulta-certificado-de-cadastro-de-imovel-rural-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-molecular-microbiologico-e-parasitologico-na-area-de-medicina-veterinaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-selo-nacional-da-agricultura-familiar-senaf-e-expor-produtos-na-vitrine",
+                            "https://www.gov.br/pt-br/servicos/solicitar-registro-de-propriedade-intelectual-de-vegetais-protecao-de-cultivares",
+                            "https://www.gov.br/pt-br/servicos/elaborar-e-enviar-proposta-simplificada-de-regularizacao-ambiental-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-capacitacao-em-cursos-diversos-em-piscicultura",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-viticultor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                            "https://www.gov.br/pt-br/servicos/solicitar-treinamento-e-capacitacao-em-reproducao-animal",
+                            "https://www.gov.br/pt-br/servicos/solicitar-emissao-de-declaracao-de-reconhecimento-de-limite",
+                            "https://www.gov.br/pt-br/servicos/habilitar-cultivar-para-producao-e-comercializacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-requerimento-de-defesa-apos-bloqueio-do-beneficio-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-codigo-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/declarar-imposto-sobre-a-propriedade-territorial-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/consultar-requerimento-de-certificacao-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/consultar-previsao-numerica-de-tempo-e-clima-inpe",
+                            "https://www.gov.br/pt-br/servicos/solicitar-sexagem-fetal-de-animais-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-do-beneficio-garantia-safra-por-ausencia-ou-impedimento-do-titular",
+                            "https://www.gov.br/pt-br/servicos/capacitar-se-em-tematicas-socioambientais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/habilitar-laticinios-ou-cooperativas-de-leite-no-programa-mais-leite-saudavel",
+                            "https://www.gov.br/pt-br/servicos/consultar-profissional-credenciado-para-certificar-o-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exame-ginecologico-em-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-de-gestacao-de-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/ofertar-garantia-antecipada",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/registrar-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-selo-combustivel-social-scs",
+                            "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-laboratorial-de-amostras-florestais-e-de-madeira-lpf-sbf",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-trabalho-temporario-de-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/contratar-consulta-certificado-de-cadastro-de-imovel-rural-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-molecular-microbiologico-e-parasitologico-na-area-de-medicina-veterinaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-selo-nacional-da-agricultura-familiar-senaf-e-expor-produtos-na-vitrine",
+                            "https://www.gov.br/pt-br/servicos/solicitar-registro-de-propriedade-intelectual-de-vegetais-protecao-de-cultivares",
+                            "https://www.gov.br/pt-br/servicos/elaborar-e-enviar-proposta-simplificada-de-regularizacao-ambiental-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-capacitacao-em-cursos-diversos-em-piscicultura",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-viticultor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                            "https://www.gov.br/pt-br/servicos/solicitar-treinamento-e-capacitacao-em-reproducao-animal",
+                            "https://www.gov.br/pt-br/servicos/solicitar-emissao-de-declaracao-de-reconhecimento-de-limite",
+                            "https://www.gov.br/pt-br/servicos/habilitar-cultivar-para-producao-e-comercializacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-requerimento-de-defesa-apos-bloqueio-do-beneficio-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-codigo-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/declarar-imposto-sobre-a-propriedade-territorial-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/consultar-requerimento-de-certificacao-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/consultar-previsao-numerica-de-tempo-e-clima-inpe",
+                            "https://www.gov.br/pt-br/servicos/solicitar-sexagem-fetal-de-animais-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-do-beneficio-garantia-safra-por-ausencia-ou-impedimento-do-titular",
+                            "https://www.gov.br/pt-br/servicos/capacitar-se-em-tematicas-socioambientais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/habilitar-laticinios-ou-cooperativas-de-leite-no-programa-mais-leite-saudavel",
+                            "https://www.gov.br/pt-br/servicos/consultar-profissional-credenciado-para-certificar-o-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exame-ginecologico-em-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/denunciar-irregularidades-na-seguranca-de-barragens-de-armazenamento-de-agua-para-fins-de-geracao-de-energia-eletrica",
+                                "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                                "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                                "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                                "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                                "https://www.gov.br/pt-br/servicos/efetuar-inclusao-ou-baixa-de-aeronave-do-estabelecimento",
+                                "https://www.gov.br/pt-br/servicos/emitir-a-declaracao-de-aptidao-ao-pronaf",
+                                "https://twitter.com/share?text=Agricultor&url=https://www.gov.br/resolveuid/e54796a536d649eca421df73279f8f05",
+                                "https://www.gov.br/pt-br/servicos/regularizar-usos-de-recursos-hidricos-nao-sujeitos-a-outorga",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/obter-registro-de-estabelecimento-de-bebidas-fermentados-aceticos-vinhos-e-derivados-da-uva-e-do-vinho",
+                                "https://www.gov.br/pt-br/servicos/credenciar-se-como-entidade-prestadora-de-ater-credenciamento-siater",
+                                "https://www.gov.br/pt-br/servicos/validar-levantamento-topografico-de-imovel-rural",
+                                "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/obter-solucao-de-consulta-de-dados-de-certidao-negativa-de-debito-cnd",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/enviar-relatorio-mensal-de-comprovante-de-regularidade-do-pescado-da-sardinha-verdadeira",
+                                "https://www.gov.br/pt-br/servicos/denunciar-o-uso-irregular-de-recursos-hidricos-e-a-situacao-de-seguranca-de-barragens",
+                                "https://www.gov.br/pt-br/servicos/inscrever-na-semana-do-fazendeiro-comunidade-externa",
+                                "https://www.gov.br/pt-br/servicos/denunciar-irregularidades-na-area-ou-na-atividade-de-mineracao",
+                                "https://www.gov.br/pt-br/servicos/participar-do-laboratorio-didatico-do-museu-do-meio-ambiente",
+                                "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-de-gestacao-de-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/ofertar-garantia-antecipada",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/registrar-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-selo-combustivel-social-scs",
+                            "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-laboratorial-de-amostras-florestais-e-de-madeira-lpf-sbf",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-trabalho-temporario-de-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/contratar-consulta-certificado-de-cadastro-de-imovel-rural-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-molecular-microbiologico-e-parasitologico-na-area-de-medicina-veterinaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-selo-nacional-da-agricultura-familiar-senaf-e-expor-produtos-na-vitrine",
+                            "https://www.gov.br/pt-br/servicos/solicitar-registro-de-propriedade-intelectual-de-vegetais-protecao-de-cultivares",
+                            "https://www.gov.br/pt-br/servicos/elaborar-e-enviar-proposta-simplificada-de-regularizacao-ambiental-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-capacitacao-em-cursos-diversos-em-piscicultura",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-viticultor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                            "https://www.gov.br/pt-br/servicos/solicitar-treinamento-e-capacitacao-em-reproducao-animal",
+                            "https://www.gov.br/pt-br/servicos/solicitar-emissao-de-declaracao-de-reconhecimento-de-limite",
+                            "https://www.gov.br/pt-br/servicos/habilitar-cultivar-para-producao-e-comercializacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-requerimento-de-defesa-apos-bloqueio-do-beneficio-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-codigo-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/declarar-imposto-sobre-a-propriedade-territorial-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/consultar-requerimento-de-certificacao-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/consultar-previsao-numerica-de-tempo-e-clima-inpe",
+                            "https://www.gov.br/pt-br/servicos/solicitar-sexagem-fetal-de-animais-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-do-beneficio-garantia-safra-por-ausencia-ou-impedimento-do-titular",
+                            "https://www.gov.br/pt-br/servicos/capacitar-se-em-tematicas-socioambientais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/habilitar-laticinios-ou-cooperativas-de-leite-no-programa-mais-leite-saudavel",
+                            "https://www.gov.br/pt-br/servicos/consultar-profissional-credenciado-para-certificar-o-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exame-ginecologico-em-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "idioma",
+                        "campo",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/servicos/obter-licenca-para-o-uso-de-maquinas-rodoviarias-e-agricolas",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/regularizar-usos-de-recursos-hidricos-nao-sujeitos-a-outorga",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                        "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                        "https://www.gov.br/pt-br/servicos/acessar-a-biblioteca-do-centro-de-tecnologia-mineral-cetem",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/denunciar-o-uso-irregular-de-recursos-hidricos-e-a-situacao-de-seguranca-de-barragens",
+                        "https://www.gov.br/pt-br/servicos/obter-a-correcao-diferencial-dos-dados-coletados-durante-o-georreferenciamento-de-imovel-rural"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-de-gestacao-de-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/ofertar-garantia-antecipada",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/registrar-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-selo-combustivel-social-scs",
+                            "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-laboratorial-de-amostras-florestais-e-de-madeira-lpf-sbf",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-trabalho-temporario-de-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/contratar-consulta-certificado-de-cadastro-de-imovel-rural-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-molecular-microbiologico-e-parasitologico-na-area-de-medicina-veterinaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-selo-nacional-da-agricultura-familiar-senaf-e-expor-produtos-na-vitrine",
+                            "https://www.gov.br/pt-br/servicos/solicitar-registro-de-propriedade-intelectual-de-vegetais-protecao-de-cultivares",
+                            "https://www.gov.br/pt-br/servicos/elaborar-e-enviar-proposta-simplificada-de-regularizacao-ambiental-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-capacitacao-em-cursos-diversos-em-piscicultura",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-viticultor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                            "https://www.gov.br/pt-br/servicos/solicitar-treinamento-e-capacitacao-em-reproducao-animal",
+                            "https://www.gov.br/pt-br/servicos/solicitar-emissao-de-declaracao-de-reconhecimento-de-limite",
+                            "https://www.gov.br/pt-br/servicos/habilitar-cultivar-para-producao-e-comercializacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-requerimento-de-defesa-apos-bloqueio-do-beneficio-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-codigo-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/declarar-imposto-sobre-a-propriedade-territorial-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/consultar-requerimento-de-certificacao-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/consultar-previsao-numerica-de-tempo-e-clima-inpe",
+                            "https://www.gov.br/pt-br/servicos/solicitar-sexagem-fetal-de-animais-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-do-beneficio-garantia-safra-por-ausencia-ou-impedimento-do-titular",
+                            "https://www.gov.br/pt-br/servicos/capacitar-se-em-tematicas-socioambientais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/habilitar-laticinios-ou-cooperativas-de-leite-no-programa-mais-leite-saudavel",
+                            "https://www.gov.br/pt-br/servicos/consultar-profissional-credenciado-para-certificar-o-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exame-ginecologico-em-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/denunciar-irregularidades-na-seguranca-de-barragens-de-armazenamento-de-agua-para-fins-de-geracao-de-energia-eletrica",
+                                "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                                "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                                "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                                "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                                "https://www.gov.br/pt-br/servicos/efetuar-inclusao-ou-baixa-de-aeronave-do-estabelecimento",
+                                "https://www.gov.br/pt-br/servicos/emitir-a-declaracao-de-aptidao-ao-pronaf",
+                                "https://twitter.com/share?text=Agricultor&url=https://www.gov.br/resolveuid/e54796a536d649eca421df73279f8f05",
+                                "https://www.gov.br/pt-br/servicos/regularizar-usos-de-recursos-hidricos-nao-sujeitos-a-outorga",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/obter-registro-de-estabelecimento-de-bebidas-fermentados-aceticos-vinhos-e-derivados-da-uva-e-do-vinho",
+                                "https://www.gov.br/pt-br/servicos/credenciar-se-como-entidade-prestadora-de-ater-credenciamento-siater",
+                                "https://www.gov.br/pt-br/servicos/validar-levantamento-topografico-de-imovel-rural",
+                                "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/obter-solucao-de-consulta-de-dados-de-certidao-negativa-de-debito-cnd",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/acessar-informacoes-turisticas-georreferenciadas-em-mapas-interativos",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/enviar-relatorio-mensal-de-comprovante-de-regularidade-do-pescado-da-sardinha-verdadeira",
+                                "https://www.gov.br/pt-br/servicos/denunciar-o-uso-irregular-de-recursos-hidricos-e-a-situacao-de-seguranca-de-barragens",
+                                "https://www.gov.br/pt-br/servicos/inscrever-na-semana-do-fazendeiro-comunidade-externa",
+                                "https://www.gov.br/pt-br/servicos/denunciar-irregularidades-na-area-ou-na-atividade-de-mineracao",
+                                "https://www.gov.br/pt-br/servicos/participar-do-laboratorio-didatico-do-museu-do-meio-ambiente",
+                                "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-de-gestacao-de-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/ofertar-garantia-antecipada",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/registrar-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-selo-combustivel-social-scs",
+                            "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-laboratorial-de-amostras-florestais-e-de-madeira-lpf-sbf",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-trabalho-temporario-de-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/contratar-consulta-certificado-de-cadastro-de-imovel-rural-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-molecular-microbiologico-e-parasitologico-na-area-de-medicina-veterinaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-selo-nacional-da-agricultura-familiar-senaf-e-expor-produtos-na-vitrine",
+                            "https://www.gov.br/pt-br/servicos/solicitar-registro-de-propriedade-intelectual-de-vegetais-protecao-de-cultivares",
+                            "https://www.gov.br/pt-br/servicos/elaborar-e-enviar-proposta-simplificada-de-regularizacao-ambiental-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-capacitacao-em-cursos-diversos-em-piscicultura",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-viticultor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                            "https://www.gov.br/pt-br/servicos/solicitar-treinamento-e-capacitacao-em-reproducao-animal",
+                            "https://www.gov.br/pt-br/servicos/solicitar-emissao-de-declaracao-de-reconhecimento-de-limite",
+                            "https://www.gov.br/pt-br/servicos/habilitar-cultivar-para-producao-e-comercializacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-requerimento-de-defesa-apos-bloqueio-do-beneficio-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-codigo-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/declarar-imposto-sobre-a-propriedade-territorial-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/consultar-requerimento-de-certificacao-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/consultar-previsao-numerica-de-tempo-e-clima-inpe",
+                            "https://www.gov.br/pt-br/servicos/solicitar-sexagem-fetal-de-animais-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-do-beneficio-garantia-safra-por-ausencia-ou-impedimento-do-titular",
+                            "https://www.gov.br/pt-br/servicos/capacitar-se-em-tematicas-socioambientais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/habilitar-laticinios-ou-cooperativas-de-leite-no-programa-mais-leite-saudavel",
+                            "https://www.gov.br/pt-br/servicos/consultar-profissional-credenciado-para-certificar-o-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exame-ginecologico-em-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-de-gestacao-de-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/ofertar-garantia-antecipada",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/registrar-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/consutar-autenticidade-do-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-selo-combustivel-social-scs",
+                            "https://www.gov.br/pt-br/servicos/capacitar-atores-do-sistema-nacional-de-gerenciamento-de-recursos-hidricos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-laboratorial-de-amostras-florestais-e-de-madeira-lpf-sbf",
+                            "https://www.gov.br/pt-br/servicos/solicitar-analise-e-identificacao-de-pragas-do-cacaueiro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-de-trabalho-temporario-de-operador-aeroagricola",
+                            "https://www.gov.br/pt-br/servicos/contratar-consulta-certificado-de-cadastro-de-imovel-rural-ccir",
+                            "https://www.gov.br/pt-br/servicos/solicitar-cadastro-de-embarcacao-para-acesso-ao-mapa-de-bordo-digital",
+                            "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-molecular-microbiologico-e-parasitologico-na-area-de-medicina-veterinaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-selo-nacional-da-agricultura-familiar-senaf-e-expor-produtos-na-vitrine",
+                            "https://www.gov.br/pt-br/servicos/solicitar-registro-de-propriedade-intelectual-de-vegetais-protecao-de-cultivares",
+                            "https://www.gov.br/pt-br/servicos/elaborar-e-enviar-proposta-simplificada-de-regularizacao-ambiental-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-capacitacao-em-cursos-diversos-em-piscicultura",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-viticultor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-servicos-de-inspecao-estabelecimentos-e-produtos-inspecionados-no-e-SISBI",
+                            "https://www.gov.br/pt-br/servicos/solicitar-treinamento-e-capacitacao-em-reproducao-animal",
+                            "https://www.gov.br/pt-br/servicos/solicitar-emissao-de-declaracao-de-reconhecimento-de-limite",
+                            "https://www.gov.br/pt-br/servicos/habilitar-cultivar-para-producao-e-comercializacao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-requerimento-de-defesa-apos-bloqueio-do-beneficio-garantia-safra",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-codigo-do-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/declarar-imposto-sobre-a-propriedade-territorial-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/consultar-requerimento-de-certificacao-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/selecao-de-fornecedores-para-atender-as-necessidades-de-aquisicao-de-produtos-servicos-e-obras-do-instituto-federal-catarinense-licitacao",
+                            "https://www.gov.br/pt-br/servicos/consultar-previsao-numerica-de-tempo-e-clima-inpe",
+                            "https://www.gov.br/pt-br/servicos/solicitar-sexagem-fetal-de-animais-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-transferencia-do-beneficio-garantia-safra-por-ausencia-ou-impedimento-do-titular",
+                            "https://www.gov.br/pt-br/servicos/capacitar-se-em-tematicas-socioambientais",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/habilitar-laticinios-ou-cooperativas-de-leite-no-programa-mais-leite-saudavel",
+                            "https://www.gov.br/pt-br/servicos/consultar-profissional-credenciado-para-certificar-o-imovel-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-exame-ginecologico-em-femeas-de-grande-porte",
+                            "https://www.gov.br/pt-br/servicos/solicitar-calibracao-de-equipamentos-medidores-e-sensores-na-area-de-metrologia-no-lit-do-inpe"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

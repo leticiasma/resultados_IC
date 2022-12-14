@@ -1,0 +1,534 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/perfil_usuario/estudante",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/biblioteca-digital-brasileira-de-teses-e-dissertacoes",
+                        "https://www.gov.br/pt-br/servicos/receber-orientacao-tecnica-da-biblioteca-de-ciencias-biomedicas-eurydice-pires-de-santanna-fiocruz-ba",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/obter-auxilio-para-dificuldades-de-acessibilidade-em-pesquisas-na-biblioteca-nacional",
+                        "https://www.gov.br/pt-br/servicos/obter-bolsas-para-formacao-de-recursos-humanos"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                            "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-curriculo-lattes",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                            "https://www.gov.br/pt-br/servicos/aprender-a-administrar-suas-financas-pessoais",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-insumos-visuais-para-pesquisa-ensino-e-comunicacao-em-saude",
+                            "https://www.gov.br/pt-br/perfil_usuario/estudante/servico-militar",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-abatimento-de-1-do-fies-para-medicos",
+                            "https://www.gov.br/pt-br/servicos/aditar-contrato-do-fies"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                            "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-curriculo-lattes",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                            "https://www.gov.br/pt-br/servicos/aprender-a-administrar-suas-financas-pessoais",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-insumos-visuais-para-pesquisa-ensino-e-comunicacao-em-saude",
+                            "https://www.gov.br/pt-br/perfil_usuario/estudante/servico-militar",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-abatimento-de-1-do-fies-para-medicos",
+                            "https://www.gov.br/pt-br/servicos/aditar-contrato-do-fies"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/comprovar-cumprimento-das-condicionalidades-da-educacao-do-programa-bolsa-familia",
+                                "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                                "https://www.gov.br/pt-br/servicos/obter-bolsa-do-programa-de-residencia-pedagogica",
+                                "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                                "https://www.gov.br/pt-br/servicos/obter-auxilio-para-dificuldades-de-acessibilidade-em-pesquisas-na-biblioteca-nacional",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-pesquisa-em-unidades-de-conservacao-federais",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                                "https://www.gov.br/pt-br/servicos/fazer-o-exame-nacional-de-revalidacao-de-diplomas-medicos-expedidos-por-instituicao-de-educacao-superior-estrangeira",
+                                "https://www.gov.br/pt-br/servicos/reconhecer-ou-revalidar-diploma-de-curso-superior-obtido-no-exterior",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/obter-declaracoes-de-regularidade-de-cursos-e-instituicoes-para-apresentacao-no-exterior",
+                                "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://twitter.com/share?text=Estudante&url=https://www.gov.br/resolveuid/4a8f698468a14c7c8711ad560ec831ed",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                            "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-curriculo-lattes",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                            "https://www.gov.br/pt-br/servicos/aprender-a-administrar-suas-financas-pessoais",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-insumos-visuais-para-pesquisa-ensino-e-comunicacao-em-saude",
+                            "https://www.gov.br/pt-br/perfil_usuario/estudante/servico-militar",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-abatimento-de-1-do-fies-para-medicos",
+                            "https://www.gov.br/pt-br/servicos/aditar-contrato-do-fies"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/pt-br/servicos/biblioteca-digital-brasileira-de-teses-e-dissertacoes",
+                        "https://www.gov.br/pt-br/servicos/receber-orientacao-tecnica-da-biblioteca-de-ciencias-biomedicas-eurydice-pires-de-santanna-fiocruz-ba",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/servicos/obter-auxilio-para-dificuldades-de-acessibilidade-em-pesquisas-na-biblioteca-nacional",
+                        "https://www.gov.br/pt-br/servicos/obter-bolsas-para-formacao-de-recursos-humanos"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                            "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-curriculo-lattes",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                            "https://www.gov.br/pt-br/servicos/aprender-a-administrar-suas-financas-pessoais",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-insumos-visuais-para-pesquisa-ensino-e-comunicacao-em-saude",
+                            "https://www.gov.br/pt-br/perfil_usuario/estudante/servico-militar",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-abatimento-de-1-do-fies-para-medicos",
+                            "https://www.gov.br/pt-br/servicos/aditar-contrato-do-fies"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/comprovar-cumprimento-das-condicionalidades-da-educacao-do-programa-bolsa-familia",
+                                "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                                "https://www.gov.br/pt-br/servicos/obter-bolsa-do-programa-de-residencia-pedagogica",
+                                "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                                "https://www.gov.br/pt-br/servicos/obter-auxilio-para-dificuldades-de-acessibilidade-em-pesquisas-na-biblioteca-nacional",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-pesquisa-em-unidades-de-conservacao-federais",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                                "https://www.gov.br/pt-br/servicos/fazer-o-exame-nacional-de-revalidacao-de-diplomas-medicos-expedidos-por-instituicao-de-educacao-superior-estrangeira",
+                                "https://www.gov.br/pt-br/servicos/reconhecer-ou-revalidar-diploma-de-curso-superior-obtido-no-exterior",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/obter-declaracoes-de-regularidade-de-cursos-e-instituicoes-para-apresentacao-no-exterior",
+                                "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://twitter.com/share?text=Estudante&url=https://www.gov.br/resolveuid/4a8f698468a14c7c8711ad560ec831ed",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                            "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-curriculo-lattes",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                            "https://www.gov.br/pt-br/servicos/aprender-a-administrar-suas-financas-pessoais",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-insumos-visuais-para-pesquisa-ensino-e-comunicacao-em-saude",
+                            "https://www.gov.br/pt-br/perfil_usuario/estudante/servico-militar",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-abatimento-de-1-do-fies-para-medicos",
+                            "https://www.gov.br/pt-br/servicos/aditar-contrato-do-fies"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/consultar-o-acervo-bibliografico-da-biblioteca-domingos-soares-ferreira-penna-do-museu-paraense-emilio-goeldi",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-a-estagio-na-fiocruz",
+                            "https://www.gov.br/pt-br/servicos/gerenciar-e-monitorar-as-acoes-do-programa-idiomas-sem-fronteiras-isf-gestao",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-se-no-curriculo-lattes",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+                            "https://www.gov.br/pt-br/servicos/solicitar-absorcao-do-saldo-devedor-para-a-quitacao-da-divida-relacionada-a-contratos-do-fundo-de-financiamento-estudantil-fies",
+                            "https://www.gov.br/pt-br/servicos/aprender-a-administrar-suas-financas-pessoais",
+                            "https://www.gov.br/pt-br/servicos/obter-isencao-de-impostos-para-comprar-carro",
+                            "https://www.gov.br/pt-br/servicos/solicitar-a-carencia-estendida-pra-medicos-financiados-pelo-fies",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-insumos-visuais-para-pesquisa-ensino-e-comunicacao-em-saude",
+                            "https://www.gov.br/pt-br/perfil_usuario/estudante/servico-militar",
+                            "https://www.gov.br/pt-br/servicos/candidatar-se-ao-premio-tesouro-nacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-abatimento-de-1-do-fies-para-medicos",
+                            "https://www.gov.br/pt-br/servicos/aditar-contrato-do-fies"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "retorno"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

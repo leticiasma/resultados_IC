@@ -1,0 +1,500 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/noticias",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/12/ministerio-das-comunicacoes-assina-1o-contrato-com-recursos-do-fust",
+                        "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                        "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                        "https://www.gov.br/pt-br/categorias"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=60",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=40",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/sus-tera-novo-medicamento-para-o-tratamento-da-hepatite-c",
+                            "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=10",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=50",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/@@search?Subject:list=Secretaria-Geral",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=990",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=20"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=60",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=40",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/sus-tera-novo-medicamento-para-o-tratamento-da-hepatite-c",
+                            "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=10",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=50",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/@@search?Subject:list=Secretaria-Geral",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=990",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=20"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/petrobras-reduz-preco-medio-de-venda-de-glp-para-as-distribuidoras",
+                                "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/@@search?Subject:list=Sistema DOF+ Rastreabilidade",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2022/12/inss-define-cronograma-de-viagens-para-2023",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2022/12/revisao-da-vida-toda-nao-caia-em-golpes"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=60",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=40",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/sus-tera-novo-medicamento-para-o-tratamento-da-hepatite-c",
+                            "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=10",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=50",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/@@search?Subject:list=Secretaria-Geral",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=990",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=20"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/12/ministerio-das-comunicacoes-assina-1o-contrato-com-recursos-do-fust",
+                        "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                        "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                        "https://www.gov.br/pt-br/categorias"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=60",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=40",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/sus-tera-novo-medicamento-para-o-tratamento-da-hepatite-c",
+                            "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=10",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=50",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/@@search?Subject:list=Secretaria-Geral",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=990",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=20"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/petrobras-reduz-preco-medio-de-venda-de-glp-para-as-distribuidoras",
+                                "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/@@search?Subject:list=Sistema DOF+ Rastreabilidade",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2022/12/inss-define-cronograma-de-viagens-para-2023",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2022/12/revisao-da-vida-toda-nao-caia-em-golpes"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=60",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=40",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/sus-tera-novo-medicamento-para-o-tratamento-da-hepatite-c",
+                            "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=10",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=50",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/@@search?Subject:list=Secretaria-Geral",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=990",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=20"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=60",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=40",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/lei-autoriza-o-uso-de-recursos-de-fundos-de-saude-e-de-assistencia-social-por-entidades-privadas-sem-fins-lucrativos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/sus-tera-novo-medicamento-para-o-tratamento-da-hepatite-c",
+                            "https://www.gov.br/@@search?Subject:list=Base de Alc\u00e2ntara",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=30",
+                            "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/12/chega-ao-brasil-primeiro-foguete-comercial-para-lancamento-da-base-de-alcantara",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=10",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=50",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/@@search?Subject:list=Secretaria-Geral",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=990",
+                            "https://www.gov.br/pt-br/noticias?b_start:int=20"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizado"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "revisao"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

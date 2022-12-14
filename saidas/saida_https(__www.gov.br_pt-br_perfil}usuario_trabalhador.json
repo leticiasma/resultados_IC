@@ -1,0 +1,710 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/perfil_usuario/trabalhador",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-exclusivo-do-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-do-pescador-artesanal",
+                            "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-prorrogacao-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-trabalhador-portuario-avulso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                            "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-ao-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-certificado-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-quadro-brasileiro-de-qualificacoes",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-doenca-da-aeronauta-gestante",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-reclusao-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-a-bolsa-de-qualificacao-profissional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-inclusao-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-deslocamento-temporario-inicial-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-exclusivo-do-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-do-pescador-artesanal",
+                            "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-prorrogacao-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-trabalhador-portuario-avulso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                            "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-ao-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-certificado-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-quadro-brasileiro-de-qualificacoes",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-doenca-da-aeronauta-gestante",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-reclusao-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-a-bolsa-de-qualificacao-profissional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-inclusao-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-deslocamento-temporario-inicial-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                                "https://www.gov.br/pt-br/servicos/aposentadoria-por-incapacidade-permanente-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/comunicar-irregularidade-no-processo-eleitoral-da-cipa-nr5",
+                                "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                                "https://www.gov.br/pt-br/perfil_usuario/trabalhador/prevenir-acidentes-e-doencas",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/obter-declaracao-de-regularidade-da-situacao-do-contribuinte-individual",
+                                "https://twitter.com/share?text=Trabalhador&url=https://www.gov.br/resolveuid/6cbe4259426b4284a7a1362f296be34f",
+                                "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                                "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                                "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/obter-salario-maternidade-urbano",
+                                "https://www.gov.br/pt-br/servicos/comunicar-irregularidade-em-equipamento-de-protecao-individual-2013-epi-nr6",
+                                "https://www.gov.br/pt-br/servicos/emissao-de-2a-via-de-relatorio-de-ensaios-de-equipamento-de-protecao-individual-epi",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                                "https://www.gov.br/pt-br/servicos/comunicar-irregularidade-no-processo-eleitoral-da-cipatr-nr31",
+                                "https://www.gov.br/pt-br/servicos/acessar-o-mapa-do-emprego",
+                                "https://www.gov.br/pt-br/servicos/obter-consultas-tecnicas-do-regime-geral-de-previdencia-social",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                                "https://www.gov.br/pt-br/servicos/devolver-o-auxilio-emergencial-coronavirus-covid-19"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-exclusivo-do-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-do-pescador-artesanal",
+                            "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-prorrogacao-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-trabalhador-portuario-avulso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                            "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-ao-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-certificado-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-quadro-brasileiro-de-qualificacoes",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-doenca-da-aeronauta-gestante",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-reclusao-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-a-bolsa-de-qualificacao-profissional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-inclusao-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-deslocamento-temporario-inicial-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-exclusivo-do-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-do-pescador-artesanal",
+                            "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-prorrogacao-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-trabalhador-portuario-avulso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                            "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-ao-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-certificado-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-quadro-brasileiro-de-qualificacoes",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-doenca-da-aeronauta-gestante",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-reclusao-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-a-bolsa-de-qualificacao-profissional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-inclusao-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-deslocamento-temporario-inicial-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "map"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                                "https://www.gov.br/pt-br/servicos/aposentadoria-por-incapacidade-permanente-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/comunicar-irregularidade-no-processo-eleitoral-da-cipa-nr5",
+                                "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                                "https://www.gov.br/pt-br/perfil_usuario/trabalhador/prevenir-acidentes-e-doencas",
+                                "https://www.gov.br/pt-br/servicos/obter-extrato-previdenciario",
+                                "https://www.gov.br/pt-br/servicos/obter-declaracao-de-regularidade-da-situacao-do-contribuinte-individual",
+                                "https://twitter.com/share?text=Trabalhador&url=https://www.gov.br/resolveuid/6cbe4259426b4284a7a1362f296be34f",
+                                "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                                "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                                "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                                "https://www.gov.br/pt-br/servicos/obter-salario-maternidade-urbano",
+                                "https://www.gov.br/pt-br/servicos/comunicar-irregularidade-em-equipamento-de-protecao-individual-2013-epi-nr6",
+                                "https://www.gov.br/pt-br/servicos/emissao-de-2a-via-de-relatorio-de-ensaios-de-equipamento-de-protecao-individual-epi",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                                "https://www.gov.br/pt-br/servicos/comunicar-irregularidade-no-processo-eleitoral-da-cipatr-nr31",
+                                "https://www.gov.br/pt-br/servicos/acessar-o-mapa-do-emprego",
+                                "https://www.gov.br/pt-br/servicos/obter-consultas-tecnicas-do-regime-geral-de-previdencia-social",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+                                "https://www.gov.br/pt-br/servicos/devolver-o-auxilio-emergencial-coronavirus-covid-19"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-exclusivo-do-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-do-pescador-artesanal",
+                            "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-prorrogacao-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-trabalhador-portuario-avulso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                            "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-ao-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-certificado-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-quadro-brasileiro-de-qualificacoes",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-doenca-da-aeronauta-gestante",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-reclusao-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-a-bolsa-de-qualificacao-profissional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-inclusao-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-deslocamento-temporario-inicial-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-exclusivo-do-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certidao-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-da-rais",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-empregado-domestico",
+                            "https://www.gov.br/pt-br/servicos/solicitar-seguro-desemprego-do-pescador-artesanal",
+                            "https://www.gov.br/pt-br/servicos/registrar-se-como-profissional-para-atividades-exigidas-em-lei",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-prorrogacao-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-declaracao-de-filiacao-ao-regime-geral-de-previdencia-social-rgps-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-trabalhador-portuario-avulso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-da-rais",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-rural",
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-acidente",
+                            "https://www.gov.br/pt-br/servicos/auxilio-por-incapacidade-temporaria-para-contribuintes-da-previdencia-social-brasileira-que-estejam-no-exterior-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-salario-maternidade-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-de-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-ao-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-retificacao-de-certificado-de-deslocamento-temporario-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-quadro-brasileiro-de-qualificacoes",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-doenca-da-aeronauta-gestante",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-reclusao-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-atestado-de-vida-no-exterior",
+                            "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+                            "https://www.gov.br/pt-br/servicos/solicitar-inscricao-junto-ao-inss",
+                            "https://www.gov.br/pt-br/servicos/solicitar-alteracao-no-banco-de-dados-do-caged",
+                            "https://www.gov.br/pt-br/servicos/cadastrar-recurso-relativo-a-bolsa-de-qualificacao-profissional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-vinculos-empregaticios-do-caged",
+                            "https://www.gov.br/pt-br/servicos/comunicar-risco-potencial-em-plataforma-de-petroleo-capaz-de-gerar-um-acidente-ampliado-nr37",
+                            "https://www.gov.br/pt-br/servicos/solicitar-historico-de-seguro-em-pais-acordante-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-para-trabalhador-rural",
+                            "https://www.gov.br/pt-br/servicos/solicitar-auxilio-inclusao-a-pessoa-com-deficiencia",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-urbana-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-tempo-de-contribuicao",
+                            "https://www.gov.br/pt-br/servicos/solicitar-pensao-por-morte-urbana",
+                            "https://www.gov.br/pt-br/servicos/solicitar-certificado-de-deslocamento-temporario-inicial-acordo-internacional",
+                            "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

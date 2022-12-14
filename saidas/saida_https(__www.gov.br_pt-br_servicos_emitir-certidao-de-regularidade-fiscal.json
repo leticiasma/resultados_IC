@@ -1,0 +1,630 @@
+{
+    "urlPaginaPrincipal": "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "informacoes adicionais",
+                        "titulo",
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/impostos-e-obrigacoes/certidoes-e-outros-servicos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=51",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00002",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/impostos-e-obrigacoes",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "xml",
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20de%20Obra",
+                                "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2015-10-08;8539",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20de%20D%C3%A9bitos",
+                                "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/certidoes/certidao",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=56753",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                                "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2021-03-29;14129",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20Negativa",
+                                "https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.eprocesso",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=51",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20de%20Regularidade%20Fiscal",
+                                "http://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/ITR/Emitir",
+                                "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal-de-obra",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                                "http://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PF/Emitir",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=15937",
+                                "https://www.gov.br/pt-br/servicos/obter-solucao-de-consulta-de-dados-de-certidao-negativa-de-debito-cnd",
+                                "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://apps.apple.com/br/app/eprocesso/id1358752141",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "http://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir",
+                                "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=55975",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://twitter.com/share?text=Emitir%20certid%C3%A3o%20de%20regularidade%20fiscal&url=https://www.gov.br/resolveuid/61befe9cc02f4d739c171ba6f7d4245f",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=116969",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal&title=Emitir%20certid%C3%A3o%20de%20regularidade%20fiscal",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20Positiva",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                                "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00002",
+                                "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/impostos-e-obrigacoes/certidoes-e-outros-servicos"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "informacoes adicionais",
+                        "titulo",
+                        "contato",
+                        "idioma",
+                        "temas",
+                        "categorias",
+                        "licenca",
+                        "relacao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/impostos-e-obrigacoes/certidoes-e-outros-servicos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                        "https://www.gov.br/pt-br/temas-em-destaque-1",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=51",
+                        "https://www.gov.br/governodigital/pt-br/dados-abertos",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                        "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00002",
+                        "https://www.gov.br/pt-br/categorias",
+                        "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/impostos-e-obrigacoes",
+                        "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "escolher"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "xml",
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20de%20Obra",
+                                "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2015-10-08;8539",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20de%20D%C3%A9bitos",
+                                "https://api.whatsapp.com/send?text=https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/certidoes/certidao",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=56753",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                                "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2021-03-29;14129",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20Negativa",
+                                "https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.eprocesso",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=51",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20de%20Regularidade%20Fiscal",
+                                "http://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/ITR/Emitir",
+                                "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal-de-obra",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2",
+                                "http://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PF/Emitir",
+                                "/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=15937",
+                                "https://www.gov.br/pt-br/servicos/obter-solucao-de-consulta-de-dados-de-certidao-negativa-de-debito-cnd",
+                                "http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://apps.apple.com/br/app/eprocesso/id1358752141",
+                                "https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor",
+                                "http://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir",
+                                "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=55975",
+                                "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+                                "https://twitter.com/share?text=Emitir%20certid%C3%A3o%20de%20regularidade%20fiscal&url=https://www.gov.br/resolveuid/61befe9cc02f4d739c171ba6f7d4245f",
+                                "https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao",
+                                "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=116969",
+                                "https://www.gov.br/governodigital/pt-br/acessibilidade-digital",
+                                "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                                "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal&title=Emitir%20certid%C3%A3o%20de%20regularidade%20fiscal",
+                                "https://www.gov.br/pt-br/@@search?Subject%3Alist=Certid%C3%A3o%20Positiva",
+                                "https://www.gov.br/pt-br/sitemap",
+                                "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                                "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                                "https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx?sistema=00002",
+                                "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/impostos-e-obrigacoes/certidoes-e-outros-servicos"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "arquivado"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "licenca"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "data"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.gov.br/pt-br/servicos/listar_orgaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=4",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos",
+                            "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=3",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=4&tipo=1",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas",
+                            "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+                            "https://www.gov.br/pt-br/orgaos/secretaria-especial-da-receita-federal-do-brasil",
+                            "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+                            "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+                            "https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor",
+                            "https://falabr.cgu.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?idFormulario=1&tipo=2"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "ultima",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "documentacao",
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}
