@@ -1,0 +1,378 @@
+{
+    "urlPaginaPrincipal": "https://ivaipora.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://ivaipora.ifpr.edu.br/menu-institucional/biblioteca/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/",
+                            "https://ivaipora.ifpr.edu.br/documentos-institucionais/portarias/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/estagio-na-secac/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/copex/secao-de-estagios-e-relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/",
+                            "https://ivaipora.ifpr.edu.br/documentos-institucionais/portarias/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/estagio-na-secac/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/copex/secao-de-estagios-e-relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://ivaipora.ifpr.edu.br/servidores-2/corpo-docente/",
+                                "https://ivaipora.ifpr.edu.br/estudantes/napne-nucleo-de-atendimento-a-pessoas-com-necessidades-educacionais-especificas/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://ivaipora.ifpr.edu.br/menu-institucional/copex/cope/certificados-emitidos/",
+                                "https://ivaipora.ifpr.edu.br/documentos-institucionais/acoes-durante-a-pandemia-da-covid-19/",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/tecnicos-administrativos/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/organograma/",
+                                "https://ivaipora.ifpr.edu.br/plano-de-acao-local-covid/",
+                                "https://ivaipora.ifpr.edu.br/menu-institucional/ifpr-na-midia/",
+                                "https://ivaipora.ifpr.edu.br/publicacoes-no-site-e-midias-sociais-institucionais/",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/concursos-e-selecoes/",
+                                "https://ivaipora.ifpr.edu.br/2022/10/30/comunicado-atividades-academicas-e-administrativas/",
+                                "https://ivaipora.ifpr.edu.br/laboratorio-de-humanidades-do-vale-do-ivai/",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/concursos-e-selecoes/concurso/biologia/boletim-covid/",
+                                "https://ivaipora.ifpr.edu.br/2022/11/18/capacitacao-com-os-servidores-do-ifpr-campus-ivaipora/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/",
+                            "https://ivaipora.ifpr.edu.br/documentos-institucionais/portarias/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/estagio-na-secac/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/copex/secao-de-estagios-e-relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://ivaipora.ifpr.edu.br/menu-institucional/biblioteca/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/",
+                            "https://ivaipora.ifpr.edu.br/documentos-institucionais/portarias/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/estagio-na-secac/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/copex/secao-de-estagios-e-relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://ivaipora.ifpr.edu.br/servidores-2/corpo-docente/",
+                                "https://ivaipora.ifpr.edu.br/estudantes/napne-nucleo-de-atendimento-a-pessoas-com-necessidades-educacionais-especificas/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://ivaipora.ifpr.edu.br/menu-institucional/copex/cope/certificados-emitidos/",
+                                "https://ivaipora.ifpr.edu.br/documentos-institucionais/acoes-durante-a-pandemia-da-covid-19/",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/tecnicos-administrativos/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/organograma/",
+                                "https://ivaipora.ifpr.edu.br/plano-de-acao-local-covid/",
+                                "https://ivaipora.ifpr.edu.br/menu-institucional/ifpr-na-midia/",
+                                "https://ivaipora.ifpr.edu.br/publicacoes-no-site-e-midias-sociais-institucionais/",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/concursos-e-selecoes/",
+                                "https://ivaipora.ifpr.edu.br/2022/10/30/comunicado-atividades-academicas-e-administrativas/",
+                                "https://ivaipora.ifpr.edu.br/laboratorio-de-humanidades-do-vale-do-ivai/",
+                                "https://ivaipora.ifpr.edu.br/servidores-2/concursos-e-selecoes/concurso/biologia/boletim-covid/",
+                                "https://ivaipora.ifpr.edu.br/2022/11/18/capacitacao-com-os-servidores-do-ifpr-campus-ivaipora/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/",
+                            "https://ivaipora.ifpr.edu.br/documentos-institucionais/portarias/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/estagio-na-secac/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/copex/secao-de-estagios-e-relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/",
+                            "https://ivaipora.ifpr.edu.br/documentos-institucionais/portarias/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/secretaria-academica/estagio-na-secac/",
+                            "https://ivaipora.ifpr.edu.br/menu-institucional/copex/secao-de-estagios-e-relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

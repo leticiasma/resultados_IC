@@ -1,0 +1,492 @@
+{
+    "urlPaginaPrincipal": "https://londrina.ifpr.edu.br/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "referencia"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Resultado-de-pedidos-de-reconsidera\u00e7\u00e3o-Homologa\u00e7\u00e3o-provis\u00f3ria-de-inscri\u00e7\u00f5es.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/Edital-de-abertura.pdf",
+                        "https://londrina.ifpr.edu.br/biblioteca/",
+                        "https://londrina.ifpr.edu.br/centro-de-referencia-de-maringa-2/",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-261-Resultado-provis\u00f3rio-das-bancas-de-verifica\u00e7\u00e3o-de-cotas.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Homologa%C3%A7%C3%A3o-final-das-inscri%C3%A7%C3%B5es.pdf",
+                        "https://londrina.ifpr.edu.br/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+                        "https://londrina.ifpr.edu.br/biblioteca/biblioteca-links/servicos/",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2019/04/Londrina_Regulamento-da-biblioteca-compactado.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/MATRIZ-CURRICULAR.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-244-Lista-provis\u00f3ria-de-classifica\u00e7\u00e3o-dos-inscritos.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Cronograma-do-Processo-Seletivo.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.sceps.londrina@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.sceps.londrina@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://docs.google.com/forms/d/e/1FAIpQLSdS1D1c2-U9GZGtybkiQyCX2mW_wubCuwN6R6tYvklTBKJQCA/viewform",
+                            "https://docs.google.com/forms/d/e/1FAIpQLSf_BGzKS1Llxr_QpOdBWnVhbjNYmgbRhKMyq5xsy-_3KL3VLg/viewform",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-retificacao-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-abertura-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/",
+                            "https://londrina.ifpr.edu.br/menu-institucional/transparencia/horarios-flexibilizados/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://docs.google.com/forms/d/e/1FAIpQLSdS1D1c2-U9GZGtybkiQyCX2mW_wubCuwN6R6tYvklTBKJQCA/viewform",
+                            "https://docs.google.com/forms/d/e/1FAIpQLSf_BGzKS1Llxr_QpOdBWnVhbjNYmgbRhKMyq5xsy-_3KL3VLg/viewform",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-retificacao-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-abertura-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/",
+                            "https://londrina.ifpr.edu.br/menu-institucional/transparencia/horarios-flexibilizados/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2153426&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Resultado-de-pedidos-de-reconsidera\u00e7\u00e3o-Homologa\u00e7\u00e3o-provis\u00f3ria-de-inscri\u00e7\u00f5es.pdf",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2115727&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/Edital-de-abertura.pdf",
+                                "https://londrina.ifpr.edu.br/?page_id=2013",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2139280&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/fale-com-a-comissao/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2139248&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/?page_id=7922",
+                                "https://londrina.ifpr.edu.br/?page_id=211",
+                                "https://londrina.ifpr.edu.br/?page_id=7550",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2153405&id_orgao_publicacao=0",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2153435&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/comissao-local/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2178870&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-261-Resultado-provis\u00f3rio-das-bancas-de-verifica\u00e7\u00e3o-de-cotas.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://londrina.ifpr.edu.br/?page_id=7536",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/oportunidades-de-estagio-orientacoes/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/monitoramento-de-casos/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/comissao-local/pareceres/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2139288&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Cronograma-do-Processo-Seletivo.pdf",
+                                "https://sigaa.ifpr.edu.br/sigaa/public/autenticidade/tipo_documento.jsf",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/sobre-a-covid-19/",
+                                "https://londrina.ifpr.edu.br/?page_id=1256",
+                                "https://londrina.ifpr.edu.br/?page_id=4442",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Homologa%C3%A7%C3%A3o-final-das-inscri%C3%A7%C3%B5es.pdf",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/perguntas-frequentes/",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/MATRIZ-CURRICULAR.pdf",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&acao_origem=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-244-Lista-provis\u00f3ria-de-classifica\u00e7\u00e3o-dos-inscritos.pdf",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/oportunidades-de-estagio-orientacoes/formularios-de-estagio/oportunidades-de-estagio-4/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/comissao-local/agenda/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/recomendacoes/",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/oportunidades-de-estagio-orientacoes/normativas/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/retomada-de-atividades-presenciais/",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2019/04/Londrina_Regulamento-da-biblioteca-compactado.pdf",
+                                "https://survey.ifpr.edu.br/index.php/514249",
+                                "https://londrina.ifpr.edu.br/?page_id=356"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://docs.google.com/forms/d/e/1FAIpQLSdS1D1c2-U9GZGtybkiQyCX2mW_wubCuwN6R6tYvklTBKJQCA/viewform",
+                            "https://docs.google.com/forms/d/e/1FAIpQLSf_BGzKS1Llxr_QpOdBWnVhbjNYmgbRhKMyq5xsy-_3KL3VLg/viewform",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-retificacao-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-abertura-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/",
+                            "https://londrina.ifpr.edu.br/menu-institucional/transparencia/horarios-flexibilizados/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "referencia"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Resultado-de-pedidos-de-reconsidera\u00e7\u00e3o-Homologa\u00e7\u00e3o-provis\u00f3ria-de-inscri\u00e7\u00f5es.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/Edital-de-abertura.pdf",
+                        "https://londrina.ifpr.edu.br/biblioteca/",
+                        "https://londrina.ifpr.edu.br/centro-de-referencia-de-maringa-2/",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-261-Resultado-provis\u00f3rio-das-bancas-de-verifica\u00e7\u00e3o-de-cotas.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Homologa%C3%A7%C3%A3o-final-das-inscri%C3%A7%C3%B5es.pdf",
+                        "https://londrina.ifpr.edu.br/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+                        "https://londrina.ifpr.edu.br/biblioteca/biblioteca-links/servicos/",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2019/04/Londrina_Regulamento-da-biblioteca-compactado.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/MATRIZ-CURRICULAR.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-244-Lista-provis\u00f3ria-de-classifica\u00e7\u00e3o-dos-inscritos.pdf",
+                        "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Cronograma-do-Processo-Seletivo.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.sceps.londrina@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://docs.google.com/forms/d/e/1FAIpQLSdS1D1c2-U9GZGtybkiQyCX2mW_wubCuwN6R6tYvklTBKJQCA/viewform",
+                            "https://docs.google.com/forms/d/e/1FAIpQLSf_BGzKS1Llxr_QpOdBWnVhbjNYmgbRhKMyq5xsy-_3KL3VLg/viewform",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-retificacao-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-abertura-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/",
+                            "https://londrina.ifpr.edu.br/menu-institucional/transparencia/horarios-flexibilizados/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2153426&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Resultado-de-pedidos-de-reconsidera\u00e7\u00e3o-Homologa\u00e7\u00e3o-provis\u00f3ria-de-inscri\u00e7\u00f5es.pdf",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2115727&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/Edital-de-abertura.pdf",
+                                "https://londrina.ifpr.edu.br/?page_id=2013",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2139280&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/fale-com-a-comissao/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2139248&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/?page_id=7922",
+                                "https://londrina.ifpr.edu.br/?page_id=211",
+                                "https://londrina.ifpr.edu.br/?page_id=7550",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2153405&id_orgao_publicacao=0",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2153435&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/comissao-local/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2178870&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-261-Resultado-provis\u00f3rio-das-bancas-de-verifica\u00e7\u00e3o-de-cotas.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://londrina.ifpr.edu.br/?page_id=7536",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/oportunidades-de-estagio-orientacoes/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/monitoramento-de-casos/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/comissao-local/pareceres/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2139288&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Cronograma-do-Processo-Seletivo.pdf",
+                                "https://sigaa.ifpr.edu.br/sigaa/public/autenticidade/tipo_documento.jsf",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/sobre-a-covid-19/",
+                                "https://londrina.ifpr.edu.br/?page_id=1256",
+                                "https://londrina.ifpr.edu.br/?page_id=4442",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Homologa%C3%A7%C3%A3o-final-das-inscri%C3%A7%C3%B5es.pdf",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/perguntas-frequentes/",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/10/MATRIZ-CURRICULAR.pdf",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&acao_origem=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2022/11/Edital-244-Lista-provis\u00f3ria-de-classifica\u00e7\u00e3o-dos-inscritos.pdf",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/oportunidades-de-estagio-orientacoes/formularios-de-estagio/oportunidades-de-estagio-4/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/comissao-local/agenda/",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/recomendacoes/",
+                                "https://londrina.ifpr.edu.br/nerc-nucleo-de-estagios/oportunidade-de-estagios-formularios/oportunidades-de-estagio-orientacoes/normativas/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://londrina.ifpr.edu.br/campus-contra-covid-19/retomada-de-atividades-presenciais/",
+                                "https://londrina.ifpr.edu.br/wp-content/uploads/2019/04/Londrina_Regulamento-da-biblioteca-compactado.pdf",
+                                "https://survey.ifpr.edu.br/index.php/514249",
+                                "https://londrina.ifpr.edu.br/?page_id=356"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://docs.google.com/forms/d/e/1FAIpQLSdS1D1c2-U9GZGtybkiQyCX2mW_wubCuwN6R6tYvklTBKJQCA/viewform",
+                            "https://docs.google.com/forms/d/e/1FAIpQLSf_BGzKS1Llxr_QpOdBWnVhbjNYmgbRhKMyq5xsy-_3KL3VLg/viewform",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-retificacao-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-abertura-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/",
+                            "https://londrina.ifpr.edu.br/menu-institucional/transparencia/horarios-flexibilizados/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://docs.google.com/forms/d/e/1FAIpQLSdS1D1c2-U9GZGtybkiQyCX2mW_wubCuwN6R6tYvklTBKJQCA/viewform",
+                            "https://docs.google.com/forms/d/e/1FAIpQLSf_BGzKS1Llxr_QpOdBWnVhbjNYmgbRhKMyq5xsy-_3KL3VLg/viewform",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-retificacao-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/formulario-de-abertura-de-turmas/",
+                            "https://londrina.ifpr.edu.br/menu-alunos/secretaria/",
+                            "https://londrina.ifpr.edu.br/menu-institucional/transparencia/horarios-flexibilizados/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "avaliacao",
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": [
+                        "esp.sceps.londrina@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

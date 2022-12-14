@@ -1,0 +1,428 @@
+{
+    "urlPaginaPrincipal": "https://info.ifpr.edu.br/informacoes-institucionais/pdi-plano-de-desenvolvimento-institucional/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "criacao",
+                        "atualizacao",
+                        "versao",
+                        "descricao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "http://info.ifpr.edu.br/wp-content/uploads/pdi-2014-2018-versao-final.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Versao-Consup-2019.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI-2014-2018-Vers%C3%A3o-Revista-2017-2018-Final-30032017.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/resolucao_pdi.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Revisao-2020.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "revisao",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "revisao",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "descricao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "descricao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://info.ifpr.edu.br/mapa-dos-campi/",
+                                "https://info.ifpr.edu.br/?page_id=2193",
+                                "http://info.ifpr.edu.br/wp-content/uploads/pdi-2014-2018-versao-final.pdf",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Versao-Consup-2019.pdf",
+                                "https://info.ifpr.edu.br/indicadores-2/",
+                                "https://info.ifpr.edu.br/indicadores-2017/",
+                                "mapa-do-portal/",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI-2014-2018-Vers%C3%A3o-Revista-2017-2018-Final-30032017.pdf",
+                                "http://info.ifpr.edu.br/wp-content/uploads/resolucao_pdi.pdf",
+                                "https://info.ifpr.edu.br/indicadores/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/",
+                                "https://info.ifpr.edu.br/candidato-x-vaga/",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI.pdf",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Revisao-2020.pdf",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "estrutura"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "descricao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "criacao",
+                        "atualizacao",
+                        "versao",
+                        "descricao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "http://info.ifpr.edu.br/wp-content/uploads/pdi-2014-2018-versao-final.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Versao-Consup-2019.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI-2014-2018-Vers%C3%A3o-Revista-2017-2018-Final-30032017.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/resolucao_pdi.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Revisao-2020.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "revisao",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "estrutura"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "descricao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://info.ifpr.edu.br/mapa-dos-campi/",
+                                "https://info.ifpr.edu.br/?page_id=2193",
+                                "http://info.ifpr.edu.br/wp-content/uploads/pdi-2014-2018-versao-final.pdf",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Versao-Consup-2019.pdf",
+                                "https://info.ifpr.edu.br/indicadores-2/",
+                                "https://info.ifpr.edu.br/indicadores-2017/",
+                                "mapa-do-portal/",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI-2014-2018-Vers%C3%A3o-Revista-2017-2018-Final-30032017.pdf",
+                                "http://info.ifpr.edu.br/wp-content/uploads/resolucao_pdi.pdf",
+                                "https://info.ifpr.edu.br/indicadores/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/",
+                                "https://info.ifpr.edu.br/candidato-x-vaga/",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI.pdf",
+                                "http://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023-Revisao-2020.pdf",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "descricao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "atualizacao",
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "descricao"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "revisao",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

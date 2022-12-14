@@ -1,0 +1,336 @@
+{
+    "urlPaginaPrincipal": "https://gov.br/sobre",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fonte",
+                        "versao",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                        "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fonte"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fonte"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                                "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fonte",
+                        "versao",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                        "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                                "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=4&orgaoDestinatario=26&assunto=828",
+                            "https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?tipo=5&orgaoDestinatario=26"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

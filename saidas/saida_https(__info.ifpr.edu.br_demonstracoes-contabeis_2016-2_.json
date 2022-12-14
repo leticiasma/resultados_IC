@@ -1,0 +1,416 @@
+{
+    "urlPaginaPrincipal": "https://info.ifpr.edu.br/demonstracoes-contabeis/2016-2/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "http://info.ifpr.edu.br/wp-content/uploads/04-relatorio-no-201601464.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/Relat\u00f3rio-de-Gest\u00e3o-de-2016.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/04-parecer-de-dirignte-de-controle-interno.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/04-certificado.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "http://info.ifpr.edu.br/wp-content/uploads/04-parecer-de-dirignte-de-controle-interno.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Reitoria%22%7D",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://info.ifpr.edu.br/candidato-x-vaga/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Coronel%2520Vivida%22%7D",
+                                "http://info.ifpr.edu.br/wp-content/uploads/Relat\u00f3rio-de-Gest\u00e3o-de-2016.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Colombo%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Capanema%22%7D",
+                                "http://info.ifpr.edu.br/wp-content/uploads/04-certificado.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Palmas%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Pitanga%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Cascavel%22%7D",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/",
+                                "http://info.ifpr.edu.br/wp-content/uploads/04-relatorio-no-201601464.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Jacarezinho%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Ivaipor%25C3%25A3%22%7D",
+                                "mapa-do-portal/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Tel%25C3%25AAmaco%2520Borba%22%7D",
+                                "https://info.ifpr.edu.br/indicadores/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Foz%2520do%2520Igua%25C3%25A7u%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Pinhais%22%7D",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Barrac%25C3%25A3o%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Paranava%25C3%25AD%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Londrina%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Uni%25C3%25A3o%2520da%2520Vit%25C3%25B3ria%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Jaguaria%25C3%25ADva%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Curitiba%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Astorga%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Paranagu%25C3%25A1%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Arapongas%22%7D",
+                                "https://info.ifpr.edu.br/mapa-dos-campi/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Irati%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Assis%2520Chateaubriand%22%7D",
+                                "https://info.ifpr.edu.br/indicadores-2017/",
+                                "https://info.ifpr.edu.br/indicadores-2/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Umuarama%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Goioer%25C3%25AA%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Quedas%2520do%2520Igua%25C3%25A7u%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Campo%2520Largo%22%7D"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "http://info.ifpr.edu.br/wp-content/uploads/04-relatorio-no-201601464.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/Relat\u00f3rio-de-Gest\u00e3o-de-2016.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/04-parecer-de-dirignte-de-controle-interno.pdf",
+                        "http://info.ifpr.edu.br/wp-content/uploads/04-certificado.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "dat",
+                                "id",
+                                "ind",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "http://info.ifpr.edu.br/wp-content/uploads/04-parecer-de-dirignte-de-controle-interno.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Reitoria%22%7D",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://info.ifpr.edu.br/candidato-x-vaga/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Coronel%2520Vivida%22%7D",
+                                "http://info.ifpr.edu.br/wp-content/uploads/Relat\u00f3rio-de-Gest\u00e3o-de-2016.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Colombo%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Capanema%22%7D",
+                                "http://info.ifpr.edu.br/wp-content/uploads/04-certificado.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Palmas%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Pitanga%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Cascavel%22%7D",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/",
+                                "http://info.ifpr.edu.br/wp-content/uploads/04-relatorio-no-201601464.pdf",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Jacarezinho%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Ivaipor%25C3%25A3%22%7D",
+                                "mapa-do-portal/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Tel%25C3%25AAmaco%2520Borba%22%7D",
+                                "https://info.ifpr.edu.br/indicadores/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Foz%2520do%2520Igua%25C3%25A7u%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Pinhais%22%7D",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Barrac%25C3%25A3o%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Paranava%25C3%25AD%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Londrina%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Uni%25C3%25A3o%2520da%2520Vit%25C3%25B3ria%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Jaguaria%25C3%25ADva%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Curitiba%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Astorga%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Paranagu%25C3%25A1%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Arapongas%22%7D",
+                                "https://info.ifpr.edu.br/mapa-dos-campi/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Irati%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Assis%2520Chateaubriand%22%7D",
+                                "https://info.ifpr.edu.br/indicadores-2017/",
+                                "https://info.ifpr.edu.br/indicadores-2/",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Umuarama%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Goioer%25C3%25AA%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Avan%25C3%25A7ado%2520Quedas%2520do%2520Igua%25C3%25A7u%22%7D",
+                                "https://datastudio.google.com/u/1/reporting/88f52c76-b595-43ec-8d72-046c18f66acc/page/DhNSB?params=%7B%22df106%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580Campo%2520Largo%22%7D"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

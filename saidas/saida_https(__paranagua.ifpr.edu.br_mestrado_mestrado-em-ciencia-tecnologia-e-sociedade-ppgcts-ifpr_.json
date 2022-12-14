@@ -1,0 +1,342 @@
+{
+    "urlPaginaPrincipal": "https://paranagua.ifpr.edu.br/mestrado/mestrado-em-ciencia-tecnologia-e-sociedade-ppgcts-ifpr/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e1-a-go5G2P-gIJoyO4YCI5Gm7_9MMC4pkKOOYgfahq&sa=D&sntz=1&usg=AOvVaw10-Nq6bwfFMVM6nZpzBRo9",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8RfftEZelHT8F0TX5mxEhwaLWWmXPObkGiCe3Dhb8sh_&sa=D&sntz=1&usg=AOvVaw2wf1hyaUoWcdfx4O6nnp2f",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8ZdyggcZ00mcgypjYkKDMzkhonSO0tIUS82_nN0p0Vu8&sa=D&sntz=1&usg=AOvVaw2YVLs06UC4ydpbWaCkl-WD"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e1-a-go5G2P-gIJoyO4YCI5Gm7_9MMC4pkKOOYgfahq&sa=D&sntz=1&usg=AOvVaw10-Nq6bwfFMVM6nZpzBRo9",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8RfftEZelHT8F0TX5mxEhwaLWWmXPObkGiCe3Dhb8sh_&sa=D&sntz=1&usg=AOvVaw2wf1hyaUoWcdfx4O6nnp2f",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8ZdyggcZ00mcgypjYkKDMzkhonSO0tIUS82_nN0p0Vu8&sa=D&sntz=1&usg=AOvVaw2YVLs06UC4ydpbWaCkl-WD"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.google.com/url?q=https%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F09%2F20%2Fifpr-campus-paranagua-em-intercambio-internacional-no-ipvc-em-viana-do-castelo-portugal%2F%3Ffbclid%3DIwAR2_wDlqqJ9Nq987AbqkwgM-QmEsXBp0CYtzmO-PHngENfr5rpdMVZqrPHYhttps%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F10%2F11%2Fvice-presidente-do-instituto-politecnico-de-viana-do-castelo-ipvc-visita-o-ifpr-para-acordo-de-mobilidade-academica%2F&sa=D&sntz=1&usg=AOvVaw1txogGdfY7dMlGDREheOUE",
+                                "https://www.google.com/url?q=https%3A%2F%2Fwww.antenaminho.pt%2Fnoticias%2Fpolitecnico-de-viana-do-castelo-reforca-cooperacao-com-instituicoes-brasileiras%2F25120%3Ffbclid%3DIwAR27yCzG9ODiZQ1vTL4DF9l3DErTFOkc8WpN2w4zrdJdnI0__ZDCz1Wm14I&sa=D&sntz=1&usg=AOvVaw2xh2RayczUMkETYz56pytO",
+                                "https://www.google.com/url?q=https%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F08%2F09%2Fprofessor-do-ifpr-campus-paranagua-apresenta-trabalhos-na-india%2F&sa=D&sntz=1&usg=AOvVaw2-D1MO1pqZHDWL9hOfV48J",
+                                "https://www.google.com/url?q=https%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F09%2F20%2Fifpr-campus-paranagua-em-intercambio-internacional-no-ipvc-em-viana-do-castelo-portugal%2F%3Ffbclid%3DIwAR2_wDlqqJ9Nq987AbqkwgM-QmEsXBp0CYtzmO-PHngENfr5rpdMVZqrPHY&sa=D&sntz=1&usg=AOvVaw3uRP3_5XQXX7H4BWFddUTa",
+                                "https://www.google.com/url?q=https%3A%2F%2Fwww.even3.com.br%2Fi-ciset-i-congresso-internacional-de-sustentabilidade-educacao-e-tecnologia-ciencia-sociedade-meio-ambiente-e-educacao-profissional-de-05-a-06-de-dezembro-de-2022-271739&sa=D&sntz=1&usg=AOvVaw04SlnYFtZsLwKIGQ8giS0S"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "estrutura"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e1-a-go5G2P-gIJoyO4YCI5Gm7_9MMC4pkKOOYgfahq&sa=D&sntz=1&usg=AOvVaw10-Nq6bwfFMVM6nZpzBRo9",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8RfftEZelHT8F0TX5mxEhwaLWWmXPObkGiCe3Dhb8sh_&sa=D&sntz=1&usg=AOvVaw2wf1hyaUoWcdfx4O6nnp2f",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8ZdyggcZ00mcgypjYkKDMzkhonSO0tIUS82_nN0p0Vu8&sa=D&sntz=1&usg=AOvVaw2YVLs06UC4ydpbWaCkl-WD"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": [],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "estrutura"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e1-a-go5G2P-gIJoyO4YCI5Gm7_9MMC4pkKOOYgfahq&sa=D&sntz=1&usg=AOvVaw10-Nq6bwfFMVM6nZpzBRo9",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8RfftEZelHT8F0TX5mxEhwaLWWmXPObkGiCe3Dhb8sh_&sa=D&sntz=1&usg=AOvVaw2wf1hyaUoWcdfx4O6nnp2f",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8ZdyggcZ00mcgypjYkKDMzkhonSO0tIUS82_nN0p0Vu8&sa=D&sntz=1&usg=AOvVaw2YVLs06UC4ydpbWaCkl-WD"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.google.com/url?q=https%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F09%2F20%2Fifpr-campus-paranagua-em-intercambio-internacional-no-ipvc-em-viana-do-castelo-portugal%2F%3Ffbclid%3DIwAR2_wDlqqJ9Nq987AbqkwgM-QmEsXBp0CYtzmO-PHngENfr5rpdMVZqrPHYhttps%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F10%2F11%2Fvice-presidente-do-instituto-politecnico-de-viana-do-castelo-ipvc-visita-o-ifpr-para-acordo-de-mobilidade-academica%2F&sa=D&sntz=1&usg=AOvVaw1txogGdfY7dMlGDREheOUE",
+                                "https://www.google.com/url?q=https%3A%2F%2Fwww.antenaminho.pt%2Fnoticias%2Fpolitecnico-de-viana-do-castelo-reforca-cooperacao-com-instituicoes-brasileiras%2F25120%3Ffbclid%3DIwAR27yCzG9ODiZQ1vTL4DF9l3DErTFOkc8WpN2w4zrdJdnI0__ZDCz1Wm14I&sa=D&sntz=1&usg=AOvVaw2xh2RayczUMkETYz56pytO",
+                                "https://www.google.com/url?q=https%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F08%2F09%2Fprofessor-do-ifpr-campus-paranagua-apresenta-trabalhos-na-india%2F&sa=D&sntz=1&usg=AOvVaw2-D1MO1pqZHDWL9hOfV48J",
+                                "https://www.google.com/url?q=https%3A%2F%2Fparanagua.ifpr.edu.br%2F2022%2F09%2F20%2Fifpr-campus-paranagua-em-intercambio-internacional-no-ipvc-em-viana-do-castelo-portugal%2F%3Ffbclid%3DIwAR2_wDlqqJ9Nq987AbqkwgM-QmEsXBp0CYtzmO-PHngENfr5rpdMVZqrPHY&sa=D&sntz=1&usg=AOvVaw3uRP3_5XQXX7H4BWFddUTa",
+                                "https://www.google.com/url?q=https%3A%2F%2Fwww.even3.com.br%2Fi-ciset-i-congresso-internacional-de-sustentabilidade-educacao-e-tecnologia-ciencia-sociedade-meio-ambiente-e-educacao-profissional-de-05-a-06-de-dezembro-de-2022-271739&sa=D&sntz=1&usg=AOvVaw04SlnYFtZsLwKIGQ8giS0S"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e1-a-go5G2P-gIJoyO4YCI5Gm7_9MMC4pkKOOYgfahq&sa=D&sntz=1&usg=AOvVaw10-Nq6bwfFMVM6nZpzBRo9",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8RfftEZelHT8F0TX5mxEhwaLWWmXPObkGiCe3Dhb8sh_&sa=D&sntz=1&usg=AOvVaw2wf1hyaUoWcdfx4O6nnp2f",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8ZdyggcZ00mcgypjYkKDMzkhonSO0tIUS82_nN0p0Vu8&sa=D&sntz=1&usg=AOvVaw2YVLs06UC4ydpbWaCkl-WD"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e1-a-go5G2P-gIJoyO4YCI5Gm7_9MMC4pkKOOYgfahq&sa=D&sntz=1&usg=AOvVaw10-Nq6bwfFMVM6nZpzBRo9",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8RfftEZelHT8F0TX5mxEhwaLWWmXPObkGiCe3Dhb8sh_&sa=D&sntz=1&usg=AOvVaw2wf1hyaUoWcdfx4O6nnp2f",
+                            "https://www.google.com/url?q=https%3A%2F%2Fsei.ifpr.edu.br%2Fsei%2Fmodulos%2Fpesquisa%2Fmd_pesq_documento_consulta_externa.php%3FbQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8ZdyggcZ00mcgypjYkKDMzkhonSO0tIUS82_nN0p0Vu8&sa=D&sntz=1&usg=AOvVaw2YVLs06UC4ydpbWaCkl-WD"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,472 @@
+{
+    "urlPaginaPrincipal": "https://paranagua.ifpr.edu.br/especializacao/pos-graduacao-em-meio-ambiente/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/plano-de-dados-abertos/",
+                        "https://paranagua.ifpr.edu.br/menu-do-servidor/sistemas/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/bases-de-dados-abertos/",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-superiores.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2022.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/07/CALEND%C3%81RIO-OFICIAL-2020.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/02/INTERA-IFPR.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/Links-Importantes.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2021.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2020.pdf",
+                        "https://paranagua.ifpr.edu.br/de/biblioteca/",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-T\u00e9cnicos-e-TMIND-1.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/12/Calend\u00e1rio-e-hor\u00e1rio-2022.1.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Organograma-Paranagua-10.05.2022.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranagua.ifpr.edu.br/de/secretaria-academica/",
+                            "https://paranagua.ifpr.edu.br/secretaria-de-gabinete-da-direcao-geral/",
+                            "https://paranagua.ifpr.edu.br/menu-do-aluno/horarios-e-salas/",
+                            "https://paranagua.ifpr.edu.br/portarias/portarias/",
+                            "https://paranagua.ifpr.edu.br/dg/portarias/",
+                            "https://paranagua.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://paranagua.ifpr.edu.br/especializacao-2/pos-graduacao-em-meio-ambiente/horarios/",
+                            "https://paranagua.ifpr.edu.br/editais-e-processos-seletivos/professores-temporarios/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranagua.ifpr.edu.br/de/secretaria-academica/",
+                            "https://paranagua.ifpr.edu.br/secretaria-de-gabinete-da-direcao-geral/",
+                            "https://paranagua.ifpr.edu.br/menu-do-aluno/horarios-e-salas/",
+                            "https://paranagua.ifpr.edu.br/portarias/portarias/",
+                            "https://paranagua.ifpr.edu.br/dg/portarias/",
+                            "https://paranagua.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://paranagua.ifpr.edu.br/especializacao-2/pos-graduacao-em-meio-ambiente/horarios/",
+                            "https://paranagua.ifpr.edu.br/editais-e-processos-seletivos/professores-temporarios/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/solicitacao-de-diarias-e-passagens/",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://docs.google.com/spreadsheets/d/1tpHP7Cz32E4VrUGL8WP9r7EAsbn8VoxakaJ5Sr_vfoQ/edit#gid=2019701891&range=A1:J1",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/concursos-publicos/",
+                                "https://docs.google.com/spreadsheets/d/1tpHP7Cz32E4VrUGL8WP9r7EAsbn8VoxakaJ5Sr_vfoQ/edit#gid=2089310657&range=A13",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2021.pdf",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servico-de-informacao-ao-cidadao/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-T\u00e9cnicos-e-TMIND-1.pdf",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/solicitacao-de-manutencao/",
+                                "https://paranagua.ifpr.edu.br/nac/projetos-desenvolvidos/",
+                                "https://paranagua.ifpr.edu.br/cuidedobem/",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/sistemas/",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-superiores.pdf",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/07/CALEND%C3%81RIO-OFICIAL-2020.pdf",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/02/INTERA-IFPR.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/12/Calend\u00e1rio-e-hor\u00e1rio-2022.1.pdf",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-terceirizados/",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/reserva-do-carro/",
+                                "https://docs.google.com/spreadsheets/d/1jnHSHzaZoqigfW47yEbdCpgDxAaPzgt4HYKXOvYHqpA/edit#gid=0",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2022.pdf",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/Links-Importantes.pdf",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/reserva-da-quadra-poliesportiva/",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Organograma-Paranagua-10.05.2022.pdf",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-em-exercicio/",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/reserva-do-auditorio/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2020.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "estrutura"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranagua.ifpr.edu.br/de/secretaria-academica/",
+                            "https://paranagua.ifpr.edu.br/secretaria-de-gabinete-da-direcao-geral/",
+                            "https://paranagua.ifpr.edu.br/menu-do-aluno/horarios-e-salas/",
+                            "https://paranagua.ifpr.edu.br/portarias/portarias/",
+                            "https://paranagua.ifpr.edu.br/dg/portarias/",
+                            "https://paranagua.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://paranagua.ifpr.edu.br/especializacao-2/pos-graduacao-em-meio-ambiente/horarios/",
+                            "https://paranagua.ifpr.edu.br/editais-e-processos-seletivos/professores-temporarios/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/plano-de-dados-abertos/",
+                        "https://paranagua.ifpr.edu.br/menu-do-servidor/sistemas/",
+                        "https://reitoria.ifpr.edu.br/acesso-a-informacao/dados-abertos/bases-de-dados-abertos/",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-superiores.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2022.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/07/CALEND%C3%81RIO-OFICIAL-2020.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/02/INTERA-IFPR.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/Links-Importantes.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2021.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2020.pdf",
+                        "https://paranagua.ifpr.edu.br/de/biblioteca/",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-T\u00e9cnicos-e-TMIND-1.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/12/Calend\u00e1rio-e-hor\u00e1rio-2022.1.pdf",
+                        "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Organograma-Paranagua-10.05.2022.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados",
+                        "estrutura"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranagua.ifpr.edu.br/de/secretaria-academica/",
+                            "https://paranagua.ifpr.edu.br/secretaria-de-gabinete-da-direcao-geral/",
+                            "https://paranagua.ifpr.edu.br/menu-do-aluno/horarios-e-salas/",
+                            "https://paranagua.ifpr.edu.br/portarias/portarias/",
+                            "https://paranagua.ifpr.edu.br/dg/portarias/",
+                            "https://paranagua.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://paranagua.ifpr.edu.br/especializacao-2/pos-graduacao-em-meio-ambiente/horarios/",
+                            "https://paranagua.ifpr.edu.br/editais-e-processos-seletivos/professores-temporarios/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados abertos",
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/solicitacao-de-diarias-e-passagens/",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://docs.google.com/spreadsheets/d/1tpHP7Cz32E4VrUGL8WP9r7EAsbn8VoxakaJ5Sr_vfoQ/edit#gid=2019701891&range=A1:J1",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/concursos-publicos/",
+                                "https://docs.google.com/spreadsheets/d/1tpHP7Cz32E4VrUGL8WP9r7EAsbn8VoxakaJ5Sr_vfoQ/edit#gid=2089310657&range=A13",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2021.pdf",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servico-de-informacao-ao-cidadao/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-T\u00e9cnicos-e-TMIND-1.pdf",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/solicitacao-de-manutencao/",
+                                "https://paranagua.ifpr.edu.br/nac/projetos-desenvolvidos/",
+                                "https://paranagua.ifpr.edu.br/cuidedobem/",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/sistemas/",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Cursos-superiores.pdf",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/07/CALEND%C3%81RIO-OFICIAL-2020.pdf",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2020/02/INTERA-IFPR.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/12/Calend\u00e1rio-e-hor\u00e1rio-2022.1.pdf",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-terceirizados/",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/institucional/base-juridica-da-estrutura-organizacional/",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/reserva-do-carro/",
+                                "https://docs.google.com/spreadsheets/d/1jnHSHzaZoqigfW47yEbdCpgDxAaPzgt4HYKXOvYHqpA/edit#gid=0",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2022.pdf",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/Links-Importantes.pdf",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/reserva-da-quadra-poliesportiva/",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2022/05/Organograma-Paranagua-10.05.2022.pdf",
+                                "https://reitoria.ifpr.edu.br/acesso-a-informacao/servidores/servidores-em-exercicio/",
+                                "https://paranagua.ifpr.edu.br/menu-do-servidor/reserva-do-auditorio/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://paranagua.ifpr.edu.br/wp-content/uploads/2021/10/PGC-2020.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "manutencao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranagua.ifpr.edu.br/de/secretaria-academica/",
+                            "https://paranagua.ifpr.edu.br/secretaria-de-gabinete-da-direcao-geral/",
+                            "https://paranagua.ifpr.edu.br/menu-do-aluno/horarios-e-salas/",
+                            "https://paranagua.ifpr.edu.br/portarias/portarias/",
+                            "https://paranagua.ifpr.edu.br/dg/portarias/",
+                            "https://paranagua.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://paranagua.ifpr.edu.br/especializacao-2/pos-graduacao-em-meio-ambiente/horarios/",
+                            "https://paranagua.ifpr.edu.br/editais-e-processos-seletivos/professores-temporarios/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranagua.ifpr.edu.br/de/secretaria-academica/",
+                            "https://paranagua.ifpr.edu.br/secretaria-de-gabinete-da-direcao-geral/",
+                            "https://paranagua.ifpr.edu.br/menu-do-aluno/horarios-e-salas/",
+                            "https://paranagua.ifpr.edu.br/portarias/portarias/",
+                            "https://paranagua.ifpr.edu.br/dg/portarias/",
+                            "https://paranagua.ifpr.edu.br/horarios-de-atendimento/",
+                            "https://paranagua.ifpr.edu.br/especializacao-2/pos-graduacao-em-meio-ambiente/horarios/",
+                            "https://paranagua.ifpr.edu.br/editais-e-processos-seletivos/professores-temporarios/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

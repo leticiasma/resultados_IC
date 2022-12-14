@@ -1,0 +1,406 @@
+{
+    "urlPaginaPrincipal": "https://irati.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2010/06/Estatuto-consolidado-atualiza%C3%A7%C3%A3o-06.02.2015.pdf",
+                        "https://irati.ifpr.edu.br/biblioteca/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://irati.ifpr.edu.br/menu-institucional/o-campus/horario-de-funcionamento/",
+                            "https://irati.ifpr.edu.br/2022/12/07/nota-oficial-sobre-o-bloqueio-orcamentario-do-governo-federal/",
+                            "https://irati.ifpr.edu.br/menu-institucional/ensino/quadro-de-horarios/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/formularios/secretaria-academica/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://irati.ifpr.edu.br/menu-institucional/o-campus/horario-de-funcionamento/",
+                            "https://irati.ifpr.edu.br/2022/12/07/nota-oficial-sobre-o-bloqueio-orcamentario-do-governo-federal/",
+                            "https://irati.ifpr.edu.br/menu-institucional/ensino/quadro-de-horarios/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/formularios/secretaria-academica/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://irati.ifpr.edu.br/menu-institucional/administracao/informacoes-contabeis/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://drive.google.com/open?id=1yVWCGCMzTRrFd2Wsb0qnCAd5Z0w6sLuO1nf8rtFMzdY",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2010/06/Estatuto-consolidado-atualiza%C3%A7%C3%A3o-06.02.2015.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://irati.ifpr.edu.br/menu-institucional/o-campus/horario-de-funcionamento/",
+                            "https://irati.ifpr.edu.br/2022/12/07/nota-oficial-sobre-o-bloqueio-orcamentario-do-governo-federal/",
+                            "https://irati.ifpr.edu.br/menu-institucional/ensino/quadro-de-horarios/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/formularios/secretaria-academica/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://reitoria.ifpr.edu.br/wp-content/uploads/2010/06/Estatuto-consolidado-atualiza%C3%A7%C3%A3o-06.02.2015.pdf",
+                        "https://irati.ifpr.edu.br/biblioteca/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://irati.ifpr.edu.br/menu-institucional/o-campus/horario-de-funcionamento/",
+                            "https://irati.ifpr.edu.br/2022/12/07/nota-oficial-sobre-o-bloqueio-orcamentario-do-governo-federal/",
+                            "https://irati.ifpr.edu.br/menu-institucional/ensino/quadro-de-horarios/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/formularios/secretaria-academica/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://irati.ifpr.edu.br/menu-institucional/administracao/informacoes-contabeis/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://drive.google.com/open?id=1yVWCGCMzTRrFd2Wsb0qnCAd5Z0w6sLuO1nf8rtFMzdY",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/wp-content/uploads/2010/06/Estatuto-consolidado-atualiza%C3%A7%C3%A3o-06.02.2015.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "substituicao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://irati.ifpr.edu.br/menu-institucional/o-campus/horario-de-funcionamento/",
+                            "https://irati.ifpr.edu.br/2022/12/07/nota-oficial-sobre-o-bloqueio-orcamentario-do-governo-federal/",
+                            "https://irati.ifpr.edu.br/menu-institucional/ensino/quadro-de-horarios/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/formularios/secretaria-academica/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://irati.ifpr.edu.br/menu-institucional/o-campus/horario-de-funcionamento/",
+                            "https://irati.ifpr.edu.br/2022/12/07/nota-oficial-sobre-o-bloqueio-orcamentario-do-governo-federal/",
+                            "https://irati.ifpr.edu.br/menu-institucional/ensino/quadro-de-horarios/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/formularios/secretaria-academica/",
+                            "https://irati.ifpr.edu.br/documentos-institucionais/portarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

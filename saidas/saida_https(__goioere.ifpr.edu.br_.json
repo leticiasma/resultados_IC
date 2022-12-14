@@ -1,0 +1,370 @@
+{
+    "urlPaginaPrincipal": "https://goioere.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://goioere.ifpr.edu.br/servicos/biblioteca/",
+                        "https://goioere.ifpr.edu.br/servicos/servicos-da-biblioteca/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://goioere.ifpr.edu.br/institucional/horario-de-atendimento-2/",
+                            "https://goioere.ifpr.edu.br/2022/11/08/ifpr-abre-processo-seletivo-para-contratar-professor-de-moda/",
+                            "https://goioere.ifpr.edu.br/docinstitucional/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://goioere.ifpr.edu.br/institucional/horario-de-atendimento-2/",
+                            "https://goioere.ifpr.edu.br/2022/11/08/ifpr-abre-processo-seletivo-para-contratar-professor-de-moda/",
+                            "https://goioere.ifpr.edu.br/docinstitucional/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://goioere.ifpr.edu.br/servicos/achados-e-perdidos/",
+                                "https://goioere.ifpr.edu.br/2022/10/09/ifashion-agitou-a-cidade-de-goioere/",
+                                "https://reitoria.ifpr.edu.br/category/servidor/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://www.youtube.com/watch?v=IktsG8Y0UYk&fbclid=IwAR3jmUgmZAjXzS0C5j3-4KgG7VGXcH0xu50o3yVNFOoUidlCr5CfcNDkXQM",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://goioere.ifpr.edu.br/institucional/nucleo-de-estudos-afro-brasileiros-e-indigenas-neabi/",
+                                "https://goioere.ifpr.edu.br/grupos-de-pesquisa/grupo-de-estudos-e-pesquisa-em-palhacaria-comicidade-e-ludicidade/",
+                                "https://goioere.ifpr.edu.br/2022/11/03/docente-do-ifpr-publica-capitulo-em-livro-didatico-internacional/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://goioere.ifpr.edu.br/institucional/horario-de-atendimento-2/",
+                            "https://goioere.ifpr.edu.br/2022/11/08/ifpr-abre-processo-seletivo-para-contratar-professor-de-moda/",
+                            "https://goioere.ifpr.edu.br/docinstitucional/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://goioere.ifpr.edu.br/servicos/biblioteca/",
+                        "https://goioere.ifpr.edu.br/servicos/servicos-da-biblioteca/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://goioere.ifpr.edu.br/institucional/horario-de-atendimento-2/",
+                            "https://goioere.ifpr.edu.br/2022/11/08/ifpr-abre-processo-seletivo-para-contratar-professor-de-moda/",
+                            "https://goioere.ifpr.edu.br/docinstitucional/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://goioere.ifpr.edu.br/servicos/achados-e-perdidos/",
+                                "https://goioere.ifpr.edu.br/2022/10/09/ifashion-agitou-a-cidade-de-goioere/",
+                                "https://reitoria.ifpr.edu.br/category/servidor/",
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://www.youtube.com/watch?v=IktsG8Y0UYk&fbclid=IwAR3jmUgmZAjXzS0C5j3-4KgG7VGXcH0xu50o3yVNFOoUidlCr5CfcNDkXQM",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://goioere.ifpr.edu.br/institucional/nucleo-de-estudos-afro-brasileiros-e-indigenas-neabi/",
+                                "https://goioere.ifpr.edu.br/grupos-de-pesquisa/grupo-de-estudos-e-pesquisa-em-palhacaria-comicidade-e-ludicidade/",
+                                "https://goioere.ifpr.edu.br/2022/11/03/docente-do-ifpr-publica-capitulo-em-livro-didatico-internacional/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://goioere.ifpr.edu.br/institucional/horario-de-atendimento-2/",
+                            "https://goioere.ifpr.edu.br/2022/11/08/ifpr-abre-processo-seletivo-para-contratar-professor-de-moda/",
+                            "https://goioere.ifpr.edu.br/docinstitucional/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://goioere.ifpr.edu.br/institucional/horario-de-atendimento-2/",
+                            "https://goioere.ifpr.edu.br/2022/11/08/ifpr-abre-processo-seletivo-para-contratar-professor-de-moda/",
+                            "https://goioere.ifpr.edu.br/docinstitucional/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "ultima"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

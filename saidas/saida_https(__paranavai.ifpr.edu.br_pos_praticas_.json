@@ -1,0 +1,414 @@
+{
+    "urlPaginaPrincipal": "https://paranavai.ifpr.edu.br/pos/praticas/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://paranavai.ifpr.edu.br/wp-content/uploads/2017/05/CRONOGRAMA.pdf",
+                        "https://paranavai.ifpr.edu.br/menu-academico/biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://paranavai.ifpr.edu.br/wp-content/uploads/2018/10/PPC-PR\u00c1TICAS-INTERDISCIPLINARES_CONSUP.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://paranavai.ifpr.edu.br/menu-academico/base-de-dados/",
+                        "https://paranavai.ifpr.edu.br/menu-academico/tutoriais-bibliotecas"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranavai.ifpr.edu.br/secretaria/protocolos-academicos/",
+                            "https://paranavai.ifpr.edu.br/menu-institucional/horario-de-funcionamento/",
+                            "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                            "https://paranavai.ifpr.edu.br/secretaria/area-do-aluno-secretaria/",
+                            "https://paranavai.ifpr.edu.br/secretaria/certificacao-encceja-enem/",
+                            "https://paranavai.ifpr.edu.br/secretaria/",
+                            "https://paranavai.ifpr.edu.br/portarias/",
+                            "https://paranavai.ifpr.edu.br/secretaria/documentos-norteadores/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranavai.ifpr.edu.br/secretaria/protocolos-academicos/",
+                            "https://paranavai.ifpr.edu.br/menu-institucional/horario-de-funcionamento/",
+                            "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                            "https://paranavai.ifpr.edu.br/secretaria/area-do-aluno-secretaria/",
+                            "https://paranavai.ifpr.edu.br/secretaria/certificacao-encceja-enem/",
+                            "https://paranavai.ifpr.edu.br/secretaria/",
+                            "https://paranavai.ifpr.edu.br/portarias/",
+                            "https://paranavai.ifpr.edu.br/secretaria/documentos-norteadores/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://paranavai.ifpr.edu.br/wp-content/uploads/2017/05/CRONOGRAMA.pdf",
+                                "https://paranavai.ifpr.edu.br/menu-institucional/areadoservidor/",
+                                "https://paranavai.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://paranavai.ifpr.edu.br/wp-content/uploads/2018/10/PPC-PR\u00c1TICAS-INTERDISCIPLINARES_CONSUP.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://cope.ifpr.edu.br/index.php"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranavai.ifpr.edu.br/secretaria/protocolos-academicos/",
+                            "https://paranavai.ifpr.edu.br/menu-institucional/horario-de-funcionamento/",
+                            "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                            "https://paranavai.ifpr.edu.br/secretaria/area-do-aluno-secretaria/",
+                            "https://paranavai.ifpr.edu.br/secretaria/certificacao-encceja-enem/",
+                            "https://paranavai.ifpr.edu.br/secretaria/",
+                            "https://paranavai.ifpr.edu.br/portarias/",
+                            "https://paranavai.ifpr.edu.br/secretaria/documentos-norteadores/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://paranavai.ifpr.edu.br/wp-content/uploads/2017/05/CRONOGRAMA.pdf",
+                        "https://paranavai.ifpr.edu.br/menu-academico/biblioteca/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://paranavai.ifpr.edu.br/wp-content/uploads/2018/10/PPC-PR\u00c1TICAS-INTERDISCIPLINARES_CONSUP.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://paranavai.ifpr.edu.br/menu-academico/base-de-dados/",
+                        "https://paranavai.ifpr.edu.br/menu-academico/tutoriais-bibliotecas"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranavai.ifpr.edu.br/secretaria/protocolos-academicos/",
+                            "https://paranavai.ifpr.edu.br/menu-institucional/horario-de-funcionamento/",
+                            "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                            "https://paranavai.ifpr.edu.br/secretaria/area-do-aluno-secretaria/",
+                            "https://paranavai.ifpr.edu.br/secretaria/certificacao-encceja-enem/",
+                            "https://paranavai.ifpr.edu.br/secretaria/",
+                            "https://paranavai.ifpr.edu.br/portarias/",
+                            "https://paranavai.ifpr.edu.br/secretaria/documentos-norteadores/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://paranavai.ifpr.edu.br/wp-content/uploads/2017/05/CRONOGRAMA.pdf",
+                                "https://paranavai.ifpr.edu.br/menu-institucional/areadoservidor/",
+                                "https://paranavai.ifpr.edu.br/comissao-local-covid-19/",
+                                "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://paranavai.ifpr.edu.br/wp-content/uploads/2018/10/PPC-PR\u00c1TICAS-INTERDISCIPLINARES_CONSUP.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://planif.ifpr.edu.br/index.planif",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://cope.ifpr.edu.br/index.php"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranavai.ifpr.edu.br/secretaria/protocolos-academicos/",
+                            "https://paranavai.ifpr.edu.br/menu-institucional/horario-de-funcionamento/",
+                            "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                            "https://paranavai.ifpr.edu.br/secretaria/area-do-aluno-secretaria/",
+                            "https://paranavai.ifpr.edu.br/secretaria/certificacao-encceja-enem/",
+                            "https://paranavai.ifpr.edu.br/secretaria/",
+                            "https://paranavai.ifpr.edu.br/portarias/",
+                            "https://paranavai.ifpr.edu.br/secretaria/documentos-norteadores/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://paranavai.ifpr.edu.br/secretaria/protocolos-academicos/",
+                            "https://paranavai.ifpr.edu.br/menu-institucional/horario-de-funcionamento/",
+                            "https://paranavai.ifpr.edu.br/secretaria/autenticidade-de-documentos/",
+                            "https://paranavai.ifpr.edu.br/secretaria/area-do-aluno-secretaria/",
+                            "https://paranavai.ifpr.edu.br/secretaria/certificacao-encceja-enem/",
+                            "https://paranavai.ifpr.edu.br/secretaria/",
+                            "https://paranavai.ifpr.edu.br/portarias/",
+                            "https://paranavai.ifpr.edu.br/secretaria/documentos-norteadores/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

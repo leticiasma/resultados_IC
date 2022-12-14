@@ -1,0 +1,410 @@
+{
+    "urlPaginaPrincipal": "https://pinhais.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-virtual-pearson/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/tutoriais/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/regulamento-interno/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/ava/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-3/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/relatorios-anuais/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/",
+                        "https://pinhais.ifpr.edu.br/institucional/laboratorios/sala-de-recursos-multifuncionais/",
+                        "https://pinhais.ifpr.edu.br/visita-tecnica-a-sala-de-recursos-multifuncionais-do-campus-pinhais/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://pinhais.ifpr.edu.br/comunicacao-sobre-as-aulas-no-dia-09-de-dezembro-devido-ao-jogo-do-brasil/",
+                                "https://pinhais.ifpr.edu.br/gestao-e-administracao/gestao-de-pessoas/saude-do-servidor/",
+                                "https://pinhais.ifpr.edu.br/campus-pinhais-divulga-novas-orientacoes-para-prevencao-da-covid-19/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "campo",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-virtual-pearson/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/tutoriais/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/regulamento-interno/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/ava/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-3/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/relatorios-anuais/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/",
+                        "https://pinhais.ifpr.edu.br/institucional/laboratorios/sala-de-recursos-multifuncionais/",
+                        "https://pinhais.ifpr.edu.br/visita-tecnica-a-sala-de-recursos-multifuncionais-do-campus-pinhais/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://coronelvivida.ifpr.edu.br/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://pinhais.ifpr.edu.br/comunicacao-sobre-as-aulas-no-dia-09-de-dezembro-devido-ao-jogo-do-brasil/",
+                                "https://pinhais.ifpr.edu.br/gestao-e-administracao/gestao-de-pessoas/saude-do-servidor/",
+                                "https://pinhais.ifpr.edu.br/campus-pinhais-divulga-novas-orientacoes-para-prevencao-da-covid-19/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

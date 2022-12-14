@@ -1,0 +1,396 @@
+{
+    "urlPaginaPrincipal": "https://jacarezinho.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://jacarezinho.ifpr.edu.br/biblioteca/",
+                        "https://jacarezinho.ifpr.edu.br/2022/11/29/relacao-provisoria-de-inscritos-nos-editais-de-transferencia/",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jacarezinho.ifpr.edu.br/horarios-atendimento/",
+                            "secretaria-academica-2/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://jacarezinho.ifpr.edu.br/horario-atendimento-docentes/",
+                            "https://jacarezinho.ifpr.edu.br/secretaria-academica/",
+                            "https://jacarezinho.ifpr.edu.br/2022/11/28/estudantes-do-ifpr-visitaram-a-dacalda-em-comemoracao-ao-dia-do-rio/",
+                            "https://jacarezinho.ifpr.edu.br/portariasatos-administrativos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jacarezinho.ifpr.edu.br/horarios-atendimento/",
+                            "secretaria-academica-2/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://jacarezinho.ifpr.edu.br/horario-atendimento-docentes/",
+                            "https://jacarezinho.ifpr.edu.br/secretaria-academica/",
+                            "https://jacarezinho.ifpr.edu.br/2022/11/28/estudantes-do-ifpr-visitaram-a-dacalda-em-comemoracao-ao-dia-do-rio/",
+                            "https://jacarezinho.ifpr.edu.br/portariasatos-administrativos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.youtube.com/channel/UCmjjCvwKLKVw5zj8zzNBifw/videos",
+                                "https://jacarezinho.ifpr.edu.br/lista-de-servidores/",
+                                "pagina-do-servidor/",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/2016-2/",
+                                "https://jacarezinho.ifpr.edu.br/pagina-do-servidor/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/institucional/orgaos-de-controle/ouvidoria/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://jacarezinho.ifpr.edu.br/ouvidoria/",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jacarezinho.ifpr.edu.br/horarios-atendimento/",
+                            "secretaria-academica-2/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://jacarezinho.ifpr.edu.br/horario-atendimento-docentes/",
+                            "https://jacarezinho.ifpr.edu.br/secretaria-academica/",
+                            "https://jacarezinho.ifpr.edu.br/2022/11/28/estudantes-do-ifpr-visitaram-a-dacalda-em-comemoracao-ao-dia-do-rio/",
+                            "https://jacarezinho.ifpr.edu.br/portariasatos-administrativos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://jacarezinho.ifpr.edu.br/biblioteca/",
+                        "https://jacarezinho.ifpr.edu.br/2022/11/29/relacao-provisoria-de-inscritos-nos-editais-de-transferencia/",
+                        "https://reitoria.ifpr.edu.br/sistemas/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jacarezinho.ifpr.edu.br/horarios-atendimento/",
+                            "secretaria-academica-2/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://jacarezinho.ifpr.edu.br/horario-atendimento-docentes/",
+                            "https://jacarezinho.ifpr.edu.br/secretaria-academica/",
+                            "https://jacarezinho.ifpr.edu.br/2022/11/28/estudantes-do-ifpr-visitaram-a-dacalda-em-comemoracao-ao-dia-do-rio/",
+                            "https://jacarezinho.ifpr.edu.br/portariasatos-administrativos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "map",
+                                "tab"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://www.youtube.com/channel/UCmjjCvwKLKVw5zj8zzNBifw/videos",
+                                "https://jacarezinho.ifpr.edu.br/lista-de-servidores/",
+                                "pagina-do-servidor/",
+                                "https://info.ifpr.edu.br/demonstracoes-contabeis/2016-2/",
+                                "https://jacarezinho.ifpr.edu.br/pagina-do-servidor/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://reitoria.ifpr.edu.br/institucional/orgaos-de-controle/ouvidoria/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_pesquisar&id_orgao_publicacao=0",
+                                "https://jacarezinho.ifpr.edu.br/ouvidoria/",
+                                "https://info.ifpr.edu.br/mapeamento-de-processos/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jacarezinho.ifpr.edu.br/horarios-atendimento/",
+                            "secretaria-academica-2/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://jacarezinho.ifpr.edu.br/horario-atendimento-docentes/",
+                            "https://jacarezinho.ifpr.edu.br/secretaria-academica/",
+                            "https://jacarezinho.ifpr.edu.br/2022/11/28/estudantes-do-ifpr-visitaram-a-dacalda-em-comemoracao-ao-dia-do-rio/",
+                            "https://jacarezinho.ifpr.edu.br/portariasatos-administrativos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jacarezinho.ifpr.edu.br/horarios-atendimento/",
+                            "secretaria-academica-2/secretaria-academica/transferencia-interna-e-externa/",
+                            "https://jacarezinho.ifpr.edu.br/horario-atendimento-docentes/",
+                            "https://jacarezinho.ifpr.edu.br/secretaria-academica/",
+                            "https://jacarezinho.ifpr.edu.br/2022/11/28/estudantes-do-ifpr-visitaram-a-dacalda-em-comemoracao-ao-dia-do-rio/",
+                            "https://jacarezinho.ifpr.edu.br/portariasatos-administrativos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "avaliacao",
+                        "qualidade",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

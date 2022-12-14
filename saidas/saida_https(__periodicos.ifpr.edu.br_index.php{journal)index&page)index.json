@@ -1,0 +1,370 @@
+{
+    "urlPaginaPrincipal": "https://periodicos.ifpr.edu.br/index.php?journal=index&page=index",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "idioma",
+                        "fonte",
+                        "autor",
+                        "autores",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fonte",
+                        "autor",
+                        "autores"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "fonte",
+                        "autor",
+                        "autores"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiMAA&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=index",
+                                "/index.php?journal=MundiETG&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiETG",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSB",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSB&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiMAA",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSB&page=issue&op=current",
+                                "/index.php?journal=MundiMAA&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiETG&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSH&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiETG&page=issue&op=current",
+                                "/index.php?journal=MundiSH&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSH",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiMAA&page=issue&op=current",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSH&page=issue&op=current",
+                                "/index.php?journal=MundiSB&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=search",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=about",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=login"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "titulo",
+                        "idioma",
+                        "fonte",
+                        "autor",
+                        "autores",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": false,
+                    "URLsArquivosMetadadosAnexos": [],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": false,
+                            "tokensURL": [],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiMAA&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=index",
+                                "/index.php?journal=MundiETG&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiETG",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSB",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSB&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiMAA",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSB&page=issue&op=current",
+                                "/index.php?journal=MundiMAA&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiETG&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSH&page=user&op=register",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiETG&page=issue&op=current",
+                                "/index.php?journal=MundiSH&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSH",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiMAA&page=issue&op=current",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=MundiSH&page=issue&op=current",
+                                "/index.php?journal=MundiSB&page=about&op=submissions#authorGuidelines",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=search",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=about",
+                                "https://periodicos.ifpr.edu.br/index.php?journal=index&page=login"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formulario",
+                        "entre"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,432 @@
+{
+    "urlPaginaPrincipal": "https://quedasdoiguacu.ifpr.edu.br/?page_id=4696",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "criacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://quedasdoiguacu.ifpr.edu.br/wp-content/uploads/2019/12/SEI_IFPR-0456981-Resolu\u00e7\u00e3o-de-cria\u00e7\u00e3o-do-curso.pdf",
+                        "https://reitoria.ifpr.edu.br/institucional/diretorias-sistemicas/dtic/sistemas/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5113",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6013",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4696",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5090",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2726",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=74",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=394",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4953",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5189",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696&title=Especializa%C3%A7%C3%A3o+em+Educa%C3%A7%C3%A3o+e+Pr%C3%A1ticas+de+Ensino+para+os+Anos+Iniciais+do+Ensino+Fundamental",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2500",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2708",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6464",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2719",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4969",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3840",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5872",
+                                "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Educa%C3%A7%C3%A3o+e+Pr%C3%A1ticas+de+Ensino+para+os+Anos+Iniciais+do+Ensino+Fundamental\u00a0https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5758",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6216",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5093",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2055",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5495",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=678",
+                                "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3118",
+                                "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Educa%C3%A7%C3%A3o+e+Pr%C3%A1ticas+de+Ensino+para+os+Anos+Iniciais+do+Ensino+Fundamental&url=https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696&via=Crunchify",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6240",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=409",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3863",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=10",
+                                "https://quedasdoiguacu.ifpr.edu.br/wp-content/uploads/2019/12/SEI_IFPR-0456981-Resolu\u00e7\u00e3o-de-cria\u00e7\u00e3o-do-curso.pdf",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4967",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6393",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=285",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5766",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3889",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2715",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2019",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2054",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5282",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3879",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3833",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=56",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5571",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4958",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5119",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4963",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=398",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5196",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3224",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=411",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=379"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "criacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://quedasdoiguacu.ifpr.edu.br/wp-content/uploads/2019/12/SEI_IFPR-0456981-Resolu\u00e7\u00e3o-de-cria\u00e7\u00e3o-do-curso.pdf",
+                        "https://reitoria.ifpr.edu.br/institucional/diretorias-sistemicas/dtic/sistemas/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5113",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6013",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4696",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5090",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2726",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=74",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=394",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4953",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5189",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696&title=Especializa%C3%A7%C3%A3o+em+Educa%C3%A7%C3%A3o+e+Pr%C3%A1ticas+de+Ensino+para+os+Anos+Iniciais+do+Ensino+Fundamental",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2500",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2708",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6464",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2719",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4969",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3840",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5872",
+                                "whatsapp://send?text=Especializa%C3%A7%C3%A3o+em+Educa%C3%A7%C3%A3o+e+Pr%C3%A1ticas+de+Ensino+para+os+Anos+Iniciais+do+Ensino+Fundamental\u00a0https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5758",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6216",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5093",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2055",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5495",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=678",
+                                "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3118",
+                                "https://twitter.com/intent/tweet?text=Especializa%C3%A7%C3%A3o+em+Educa%C3%A7%C3%A3o+e+Pr%C3%A1ticas+de+Ensino+para+os+Anos+Iniciais+do+Ensino+Fundamental&url=https%3A%2F%2Fquedasdoiguacu.ifpr.edu.br%2F%3Fpage_id%3D4696&via=Crunchify",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6240",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=409",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3863",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=10",
+                                "https://quedasdoiguacu.ifpr.edu.br/wp-content/uploads/2019/12/SEI_IFPR-0456981-Resolu\u00e7\u00e3o-de-cria\u00e7\u00e3o-do-curso.pdf",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4967",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=6393",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=285",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5766",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3889",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2715",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2019",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=2054",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5282",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3879",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3833",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=56",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5571",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4958",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5119",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=4963",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=398",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=5196",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=3224",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=411",
+                                "https://quedasdoiguacu.ifpr.edu.br/?page_id=379"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": false,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "criacao"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "classificacao",
+                        "compartilhe",
+                        "fale"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

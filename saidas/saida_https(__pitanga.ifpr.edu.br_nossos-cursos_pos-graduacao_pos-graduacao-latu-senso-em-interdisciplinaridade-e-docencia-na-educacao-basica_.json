@@ -1,0 +1,422 @@
+{
+    "urlPaginaPrincipal": "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "responsaveis",
+                        "campos",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/eventos-e-fotos/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/manual-de-normas-da-biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/carteirinha-de-estudante/",
+                        "https://pitanga.ifpr.edu.br/tag/biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/sugestoes-de-aquisicao-para-a-biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/acesso-ao-capes-cafe/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/renovacao-online/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/https-pitanga-ifpr-edu-br-institucional-sobre-a-biblioteca-biblioteca-virtual-pearson/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/consulta-on-line-ao-acervo-de-livros/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/manual-de-normas-da-biblioteca/tutoriais/",
+                        "https://pitanga.ifpr.edu.br/wp-content/uploads/2022/06/Nova_proposta_de_PPC_20222.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "aline.barbieri@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "aline.barbieri@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pitanga.ifpr.edu.br/docinstitucional/portarias/",
+                            "https://pitanga.ifpr.edu.br/institucional/horarios-de-atendimento/",
+                            "https://pitanga.ifpr.edu.br/institucional/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pitanga.ifpr.edu.br/docinstitucional/portarias/",
+                            "https://pitanga.ifpr.edu.br/institucional/horarios-de-atendimento/",
+                            "https://pitanga.ifpr.edu.br/institucional/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/cursos-concluidos-encerrados/",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/processo-seletivo-2018/",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/defesa-de-bancas/",
+                                "https://pitanga.ifpr.edu.br/academico/atividades-pedagogicas-nao-presenciais-apnp/",
+                                "https://pitanga.ifpr.edu.br/ifagrotech-workshop-de-tecnologias-agroindustriais/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://pitanga.ifpr.edu.br/tag/atividades-educacionais/",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/processo-seletivo-pos/",
+                                "https://twitter.com/intent/tweet?text=Interdisciplinaridade+e+Doc%C3%AAncia+na+Educa%C3%A7%C3%A3o+B%C3%A1sica&url=https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F&via=Crunchify",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/linhas-de-pesquisa/",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F&title=Interdisciplinaridade+e+Doc%C3%AAncia+na+Educa%C3%A7%C3%A3o+B%C3%A1sica",
+                                "whatsapp://send?text=Interdisciplinaridade+e+Doc%C3%AAncia+na+Educa%C3%A7%C3%A3o+B%C3%A1sica\u00a0https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F",
+                                "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F",
+                                "https://pitanga.ifpr.edu.br/wp-content/uploads/2022/06/Nova_proposta_de_PPC_20222.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "estrutura"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pitanga.ifpr.edu.br/docinstitucional/portarias/",
+                            "https://pitanga.ifpr.edu.br/institucional/horarios-de-atendimento/",
+                            "https://pitanga.ifpr.edu.br/institucional/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsavel",
+                        "responsaveis",
+                        "campos",
+                        "relacao"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/eventos-e-fotos/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/manual-de-normas-da-biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/carteirinha-de-estudante/",
+                        "https://pitanga.ifpr.edu.br/tag/biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/sugestoes-de-aquisicao-para-a-biblioteca/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/acesso-ao-capes-cafe/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/renovacao-online/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/https-pitanga-ifpr-edu-br-institucional-sobre-a-biblioteca-biblioteca-virtual-pearson/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/consulta-on-line-ao-acervo-de-livros/",
+                        "https://pitanga.ifpr.edu.br/academico/sobre-a-biblioteca/manual-de-normas-da-biblioteca/tutoriais/",
+                        "https://pitanga.ifpr.edu.br/wp-content/uploads/2022/06/Nova_proposta_de_PPC_20222.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "aline.barbieri@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "estrutura"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pitanga.ifpr.edu.br/docinstitucional/portarias/",
+                            "https://pitanga.ifpr.edu.br/institucional/horarios-de-atendimento/",
+                            "https://pitanga.ifpr.edu.br/institucional/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/cursos-concluidos-encerrados/",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/processo-seletivo-2018/",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/defesa-de-bancas/",
+                                "https://pitanga.ifpr.edu.br/academico/atividades-pedagogicas-nao-presenciais-apnp/",
+                                "https://pitanga.ifpr.edu.br/ifagrotech-workshop-de-tecnologias-agroindustriais/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://pitanga.ifpr.edu.br/tag/atividades-educacionais/",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/processo-seletivo-pos/",
+                                "https://twitter.com/intent/tweet?text=Interdisciplinaridade+e+Doc%C3%AAncia+na+Educa%C3%A7%C3%A3o+B%C3%A1sica&url=https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F&via=Crunchify",
+                                "https://pitanga.ifpr.edu.br/nossos-cursos/pos-graduacao/pos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica/linhas-de-pesquisa/",
+                                "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F&title=Interdisciplinaridade+e+Doc%C3%AAncia+na+Educa%C3%A7%C3%A3o+B%C3%A1sica",
+                                "whatsapp://send?text=Interdisciplinaridade+e+Doc%C3%AAncia+na+Educa%C3%A7%C3%A3o+B%C3%A1sica\u00a0https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F",
+                                "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpitanga.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fpos-graduacao-latu-senso-em-interdisciplinaridade-e-docencia-na-educacao-basica%2F",
+                                "https://pitanga.ifpr.edu.br/wp-content/uploads/2022/06/Nova_proposta_de_PPC_20222.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pitanga.ifpr.edu.br/docinstitucional/portarias/",
+                            "https://pitanga.ifpr.edu.br/institucional/horarios-de-atendimento/",
+                            "https://pitanga.ifpr.edu.br/institucional/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pitanga.ifpr.edu.br/docinstitucional/portarias/",
+                            "https://pitanga.ifpr.edu.br/institucional/horarios-de-atendimento/",
+                            "https://pitanga.ifpr.edu.br/institucional/secretaria-academica/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": true,
+                        "tokensURLsDoc": [
+                            "docs"
+                        ]
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "aline.barbieri@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,494 @@
+{
+    "urlPaginaPrincipal": "https://pinhais.ifpr.edu.br/pos-graduacao/web-mobile/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/tutoriais/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Quadro-de-Disciplinas.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/laboratorios/sala-de-recursos-multifuncionais/",
+                        "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpinhais.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fweb-mobile%2F&title=P%C3%B3s-Gradua%C3%A7%C3%A3o+em+Desenvolvimento+de+Sistemas+Web+e+Mobile",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Ficha-de-Inscri\u00e7\u00e3o.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-de-Prorroga\u00e7\u00e3o-P\u00f3s.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-Inscri\u00e7\u00f5es-Homologadas-Web-Mobile.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/regulamento-interno/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-3/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/relatorios-anuais/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Ementas.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Final.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Requerimento-de-Recurso.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-virtual-pearson/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Preliminar.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/SEI_IFPR-0677367-Edital.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos-Gabarito.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-P\u00f3s-Gradua\u00e7\u00e3o-Publicado.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Especializa\u00e7\u00e3o-de-Desenvolvimento-Mobile-e-Web-PPC-Final.pdf",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/ava/",
+                        "https://twitter.com/intent/tweet?text=P%C3%B3s-Gradua%C3%A7%C3%A3o+em+Desenvolvimento+de+Sistemas+Web+e+Mobile&url=https%3A%2F%2Fpinhais.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fweb-mobile%2F&via=Crunchify",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Inscri\u00e7\u00f5es-Homologadas-Pos-Recurso.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Curriculum-Vitae-Simplificado.pdf"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "cleverton.vicentini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "cleverton.vicentini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-de-Prorroga\u00e7\u00e3o-P\u00f3s.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Especializa\u00e7\u00e3o-de-Desenvolvimento-Mobile-e-Web-PPC-Final.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-Inscri\u00e7\u00f5es-Homologadas-Web-Mobile.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Quadro-de-Disciplinas.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Preliminar.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Inscri\u00e7\u00f5es-Homologadas-Pos-Recurso.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Ementas.pdf",
+                                "https://pinhais.ifpr.edu.br/gestao-e-administracao/gestao-de-pessoas/saude-do-servidor/",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/SEI_IFPR-0677367-Edital.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Curriculum-Vitae-Simplificado.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Ficha-de-Inscri\u00e7\u00e3o.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Final.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos-Gabarito.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Requerimento-de-Recurso.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-P\u00f3s-Gradua\u00e7\u00e3o-Publicado.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "linguagem"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/tutoriais/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Quadro-de-Disciplinas.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/laboratorios/sala-de-recursos-multifuncionais/",
+                        "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpinhais.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fweb-mobile%2F&title=P%C3%B3s-Gradua%C3%A7%C3%A3o+em+Desenvolvimento+de+Sistemas+Web+e+Mobile",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Ficha-de-Inscri\u00e7\u00e3o.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-de-Prorroga\u00e7\u00e3o-P\u00f3s.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-Inscri\u00e7\u00f5es-Homologadas-Web-Mobile.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/regulamento-interno/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-3/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/relatorios-anuais/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Ementas.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Final.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Requerimento-de-Recurso.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-virtual-pearson/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Preliminar.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/SEI_IFPR-0677367-Edital.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos-Gabarito.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-P\u00f3s-Gradua\u00e7\u00e3o-Publicado.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Especializa\u00e7\u00e3o-de-Desenvolvimento-Mobile-e-Web-PPC-Final.pdf",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/ava/",
+                        "https://twitter.com/intent/tweet?text=P%C3%B3s-Gradua%C3%A7%C3%A3o+em+Desenvolvimento+de+Sistemas+Web+e+Mobile&url=https%3A%2F%2Fpinhais.ifpr.edu.br%2Fnossos-cursos%2Fpos-graduacao%2Fweb-mobile%2F&via=Crunchify",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Inscri\u00e7\u00f5es-Homologadas-Pos-Recurso.pdf",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Curriculum-Vitae-Simplificado.pdf"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "cleverton.vicentini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "linguagem"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-de-Prorroga\u00e7\u00e3o-P\u00f3s.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Especializa\u00e7\u00e3o-de-Desenvolvimento-Mobile-e-Web-PPC-Final.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-Inscri\u00e7\u00f5es-Homologadas-Web-Mobile.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Quadro-de-Disciplinas.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Preliminar.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Inscri\u00e7\u00f5es-Homologadas-Pos-Recurso.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/10/Ementas.pdf",
+                                "https://pinhais.ifpr.edu.br/gestao-e-administracao/gestao-de-pessoas/saude-do-servidor/",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/SEI_IFPR-0677367-Edital.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Curriculum-Vitae-Simplificado.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Ficha-de-Inscri\u00e7\u00e3o.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Edital-PSS-Resultado-Final.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2020/02/Prova-de-Conhecimento-em-Algoritmos-Gabarito.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-Requerimento-de-Recurso.pdf",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2019/12/Edital-PSS-P\u00f3s-Gradua\u00e7\u00e3o-Publicado.pdf"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade",
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "cleverton.vicentini@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

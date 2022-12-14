@@ -1,0 +1,468 @@
+{
+    "urlPaginaPrincipal": "https://pinhais.ifpr.edu.br/pos-graduacao/estudos-da-linguagem/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-virtual-pearson/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/tutoriais/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/regulamento-interno/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/ava/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-3/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/relatorios-anuais/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2021/05/Projeto_Pedagogico_de_Curso_PPC_lato_sensu_SEI.docx-1.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/laboratorios/sala-de-recursos-multifuncionais/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "esp.el.pinhais@ifpr.edu.br",
+                        "luciana.vieira@ifpr.edu.br",
+                        "ana.tarini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "esp.el.pinhais@ifpr.edu.br",
+                        "luciana.vieira@ifpr.edu.br",
+                        "ana.tarini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8Tc487DjWkgRU-uimTaZZklqdCyIPlVlXFdNy_Jm2E1z",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "mailto:ana.tarini@ifpr.edu.br",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8YT1Nj9WjoTj9KXxd9bRaI7b-ohtO1hIRnu1yOwDL2GH",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e7mZXeYboN5Qo5Js6WhU8T9RwlHhaXfJ-8TMLVXkAc5",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8Tc487DjWkgRU-uimTaZZklqdCyIPlVlXFdNy_Jm2E1z",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "mailto:ana.tarini@ifpr.edu.br",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8YT1Nj9WjoTj9KXxd9bRaI7b-ohtO1hIRnu1yOwDL2GH",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e7mZXeYboN5Qo5Js6WhU8T9RwlHhaXfJ-8TMLVXkAc5",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://pinhais.ifpr.edu.br/gestao-e-administracao/gestao-de-pessoas/saude-do-servidor/",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2021/05/Projeto_Pedagogico_de_Curso_PPC_lato_sensu_SEI.docx-1.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://app.luminpdf.com/viewer/6204121637841a001ae52961"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "linguagem"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8Tc487DjWkgRU-uimTaZZklqdCyIPlVlXFdNy_Jm2E1z",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "mailto:ana.tarini@ifpr.edu.br",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8YT1Nj9WjoTj9KXxd9bRaI7b-ohtO1hIRnu1yOwDL2GH",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e7mZXeYboN5Qo5Js6WhU8T9RwlHhaXfJ-8TMLVXkAc5",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-virtual-pearson/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/tutoriais/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/regulamento-interno/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/ava/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/sugestoes-para-aquisicao-de-acervo/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/biblioteca-3/",
+                        "https://pinhais.ifpr.edu.br/institucional/biblioteca/relatorios-anuais/",
+                        "https://pinhais.ifpr.edu.br/area-do-aluno/sistemas/",
+                        "https://pinhais.ifpr.edu.br/wp-content/uploads/2021/05/Projeto_Pedagogico_de_Curso_PPC_lato_sensu_SEI.docx-1.pdf",
+                        "https://pinhais.ifpr.edu.br/institucional/laboratorios/sala-de-recursos-multifuncionais/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "esp.el.pinhais@ifpr.edu.br",
+                        "luciana.vieira@ifpr.edu.br",
+                        "ana.tarini@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "linguagem"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8Tc487DjWkgRU-uimTaZZklqdCyIPlVlXFdNy_Jm2E1z",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "mailto:ana.tarini@ifpr.edu.br",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8YT1Nj9WjoTj9KXxd9bRaI7b-ohtO1hIRnu1yOwDL2GH",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e7mZXeYboN5Qo5Js6WhU8T9RwlHhaXfJ-8TMLVXkAc5",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://pinhais.ifpr.edu.br/gestao-e-administracao/gestao-de-pessoas/saude-do-servidor/",
+                                "https://pinhais.ifpr.edu.br/wp-content/uploads/2021/05/Projeto_Pedagogico_de_Curso_PPC_lato_sensu_SEI.docx-1.pdf",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://app.luminpdf.com/viewer/6204121637841a001ae52961"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8Tc487DjWkgRU-uimTaZZklqdCyIPlVlXFdNy_Jm2E1z",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "mailto:ana.tarini@ifpr.edu.br",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8YT1Nj9WjoTj9KXxd9bRaI7b-ohtO1hIRnu1yOwDL2GH",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e7mZXeYboN5Qo5Js6WhU8T9RwlHhaXfJ-8TMLVXkAc5",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8Tc487DjWkgRU-uimTaZZklqdCyIPlVlXFdNy_Jm2E1z",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/encceja/",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/",
+                            "mailto:ana.tarini@ifpr.edu.br",
+                            "https://pinhais.ifpr.edu.br/institucional/secao-de-estagios-e-relacoes-comunitarias/o-que-e-estagio/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/leis-normativas-e-documentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/portarias-de-2021/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8YT1Nj9WjoTj9KXxd9bRaI7b-ohtO1hIRnu1yOwDL2GH",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/secretaria-academica/",
+                            "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bQdXWIUhq46-kuNuYYlAsyjFfu3aG4dBu2PjbFgpOb_9MvqFNtXlXEMWSYTBr1f7z0g5p97pRY7Jz5GItK4e8e7mZXeYboN5Qo5Js6WhU8T9RwlHhaXfJ-8TMLVXkAc5",
+                            "https://pinhais.ifpr.edu.br/area-do-aluno/horario-de-aulas-e-atendimento/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/protocolos-e-requerimentos/",
+                            "https://pinhais.ifpr.edu.br/documentos/portarias/",
+                            "https://pinhais.ifpr.edu.br/institucional/secretaria-academica/processos-seletivos/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "compartilhe",
+                        "fale",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "esp.el.pinhais@ifpr.edu.br",
+                        "luciana.vieira@ifpr.edu.br",
+                        "ana.tarini@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}

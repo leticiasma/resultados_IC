@@ -1,0 +1,471 @@
+{
+    "urlPaginaPrincipal": "https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "responsaveis",
+                        "versao",
+                        "categorias",
+                        "formato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital",
+                        "https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "integridade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "botao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "css.serpro@serpro.gov.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "responsaveis"
+                    ]
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "integridade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "botao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "css.serpro@serpro.gov.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data",
+                        "historico"
+                    ]
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "REST",
+                            "consumo",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "REST",
+                            "consumo",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".dat"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "/store/apps/details?id=br.gov.fazenda.receita.mei",
+                                "/store/apps/details?id=br.com.bb.android",
+                                "/store/apps/details?id=br.gov.caixa.fgts.trabalhador",
+                                "/store/apps/details?id=br.gov.caixa.tem",
+                                "https://portalservicos.senatran.serpro.gov.br/#/aplicativos/politica-privacidade-cdt",
+                                "/store/apps/details?id=br.gov.datasus.cnsdigital",
+                                "https://support.google.com/googleplay?p=pff_parentguide",
+                                "/store/apps/details?id=br.gov.dataprev.carteiradigital",
+                                "/store/apps/details?id=br.gov.dataprev.meucadunico",
+                                "/store/apps/dev?id=5829287075355252046",
+                                "https://support.google.com/googleplay?p=data-safety&hl=en",
+                                "/store/apps/details?id=com.bradesco",
+                                "/store/apps/details?id=com.schibsted.bomnegocio.androidApp",
+                                "/store/apps/datasafety?id=br.gov.serpro.cnhe",
+                                "http://developer.android.com/index.html",
+                                "/store/apps/details?id=br.gov.meugovbr",
+                                "/store/apps/details?id=br.gov.dataprev.meuinss",
+                                "/store/apps/details?id=com.taxis99"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "padrao",
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "REST",
+                            "consumo",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "atualizacao",
+                        "responsaveis",
+                        "versao",
+                        "categorias",
+                        "formato"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital",
+                        "https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital",
+                        "https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "botao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "css.serpro@serpro.gov.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "formato",
+                        "padrao",
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "REST",
+                            "consumo",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".dat"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "dat",
+                                "id",
+                                "ind"
+                            ],
+                            "urlsComFormatoDados": [
+                                "/store/apps/details?id=br.gov.fazenda.receita.mei",
+                                "/store/apps/details?id=br.com.bb.android",
+                                "/store/apps/details?id=br.gov.caixa.fgts.trabalhador",
+                                "/store/apps/details?id=br.gov.caixa.tem",
+                                "https://portalservicos.senatran.serpro.gov.br/#/aplicativos/politica-privacidade-cdt",
+                                "/store/apps/details?id=br.gov.datasus.cnsdigital",
+                                "https://support.google.com/googleplay?p=pff_parentguide",
+                                "/store/apps/details?id=br.gov.dataprev.carteiradigital",
+                                "/store/apps/details?id=br.gov.dataprev.meucadunico",
+                                "/store/apps/dev?id=5829287075355252046",
+                                "https://support.google.com/googleplay?p=data-safety&hl=en",
+                                "/store/apps/details?id=com.bradesco",
+                                "/store/apps/details?id=com.schibsted.bomnegocio.androidApp",
+                                "/store/apps/datasafety?id=br.gov.serpro.cnhe",
+                                "http://developer.android.com/index.html",
+                                "/store/apps/details?id=br.gov.meugovbr",
+                                "/store/apps/details?id=br.gov.dataprev.meuinss",
+                                "/store/apps/details?id=com.taxis99"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "REST",
+                            "consumo",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "versao",
+                        "atualizacao",
+                        "data",
+                        "historico"
+                    ]
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": false,
+                        "urlsVolumeDados": [],
+                        "presencaTokensUrlsDadosAtualizados": true,
+                        "tokensUrlsDadosAtualizados": [
+                            "data",
+                            "atualizacao",
+                            "atualizado",
+                            "validade"
+                        ]
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "REST",
+                            "consumo",
+                            "resultados"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "avaliacao",
+                        "botao",
+                        "compartilhar",
+                        "compartilhe",
+                        "informe",
+                        "fale",
+                        "entre",
+                        "sugestoes"
+                    ],
+                    "emails": [
+                        "css.serpro@serpro.gov.br"
+                    ]
+                }
+            }
+        }
+    }
+}

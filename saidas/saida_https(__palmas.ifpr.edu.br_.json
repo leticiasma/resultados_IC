@@ -1,0 +1,426 @@
+{
+    "urlPaginaPrincipal": "https://palmas.ifpr.edu.br/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://palmas.ifpr.edu.br/wp-content/uploads/2014/07/Cartilha-do-Servidor.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://palmas.ifpr.edu.br/wp-content/uploads/2022/07/Organograma.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://palmas.ifpr.edu.br/wp-content/uploads/2021/08/Tutorial-Primeiro-Acesso-ao-Portal-Sagres.pdf",
+                        "https://sagres.ifpr.edu.br/PortalSagres/Acesso.aspx"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "qualidade"
+                    ]
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-geral/portarias-palmas/",
+                            "https://palmas.ifpr.edu.br/tag/secretaria-academica/",
+                            "https://palmas.ifpr.edu.br/about/servicos/relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-geral/portarias-palmas/",
+                            "https://palmas.ifpr.edu.br/tag/secretaria-academica/",
+                            "https://palmas.ifpr.edu.br/about/servicos/relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://palmas.ifpr.edu.br/about/servicos/npj-nucleo-de-pratica-juridica/",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/comites-e-comissoes/cope/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://palmas.ifpr.edu.br/2022/12/01/2-encontro-dos-nucleos-de-estudos-afro-brasileiros-e-indigenas-neabi-do-ifpr-iniciou-ontem-30/",
+                                "https://palmas.ifpr.edu.br/wp-content/uploads/2021/08/Tutorial-Primeiro-Acesso-ao-Portal-Sagres.pdf",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=424554&id_orgao_publicacao=0",
+                                "https://www.youtube.com/watch?v=iTwG9YD3OpA&list=PLIftlZYQI1MFVw6EUwtqPe4rT6NUiXi1s&index=2",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/nit/o-que-e/",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/comites-e-comissoes/scppd-sub-comissao-permanente-de-pessoal-docente/",
+                                "https://www.youtube.com/watch?v=TeAg8kccYn4&list=PLIftlZYQI1MFVw6EUwtqPe4rT6NUiXi1s&index=1",
+                                "https://palmas.ifpr.edu.br/wp-content/uploads/2014/07/Cartilha-do-Servidor.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/nit/quem-somos/",
+                                "https://sagres.ifpr.edu.br/PortalSagres/Acesso.aspx",
+                                "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-administrativa/servidores-terceirizados/",
+                                "https://palmas.ifpr.edu.br/about/servicos/achados-e-perdidos/",
+                                "https://palmas.ifpr.edu.br/wp-content/uploads/2022/07/Organograma.pdf",
+                                "https://coronelvivida.ifpr.edu.br",
+                                "https://sso.gestaodeacesso.planejamento.gov.br/cassso/login?service=https%3A%2F%2Fservidor.sigepe.planejamento.gov.br%2FSIGEPE-PortalServidor%2Fprivate%2Finicio.jsf%3Bjsessionid%3DcuBPys36oSZ4o2OiCYsYlyfU",
+                                "https://reitoria.ifpr.edu.br/ifpr-contra-covid-19/",
+                                "https://palmas.ifpr.edu.br/covid-19/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_publicacao_legado=&id_documento=1454555&id_orgao_publicacao=0",
+                                "https://palmas.ifpr.edu.br/about/menu-institucional/gestao-de-pessoas/cartilha-do-servidor/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/comites-e-comissoes/cispcctae/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-geral/portarias-palmas/",
+                            "https://palmas.ifpr.edu.br/tag/secretaria-academica/",
+                            "https://palmas.ifpr.edu.br/about/servicos/relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "campo"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/",
+                        "https://reitoria.ifpr.edu.br/servicos/biblioteca/base-de-dados/",
+                        "https://palmas.ifpr.edu.br/wp-content/uploads/2014/07/Cartilha-do-Servidor.pdf",
+                        "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                        "https://palmas.ifpr.edu.br/wp-content/uploads/2022/07/Organograma.pdf",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://palmas.ifpr.edu.br/wp-content/uploads/2021/08/Tutorial-Primeiro-Acesso-ao-Portal-Sagres.pdf",
+                        "https://sagres.ifpr.edu.br/PortalSagres/Acesso.aspx"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "dados"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-geral/portarias-palmas/",
+                            "https://palmas.ifpr.edu.br/tag/secretaria-academica/",
+                            "https://palmas.ifpr.edu.br/about/servicos/relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                "dados",
+                                ".pdf",
+                                ".asp"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id",
+                                "ind",
+                                "asp"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://palmas.ifpr.edu.br/about/servicos/npj-nucleo-de-pratica-juridica/",
+                                "https://reitoria.ifpr.edu.br/ouvidoria/",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/comites-e-comissoes/cope/",
+                                "https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php",
+                                "https://palmas.ifpr.edu.br/2022/12/01/2-encontro-dos-nucleos-de-estudos-afro-brasileiros-e-indigenas-neabi-do-ifpr-iniciou-ontem-30/",
+                                "https://palmas.ifpr.edu.br/wp-content/uploads/2021/08/Tutorial-Primeiro-Acesso-ao-Portal-Sagres.pdf",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=424554&id_orgao_publicacao=0",
+                                "https://www.youtube.com/watch?v=iTwG9YD3OpA&list=PLIftlZYQI1MFVw6EUwtqPe4rT6NUiXi1s&index=2",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/nit/o-que-e/",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/comites-e-comissoes/scppd-sub-comissao-permanente-de-pessoal-docente/",
+                                "https://www.youtube.com/watch?v=TeAg8kccYn4&list=PLIftlZYQI1MFVw6EUwtqPe4rT6NUiXi1s&index=1",
+                                "https://palmas.ifpr.edu.br/wp-content/uploads/2014/07/Cartilha-do-Servidor.pdf",
+                                "https://reitoria.ifpr.edu.br/servidor/",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/nit/quem-somos/",
+                                "https://sagres.ifpr.edu.br/PortalSagres/Acesso.aspx",
+                                "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-administrativa/servidores-terceirizados/",
+                                "https://palmas.ifpr.edu.br/about/servicos/achados-e-perdidos/",
+                                "https://palmas.ifpr.edu.br/wp-content/uploads/2022/07/Organograma.pdf",
+                                "https://coronelvivida.ifpr.edu.br",
+                                "https://sso.gestaodeacesso.planejamento.gov.br/cassso/login?service=https%3A%2F%2Fservidor.sigepe.planejamento.gov.br%2FSIGEPE-PortalServidor%2Fprivate%2Finicio.jsf%3Bjsessionid%3DcuBPys36oSZ4o2OiCYsYlyfU",
+                                "https://reitoria.ifpr.edu.br/ifpr-contra-covid-19/",
+                                "https://palmas.ifpr.edu.br/covid-19/",
+                                "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_publicacao_legado=&id_documento=1454555&id_orgao_publicacao=0",
+                                "https://palmas.ifpr.edu.br/about/menu-institucional/gestao-de-pessoas/cartilha-do-servidor/",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://palmas.ifpr.edu.br/about/menu-do-servidor/comites-e-comissoes/cispcctae/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-geral/portarias-palmas/",
+                            "https://palmas.ifpr.edu.br/tag/secretaria-academica/",
+                            "https://palmas.ifpr.edu.br/about/servicos/relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://palmas.ifpr.edu.br/about/menu-institucional/direcao-geral/direcao-geral/portarias-palmas/",
+                            "https://palmas.ifpr.edu.br/tag/secretaria-academica/",
+                            "https://palmas.ifpr.edu.br/about/servicos/relacoes-comunitarias/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": true,
+                        "tokensPaginaAPI": [
+                            "manual"
+                        ],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "qualidade",
+                        "sugestoes"
+                    ],
+                    "emails": []
+                }
+            }
+        }
+    }
+}

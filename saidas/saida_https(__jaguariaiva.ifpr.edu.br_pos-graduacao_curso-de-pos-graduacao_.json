@@ -1,0 +1,382 @@
+{
+    "urlPaginaPrincipal": "https://jaguariaiva.ifpr.edu.br/pos-graduacao/curso-de-pos-graduacao/",
+    "dataAvaliacao": "13/12/2022",
+    "principiosGovernanca": {
+        "completos": {
+            "regras": {
+                "informacoesSobreMetadados": {
+                    "found": true,
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/documentos-da-biblioteca/",
+                        "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2019/12/Cronograma-apresenta\u00e7\u00e3o-TCC.pdf",
+                        "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2018/11/Especializa\u00e7\u00e3o-Educa\u00e7\u00e3o-e-Tecnologia-Projeto-Pedag\u00f3gico-de-Curso.pdf",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/servicos-da-biblioteca/",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/normalizacao/",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/catalogo-online/",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/"
+                    ]
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "felipe.araujo@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "primarios": {
+            "regras": {
+                "informacoesSobreProcedenciaDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreQualidadeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "felipe.araujo@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "atuais": {
+            "regras": {
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jaguariaiva.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-2018/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portarias-2016/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "facilidadeAcessoFisicoOuEletronico": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jaguariaiva.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-2018/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portarias-2016/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "processaveisPorMaquina": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2019/12/Cronograma-apresenta\u00e7\u00e3o-TCC.pdf",
+                                "https://jaguariaiva.ifpr.edu.br/?page_id=2265",
+                                "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2018/11/Especializa\u00e7\u00e3o-Educa\u00e7\u00e3o-e-Tecnologia-Projeto-Pedag\u00f3gico-de-Curso.pdf",
+                                "https://jaguariaiva.ifpr.edu.br/?page_id=6982",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://jaguariaiva.ifpr.edu.br/institucional/ifpr-campus-jaguariaiva/napne-nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "naoDiscriminatorio": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jaguariaiva.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-2018/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portarias-2016/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreMetadados": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "recursos"
+                    ],
+                    "presencaURLsArquivosMetadadosAnexos": true,
+                    "URLsArquivosMetadadosAnexos": [
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/documentos-da-biblioteca/",
+                        "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2019/12/Cronograma-apresenta\u00e7\u00e3o-TCC.pdf",
+                        "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2018/11/Especializa\u00e7\u00e3o-Educa\u00e7\u00e3o-e-Tecnologia-Projeto-Pedag\u00f3gico-de-Curso.pdf",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/servicos-da-biblioteca/",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/normalizacao/",
+                        "https://reitoria.ifpr.edu.br/sistemas/",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/catalogo-online/",
+                        "https://jaguariaiva.ifpr.edu.br/academico/biblioteca/"
+                    ],
+                    "found": true
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "felipe.araujo@ifpr.edu.br"
+                    ]
+                }
+            }
+        },
+        "formatosDePropriedadeComumOuAberto": {
+            "regras": {
+                "informacoesSobreFormatosDeDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jaguariaiva.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-2018/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portarias-2016/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                }
+            }
+        },
+        "licencasLivres": {
+            "regras": {
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreLicenca": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "permanencia": {
+            "regras": {
+                "informacoesSobreIdentificadoresDeDados": {
+                    "presencaDeURLsPersistentes": {
+                        "URLsSubdominiosAdmSeparadosPrincipal": true,
+                        "indicativosURLsConjDados": {
+                            "presencaTokensURL": true,
+                            "tokensURL": [
+                                ".pdf"
+                            ],
+                            "presencaFormatosDados": true,
+                            "formatosDados": [
+                                "pdf",
+                                "id"
+                            ],
+                            "urlsComFormatoDados": [
+                                "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2019/12/Cronograma-apresenta\u00e7\u00e3o-TCC.pdf",
+                                "https://jaguariaiva.ifpr.edu.br/?page_id=2265",
+                                "https://jaguariaiva.ifpr.edu.br/wp-content/uploads/2018/11/Especializa\u00e7\u00e3o-Educa\u00e7\u00e3o-e-Tecnologia-Projeto-Pedag\u00f3gico-de-Curso.pdf",
+                                "https://jaguariaiva.ifpr.edu.br/?page_id=6982",
+                                "https://sei.ifpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0",
+                                "https://jaguariaiva.ifpr.edu.br/institucional/ifpr-campus-jaguariaiva/napne-nucleo-de-atendimento-as-pessoas-com-necessidades-educacionais-especificas/"
+                            ]
+                        }
+                    }
+                },
+                "informacoesSobrePreservacaoDosDados": {
+                    "referenciamentoURL": false,
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jaguariaiva.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-2018/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portarias-2016/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreRepublicacaoDosDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                },
+                "informacoesSobreVersionamentoDados": {
+                    "presencaTokens": false,
+                    "tokens": []
+                }
+            }
+        },
+        "custosDeUtilizacao": {
+            "regras": {
+                "informacoesSobreGarantirAcessoAosDados": {
+                    "found": true,
+                    "download": {
+                        "extensoesUrlsVolumeDados": true,
+                        "urlsVolumeDados": [
+                            "https://jaguariaiva.ifpr.edu.br/academico/secretaria-academica/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-2018/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portarias-2016/",
+                            "https://jaguariaiva.ifpr.edu.br/regulamentos/portarias/portaria-1/"
+                        ],
+                        "presencaTokensUrlsDadosAtualizados": false,
+                        "tokensUrlsDadosAtualizados": []
+                    },
+                    "APIs": {
+                        "presencaTokensPaginaAPI": false,
+                        "tokensPaginaAPI": [],
+                        "URLsDadosIndisponiveis": false,
+                        "presencaTokensURLsDoc": false,
+                        "tokensURLsDoc": []
+                    }
+                },
+                "informacoesSobreFeedback": {
+                    "presencaTokens": true,
+                    "tokens": [
+                        "contato",
+                        "compartilhe",
+                        "fale",
+                        "entre"
+                    ],
+                    "emails": [
+                        "felipe.araujo@ifpr.edu.br"
+                    ]
+                }
+            }
+        }
+    }
+}
